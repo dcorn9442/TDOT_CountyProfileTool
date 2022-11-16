@@ -1,0 +1,1929 @@
+State,Trade_Type,Domestic_Mode,Unit,Year,Units_Within,Units_In,Units_Out
+Alabama,Domestic Only,Air (include truck-air),thousand tons,2012,0.1573,21.221105,12.296999
+Alabama,Domestic Only,Multiple modes & mail,thousand tons,2012,925.07847,3326.600244,5643.30647
+Alabama,Domestic Only,Pipeline,thousand tons,2012,7134.2903,71176.179,60657.1928
+Alabama,Domestic Only,Rail,thousand tons,2012,5650.9338,26970.9246,14655.2079
+Alabama,Domestic Only,Truck,thousand tons,2012,166010.7109,46016.43373,49363.36327
+Alabama,Domestic Only,Water,thousand tons,2012,5.2137,7526.4937,682.5207
+Alabama,Export,Air (include truck-air),thousand tons,2012,0.044418,22.206513,14.916028
+Alabama,Export,Multiple modes & mail,thousand tons,2012,54.791221,199.33718,243.391096
+Alabama,Export,Other and unknown,thousand tons,2012,0,0,1.5411
+Alabama,Export,Pipeline,thousand tons,2012,154.2284,0,0
+Alabama,Export,Rail,thousand tons,2012,610.2565,1406.0598,1190.071615
+Alabama,Export,Truck,thousand tons,2012,15908.60748,1213.908146,2201.277412
+Alabama,Export,Water,thousand tons,2012,17.37144,330.938411,19.194729
+Alabama,Import,Air (include truck-air),thousand tons,2012,1.890919,22.596463,14.992679
+Alabama,Import,Multiple modes & mail,thousand tons,2012,172.971813,639.131287,713.062729
+Alabama,Import,No domestic mode,thousand tons,2012,317.3841,0,0
+Alabama,Import,Other and unknown,thousand tons,2012,2.06473,2.5038,61.5037
+Alabama,Import,Pipeline,thousand tons,2012,5.5322,0,0
+Alabama,Import,Rail,thousand tons,2012,2294.496135,1967.312194,1098.306954
+Alabama,Import,Truck,thousand tons,2012,5393.668914,956.673133,1888.834695
+Alabama,Import,Water,thousand tons,2012,19.003952,82.117745,750.285428
+Alaska,Domestic Only,Air (include truck-air),thousand tons,2012,96.6175,68.049501,14.7422
+Alaska,Domestic Only,Multiple modes & mail,thousand tons,2012,112.2182,1054.607329,386.4098
+Alaska,Domestic Only,Pipeline,thousand tons,2012,26374.6929,0,0
+Alaska,Domestic Only,Rail,thousand tons,2012,3098.591,0,0
+Alaska,Domestic Only,Truck,thousand tons,2012,19616.46241,0,0
+Alaska,Domestic Only,Water,thousand tons,2012,835.644255,745.0246,25260.7894
+Alaska,Export,Air (include truck-air),thousand tons,2012,3.2515,83.024552,0.371806
+Alaska,Export,Multiple modes & mail,thousand tons,2012,5.1548,108.819847,180.100693
+Alaska,Export,Other and unknown,thousand tons,2012,0.024,0,0.0025
+Alaska,Export,Pipeline,thousand tons,2012,211.4534,0,0
+Alaska,Export,Rail,thousand tons,2012,887.82,0,0.048394
+Alaska,Export,Truck,thousand tons,2012,1606.5969,0,0
+Alaska,Export,Water,thousand tons,2012,1542.0032,107.068902,0.000003
+Alaska,Import,Air (include truck-air),thousand tons,2012,0.664453,0.760501,58.707303
+Alaska,Import,Multiple modes & mail,thousand tons,2012,12.3034,120.007361,6.972558
+Alaska,Import,Other and unknown,thousand tons,2012,1.3411,0.4722,9.5966
+Alaska,Import,Pipeline,thousand tons,2012,527.0336,0,0
+Alaska,Import,Rail,thousand tons,2012,148.073,0,0
+Alaska,Import,Truck,thousand tons,2012,541.79478,0,0
+Alaska,Import,Water,thousand tons,2012,414.1928,0.00056,4.9546
+Arizona,Domestic Only,Air (include truck-air),thousand tons,2012,0,34.630302,29.407102
+Arizona,Domestic Only,Multiple modes & mail,thousand tons,2012,220.9931,2534.802074,485.467183
+Arizona,Domestic Only,Pipeline,thousand tons,2012,1.3413,24978.4952,17731.5154
+Arizona,Domestic Only,Rail,thousand tons,2012,7967.2663,12506.699,895.8251
+Arizona,Domestic Only,Truck,thousand tons,2012,116069.1077,20254.61218,14141.46182
+Arizona,Export,Air (include truck-air),thousand tons,2012,1.058989,0.943448,34.79238
+Arizona,Export,Multiple modes & mail,thousand tons,2012,0,5.4369,384.975136
+Arizona,Export,Other and unknown,thousand tons,2012,6.490375,4.0862,3.1349
+Arizona,Export,Pipeline,thousand tons,2012,488.8601,564.29496,1183.3111
+Arizona,Export,Rail,thousand tons,2012,4186.998261,566.20822,75.160287
+Arizona,Export,Truck,thousand tons,2012,3685.189756,1295.553972,1062.909113
+Arizona,Import,Air (include truck-air),thousand tons,2012,1.120746,30.410095,1.0924
+Arizona,Import,Multiple modes & mail,thousand tons,2012,0.122604,469.872627,0.000357
+Arizona,Import,Other and unknown,thousand tons,2012,18.0184,8.3728,22.6085
+Arizona,Import,Pipeline,thousand tons,2012,0,25.967777,0
+Arizona,Import,Rail,thousand tons,2012,329.5505,494.488049,890.9463
+Arizona,Import,Truck,thousand tons,2012,2700.175008,952.202388,1349.622457
+Arkansas,Domestic Only,Air (include truck-air),thousand tons,2012,0,9.345002,5.1899
+Arkansas,Domestic Only,Multiple modes & mail,thousand tons,2012,3113.6866,1726.637444,4437.53134
+Arkansas,Domestic Only,Pipeline,thousand tons,2012,21236.5684,32616.3468,48329.4009
+Arkansas,Domestic Only,Rail,thousand tons,2012,4125.3542,19495.9191,8324.0181
+Arkansas,Domestic Only,Truck,thousand tons,2012,118852.855,37387.47266,32849.24323
+Arkansas,Domestic Only,Water,thousand tons,2012,761.9066,3062.5701,163.3808
+Arkansas,Export,Air (include truck-air),thousand tons,2012,0,0.0201,12.164871
+Arkansas,Export,Multiple modes & mail,thousand tons,2012,0,0,619.41772
+Arkansas,Export,Other and unknown,thousand tons,2012,32.6842,0,5.6212
+Arkansas,Export,Rail,thousand tons,2012,0,0,1146.882242
+Arkansas,Export,Truck,thousand tons,2012,0.1673,0,1202.689861
+Arkansas,Export,Water,thousand tons,2012,0,0,2.561419
+Arkansas,Import,Air (include truck-air),thousand tons,2012,0,8.050955,0.0507
+Arkansas,Import,Multiple modes & mail,thousand tons,2012,0,262.121495,0
+Arkansas,Import,Other and unknown,thousand tons,2012,54.4446,91.329,0
+Arkansas,Import,Pipeline,thousand tons,2012,0,42.0676,0
+Arkansas,Import,Rail,thousand tons,2012,0,616.945144,0
+Arkansas,Import,Truck,thousand tons,2012,0.2575,785.858112,0
+Arkansas,Import,Water,thousand tons,2012,0,275.045226,0
+California,Domestic Only,Air (include truck-air),thousand tons,2012,8.9699,164.350306,215.476105
+California,Domestic Only,Multiple modes & mail,thousand tons,2012,5258.75214,17061.43339,8557.209252
+California,Domestic Only,Pipeline,thousand tons,2012,87095.7229,43648.7782,4976.2661
+California,Domestic Only,Rail,thousand tons,2012,11199.2511,37722.1133,10962.3837
+California,Domestic Only,Truck,thousand tons,2012,742073.5711,58042.42995,65096.63653
+California,Domestic Only,Water,thousand tons,2012,10805.4177,17638.4785,190.7937
+California,Export,Air (include truck-air),thousand tons,2012,108.841438,120.705273,153.160249
+California,Export,Multiple modes & mail,thousand tons,2012,730.586052,12286.10677,477.837979
+California,Export,Other and unknown,thousand tons,2012,23.6417,45.739236,72.8025
+California,Export,Pipeline,thousand tons,2012,1612.841192,3689.714635,0.0923
+California,Export,Rail,thousand tons,2012,1104.181784,5594.755308,1235.057879
+California,Export,Truck,thousand tons,2012,40026.93227,12022.48135,6103.226296
+California,Export,Water,thousand tons,2012,2431.586719,64.261014,79.949188
+California,Import,Air (include truck-air),thousand tons,2012,89.588861,217.668564,144.147371
+California,Import,Multiple modes & mail,thousand tons,2012,1950.665711,4014.477626,18364.13927
+California,Import,No domestic mode,thousand tons,2012,37053.544,0,0
+California,Import,Other and unknown,thousand tons,2012,554.6695,52.7339,62.7962
+California,Import,Pipeline,thousand tons,2012,5539.253301,167.01193,717.930672
+California,Import,Rail,thousand tons,2012,490.35967,7332.59527,1518.137466
+California,Import,Truck,thousand tons,2012,41300.33984,4843.366198,2603.648572
+California,Import,Water,thousand tons,2012,8067.948209,26.506008,12.503736
+Colorado,Domestic Only,Air (include truck-air),thousand tons,2012,0,27.898902,37.8157
+Colorado,Domestic Only,Multiple modes & mail,thousand tons,2012,3173.0057,2891.06258,2796.538878
+Colorado,Domestic Only,Pipeline,thousand tons,2012,29504.322,35590.1643,60167.6862
+Colorado,Domestic Only,Rail,thousand tons,2012,15114.862,26545.8805,15712.5339
+Colorado,Domestic Only,Truck,thousand tons,2012,146119.1473,19313.51076,26801.17424
+Colorado,Export,Air (include truck-air),thousand tons,2012,0.447243,2.38,26.582991
+Colorado,Export,Multiple modes & mail,thousand tons,2012,0,0,261.469893
+Colorado,Export,Other and unknown,thousand tons,2012,0.042,0,1.701077
+Colorado,Export,Pipeline,thousand tons,2012,0,0,23.115765
+Colorado,Export,Rail,thousand tons,2012,0,0,734.856537
+Colorado,Export,Truck,thousand tons,2012,5.953155,0,799.434717
+Colorado,Import,Air (include truck-air),thousand tons,2012,0.819022,24.983171,3.4372
+Colorado,Import,Multiple modes & mail,thousand tons,2012,0.0001,599.248138,0
+Colorado,Import,Other and unknown,thousand tons,2012,8.2388,3.8695,0.7953
+Colorado,Import,Pipeline,thousand tons,2012,0,932.0683,0
+Colorado,Import,Rail,thousand tons,2012,0,857.68319,0
+Colorado,Import,Truck,thousand tons,2012,10.651878,499.966267,0.0025
+Connecticut,Domestic Only,Air (include truck-air),thousand tons,2012,0,14.653702,15.318104
+Connecticut,Domestic Only,Multiple modes & mail,thousand tons,2012,597.9903,2533.239801,1128.692734
+Connecticut,Domestic Only,Pipeline,thousand tons,2012,72.7907,11505.5568,7225.5952
+Connecticut,Domestic Only,Rail,thousand tons,2012,604.5947,810.6698,2560.156215
+Connecticut,Domestic Only,Truck,thousand tons,2012,67899.90332,23676.39363,34836.04149
+Connecticut,Domestic Only,Water,thousand tons,2012,27.792,604.7738,121.951
+Connecticut,Export,Air (include truck-air),thousand tons,2012,0.6461,0.0917,51.177899
+Connecticut,Export,Multiple modes & mail,thousand tons,2012,0,0,89.031619
+Connecticut,Export,Other and unknown,thousand tons,2012,0.2234,0.0017,2.2575
+Connecticut,Export,Pipeline,thousand tons,2012,0,0,38.93581
+Connecticut,Export,Rail,thousand tons,2012,0,0,949.65665
+Connecticut,Export,Truck,thousand tons,2012,0.3712,0,832.356214
+Connecticut,Export,Water,thousand tons,2012,676.8546,0,249.544718
+Connecticut,Import,Air (include truck-air),thousand tons,2012,0.4653,41.494482,0.3755
+Connecticut,Import,Multiple modes & mail,thousand tons,2012,0.2419,228.075578,2.0069
+Connecticut,Import,Other and unknown,thousand tons,2012,0.1867,385.6603,0.1084
+Connecticut,Import,Pipeline,thousand tons,2012,2.3581,1808.3012,0
+Connecticut,Import,Rail,thousand tons,2012,0,531.394986,39.7135
+Connecticut,Import,Truck,thousand tons,2012,3300.9591,1997.291899,112.3286
+Connecticut,Import,Water,thousand tons,2012,49.481141,902.697448,193.416853
+Delaware,Domestic Only,Air (include truck-air),thousand tons,2012,0,97.084601,4.1988
+Delaware,Domestic Only,Multiple modes & mail,thousand tons,2012,347.1239,432.781598,326.0961
+Delaware,Domestic Only,Pipeline,thousand tons,2012,1.2668,1578.6152,75.4809
+Delaware,Domestic Only,Rail,thousand tons,2012,0,1444.1583,501.7896
+Delaware,Domestic Only,Truck,thousand tons,2012,27708.7273,15941.4921,8225.566726
+Delaware,Domestic Only,Water,thousand tons,2012,0,450.7572,0
+Delaware,Export,Air (include truck-air),thousand tons,2012,0.000817,2.747847,11.529124
+Delaware,Export,Multiple modes & mail,thousand tons,2012,78.864025,30.963725,41.439615
+Delaware,Export,Other and unknown,thousand tons,2012,4.8892,0.0031,5.1059
+Delaware,Export,Rail,thousand tons,2012,79.1853,121.1506,67.5959
+Delaware,Export,Truck,thousand tons,2012,392.735992,143.755535,475.68068
+Delaware,Export,Water,thousand tons,2012,662.549589,95.244786,84.155087
+Delaware,Import,Air (include truck-air),thousand tons,2012,0,6.816568,0.0011
+Delaware,Import,Multiple modes & mail,thousand tons,2012,0.1471,76.756993,38.160699
+Delaware,Import,No domestic mode,thousand tons,2012,5843.1847,0,0
+Delaware,Import,Other and unknown,thousand tons,2012,0.3481,0.8498,4.3199
+Delaware,Import,Pipeline,thousand tons,2012,0,115.922,0
+Delaware,Import,Rail,thousand tons,2012,164.6321,266.014502,240.6163
+Delaware,Import,Truck,thousand tons,2012,3541.3119,445.288944,244.264598
+Delaware,Import,Water,thousand tons,2012,1419.0254,505.912001,478.367404
+Florida,Domestic Only,Air (include truck-air),thousand tons,2012,2.73621,66.558705,61.527002
+Florida,Domestic Only,Multiple modes & mail,thousand tons,2012,2921.296868,7911.685556,4634.328046
+Florida,Domestic Only,Pipeline,thousand tons,2012,1865.4304,24116.2402,0
+Florida,Domestic Only,Rail,thousand tons,2012,14807.8762,26739.8993,6012.1845
+Florida,Domestic Only,Truck,thousand tons,2012,464254.435,44698.54359,34588.3771
+Florida,Domestic Only,Water,thousand tons,2012,145.662,14315.631,648.678
+Florida,Export,Air (include truck-air),thousand tons,2012,3.947392,273.860203,50.425425
+Florida,Export,Multiple modes & mail,thousand tons,2012,272.488095,878.576929,300.083497
+Florida,Export,Other and unknown,thousand tons,2012,28.5684,7.5669,5.7035
+Florida,Export,Pipeline,thousand tons,2012,16.6836,0,0
+Florida,Export,Rail,thousand tons,2012,160.1194,364.751632,1276.020158
+Florida,Export,Truck,thousand tons,2012,13733.93321,2605.055476,2989.745308
+Florida,Export,Water,thousand tons,2012,1316.42201,108.176012,324.483134
+Florida,Import,Air (include truck-air),thousand tons,2012,11.463322,56.672475,149.399747
+Florida,Import,Multiple modes & mail,thousand tons,2012,237.212072,2038.765181,1466.702898
+Florida,Import,Other and unknown,thousand tons,2012,264.5397,14.807745,25.3293
+Florida,Import,Pipeline,thousand tons,2012,521.4753,78.4641,0
+Florida,Import,Rail,thousand tons,2012,218.8872,3096.540441,827.074642
+Florida,Import,Truck,thousand tons,2012,21594.33546,5185.247533,1322.863108
+Florida,Import,Water,thousand tons,2012,3644.759713,3050.937011,447.841894
+Georgia,Domestic Only,Air (include truck-air),thousand tons,2012,0.2287,38.343102,52.6051
+Georgia,Domestic Only,Multiple modes & mail,thousand tons,2012,554.84487,5385.135178,7324.529054
+Georgia,Domestic Only,Pipeline,thousand tons,2012,173.8638,32822.2382,21345.2063
+Georgia,Domestic Only,Rail,thousand tons,2012,5372.8881,39025.9062,15938.828
+Georgia,Domestic Only,Truck,thousand tons,2012,239915.5587,68418.09261,67807.30087
+Georgia,Domestic Only,Water,thousand tons,2012,1821.5312,793.3927,0
+Georgia,Export,Air (include truck-air),thousand tons,2012,0.006987,127.665796,63.003623
+Georgia,Export,Multiple modes & mail,thousand tons,2012,1243.670656,939.674407,366.501715
+Georgia,Export,Other and unknown,thousand tons,2012,62.7628,6.4464,4.983293
+Georgia,Export,Pipeline,thousand tons,2012,93.2875,0,0
+Georgia,Export,Rail,thousand tons,2012,455.4559,1173.048766,1507.628452
+Georgia,Export,Truck,thousand tons,2012,10569.51356,4842.611239,3722.516605
+Georgia,Export,Water,thousand tons,2012,132.385106,137.055108,27.537999
+Georgia,Import,Air (include truck-air),thousand tons,2012,1.797074,40.590597,133.596012
+Georgia,Import,Multiple modes & mail,thousand tons,2012,1402.804729,1684.708793,1854.687635
+Georgia,Import,Other and unknown,thousand tons,2012,118.324315,14.547827,85.9735
+Georgia,Import,Pipeline,thousand tons,2012,20.4325,0.0536,1341.4683
+Georgia,Import,Rail,thousand tons,2012,183.7964,1335.273813,945.913093
+Georgia,Import,Truck,thousand tons,2012,9952.529834,4253.033397,2639.151659
+Georgia,Import,Water,thousand tons,2012,575.935633,829.262906,240.118171
+Hawaii,Domestic Only,Air (include truck-air),thousand tons,2012,48.7507,95.9504,31.019
+Hawaii,Domestic Only,Multiple modes & mail,thousand tons,2012,547.0436,1485.0296,1034.5626
+Hawaii,Domestic Only,Pipeline,thousand tons,2012,9061.9607,0,0
+Hawaii,Domestic Only,Truck,thousand tons,2012,24240.82452,0,0
+Hawaii,Domestic Only,Water,thousand tons,2012,318.7257,1724.3222,0
+Hawaii,Export,Air (include truck-air),thousand tons,2012,0.679603,20.36615,1.267247
+Hawaii,Export,Multiple modes & mail,thousand tons,2012,143.874752,3.0841,22.518009
+Hawaii,Export,Other and unknown,thousand tons,2012,0.6056,275.3598,0
+Hawaii,Export,Pipeline,thousand tons,2012,54.3832,0,0
+Hawaii,Export,Truck,thousand tons,2012,242.7111,0,0
+Hawaii,Export,Water,thousand tons,2012,50.588245,2.504501,0.050492
+Hawaii,Import,Air (include truck-air),thousand tons,2012,0.040854,1.447801,0.330558
+Hawaii,Import,Multiple modes & mail,thousand tons,2012,28.543338,29.597686,21.8603
+Hawaii,Import,No domestic mode,thousand tons,2012,6081.6046,0,0
+Hawaii,Import,Other and unknown,thousand tons,2012,5.0169,12.8598,0
+Hawaii,Import,Pipeline,thousand tons,2012,115.943036,0,0
+Hawaii,Import,Truck,thousand tons,2012,760.930448,0,0
+Hawaii,Import,Water,thousand tons,2012,988.886749,0.000013,0.160982
+Idaho,Domestic Only,Air (include truck-air),thousand tons,2012,0,5.825904,4.166801
+Idaho,Domestic Only,Multiple modes & mail,thousand tons,2012,1326.7553,1471.168159,1498.8317
+Idaho,Domestic Only,Pipeline,thousand tons,2012,4.8247,2352.4614,12499.3253
+Idaho,Domestic Only,Rail,thousand tons,2012,1074.8862,3727.2285,6510.2121
+Idaho,Domestic Only,Truck,thousand tons,2012,59879.78204,18075.05561,15878.12817
+Idaho,Export,Air (include truck-air),thousand tons,2012,0.0137,0.3187,7.278493
+Idaho,Export,Multiple modes & mail,thousand tons,2012,0,0,89.394401
+Idaho,Export,Other and unknown,thousand tons,2012,0.0034,0.0881,18.714
+Idaho,Export,Rail,thousand tons,2012,0,0,660.506026
+Idaho,Export,Truck,thousand tons,2012,0.0073,0,1179.115951
+Idaho,Export,Water,thousand tons,2012,0,0,0.002202
+Idaho,Import,Air (include truck-air),thousand tons,2012,0.0064,6.337101,0.003818
+Idaho,Import,Multiple modes & mail,thousand tons,2012,0,82.294238,0.3376
+Idaho,Import,Other and unknown,thousand tons,2012,0,0.1099,0.1134
+Idaho,Import,Pipeline,thousand tons,2012,12232.8093,0,2197.1206
+Idaho,Import,Rail,thousand tons,2012,1139.8623,302.810416,4537.656474
+Idaho,Import,Truck,thousand tons,2012,67.4737,416.702815,728.188521
+Idaho,Import,Water,thousand tons,2012,0,0.000015,0
+Illinois,Domestic Only,Air (include truck-air),thousand tons,2012,0.377001,48.141201,100.117709
+Illinois,Domestic Only,Multiple modes & mail,thousand tons,2012,7613.134539,8453.756357,15110.24712
+Illinois,Domestic Only,Pipeline,thousand tons,2012,27185.9259,91663.6471,67257.8009
+Illinois,Domestic Only,Rail,thousand tons,2012,38522.3828,98994.8617,64875.8601
+Illinois,Domestic Only,Truck,thousand tons,2012,393824.4902,120839.4325,114591.1121
+Illinois,Domestic Only,Water,thousand tons,2012,3874.9304,3552.8651,14389.7856
+Illinois,Export,Air (include truck-air),thousand tons,2012,0.127,362.134765,108.931658
+Illinois,Export,Multiple modes & mail,thousand tons,2012,0.024705,1.958588,10119.70451
+Illinois,Export,Other and unknown,thousand tons,2012,0.1054,13.4863,20.638
+Illinois,Export,Pipeline,thousand tons,2012,0.025961,0,3710.119939
+Illinois,Export,Rail,thousand tons,2012,0.020152,8.463707,9853.176036
+Illinois,Export,Truck,thousand tons,2012,178.898456,28.471379,10420.89041
+Illinois,Export,Water,thousand tons,2012,28.150397,115.219877,116.284714
+Illinois,Import,Air (include truck-air),thousand tons,2012,6.884198,40.165531,375.69286
+Illinois,Import,Multiple modes & mail,thousand tons,2012,73.318875,2772.198213,47.001537
+Illinois,Import,No domestic mode,thousand tons,2012,7685.1458,0,0
+Illinois,Import,Other and unknown,thousand tons,2012,51.626119,286.0334,28.407251
+Illinois,Import,Pipeline,thousand tons,2012,0.017228,30812.78094,0
+Illinois,Import,Rail,thousand tons,2012,154.767146,12570.99459,3043.184248
+Illinois,Import,Truck,thousand tons,2012,3069.570181,5881.828129,1013.339386
+Illinois,Import,Water,thousand tons,2012,2238.324422,99.491311,2107.003621
+Indiana,Domestic Only,Air (include truck-air),thousand tons,2012,0.2335,26.7215,24.277002
+Indiana,Domestic Only,Multiple modes & mail,thousand tons,2012,1205.740225,15901.99303,7014.84191
+Indiana,Domestic Only,Pipeline,thousand tons,2012,19022.7628,70718.1841,41295.5932
+Indiana,Domestic Only,Rail,thousand tons,2012,16433.9861,42040.7425,23907.7913
+Indiana,Domestic Only,Truck,thousand tons,2012,203029.2268,90748.26742,93060.50742
+Indiana,Domestic Only,Water,thousand tons,2012,2343.6371,8187.8743,7164.0692
+Indiana,Export,Air (include truck-air),thousand tons,2012,0.0305,2.181595,99.024747
+Indiana,Export,Multiple modes & mail,thousand tons,2012,17.741101,319.786506,804.359624
+Indiana,Export,Other and unknown,thousand tons,2012,4.0968,0.0103,7.8398
+Indiana,Export,Rail,thousand tons,2012,0,6.7515,1400.376843
+Indiana,Export,Truck,thousand tons,2012,1.575072,0.015,3456.535696
+Indiana,Export,Water,thousand tons,2012,0,54.411299,16.190033
+Indiana,Import,Air (include truck-air),thousand tons,2012,1.492076,63.772481,1.0005
+Indiana,Import,Multiple modes & mail,thousand tons,2012,0.099997,941.514174,257.1195
+Indiana,Import,Other and unknown,thousand tons,2012,3.893748,25.818608,0.0281
+Indiana,Import,Pipeline,thousand tons,2012,0,13200.3668,0
+Indiana,Import,Rail,thousand tons,2012,0.0019,5916.118955,0.1917
+Indiana,Import,Truck,thousand tons,2012,12.764502,3438.910393,0.2235
+Indiana,Import,Water,thousand tons,2012,0.0002,217.257509,638.2214
+Iowa,Domestic Only,Air (include truck-air),thousand tons,2012,0,35.5095,11.1042
+Iowa,Domestic Only,Multiple modes & mail,thousand tons,2012,736.5748,1473.54639,14076.42664
+Iowa,Domestic Only,Pipeline,thousand tons,2012,137.8194,41197.6479,35413.0778
+Iowa,Domestic Only,Rail,thousand tons,2012,7052.8755,41070.6567,29701.674
+Iowa,Domestic Only,Truck,thousand tons,2012,235714.1386,46937.04954,64948.69278
+Iowa,Domestic Only,Water,thousand tons,2012,483.887,180.77,2885.7754
+Iowa,Export,Air (include truck-air),thousand tons,2012,0.0014,0.0203,20.597017
+Iowa,Export,Multiple modes & mail,thousand tons,2012,0,0,769.336931
+Iowa,Export,Other and unknown,thousand tons,2012,0,0,1.207
+Iowa,Export,Rail,thousand tons,2012,0,0,4361.169757
+Iowa,Export,Truck,thousand tons,2012,0.0246,0,2065.809808
+Iowa,Export,Water,thousand tons,2012,0,0,44.932232
+Iowa,Import,Air (include truck-air),thousand tons,2012,0.0152,21.277899,0.1257
+Iowa,Import,Multiple modes & mail,thousand tons,2012,0.0098,347.406174,0
+Iowa,Import,Other and unknown,thousand tons,2012,0.1188,27.098525,0.0074
+Iowa,Import,Pipeline,thousand tons,2012,0,8263.193,0
+Iowa,Import,Rail,thousand tons,2012,0,2317.198378,0
+Iowa,Import,Truck,thousand tons,2012,0.2018,880.014293,0
+Iowa,Import,Water,thousand tons,2012,0,258.148684,0
+Kansas,Domestic Only,Air (include truck-air),thousand tons,2012,0.2358,21.4759,23.981402
+Kansas,Domestic Only,Multiple modes & mail,thousand tons,2012,77.90293,2056.698653,10931.61102
+Kansas,Domestic Only,Pipeline,thousand tons,2012,6365.5558,47100.9244,36673.1681
+Kansas,Domestic Only,Rail,thousand tons,2012,1188.6325,20878.4492,28456.0384
+Kansas,Domestic Only,Truck,thousand tons,2012,147943.7619,51105.93942,47617.89482
+Kansas,Domestic Only,Water,thousand tons,2012,0,0,9.2784
+Kansas,Export,Air (include truck-air),thousand tons,2012,0.2862,0.0895,15.863082
+Kansas,Export,Multiple modes & mail,thousand tons,2012,0,0,481.310915
+Kansas,Export,Other and unknown,thousand tons,2012,8.6177,0,3.3838
+Kansas,Export,Pipeline,thousand tons,2012,0,0,1.85918
+Kansas,Export,Rail,thousand tons,2012,0,0,5288.5619
+Kansas,Export,Truck,thousand tons,2012,0.1415,0,1527.638358
+Kansas,Export,Water,thousand tons,2012,0,0,0.002339
+Kansas,Import,Air (include truck-air),thousand tons,2012,0.2854,15.130744,0.0645
+Kansas,Import,Multiple modes & mail,thousand tons,2012,0,617.412471,0
+Kansas,Import,Other and unknown,thousand tons,2012,0.056,27.2663,0.0005
+Kansas,Import,Pipeline,thousand tons,2012,0,4535.2566,0
+Kansas,Import,Rail,thousand tons,2012,0,690.382172,0
+Kansas,Import,Truck,thousand tons,2012,0.4932,677.528473,0
+Kansas,Import,Water,thousand tons,2012,0,0.000067,0
+Kentucky,Domestic Only,Air (include truck-air),thousand tons,2012,0,15.227402,47.382
+Kentucky,Domestic Only,Multiple modes & mail,thousand tons,2012,450.649,5234.448534,8439.57171
+Kentucky,Domestic Only,Pipeline,thousand tons,2012,5174.9242,42821.8102,42944.2569
+Kentucky,Domestic Only,Rail,thousand tons,2012,7627.924,22826.4969,45678.5895
+Kentucky,Domestic Only,Truck,thousand tons,2012,126897.7357,59383.08619,52521.7876
+Kentucky,Domestic Only,Water,thousand tons,2012,25867.8976,9049.0131,33583.8418
+Kentucky,Export,Air (include truck-air),thousand tons,2012,4.361331,226.950642,47.285739
+Kentucky,Export,Multiple modes & mail,thousand tons,2012,0.0012,0.002031,504.336208
+Kentucky,Export,Other and unknown,thousand tons,2012,0.0086,0.0684,5.4401
+Kentucky,Export,Rail,thousand tons,2012,0,0,1560.215348
+Kentucky,Export,Truck,thousand tons,2012,4.698174,7.572469,2493.679116
+Kentucky,Export,Water,thousand tons,2012,0,0,1.085999
+Kentucky,Import,Air (include truck-air),thousand tons,2012,9.05827,46.120909,224.126534
+Kentucky,Import,Multiple modes & mail,thousand tons,2012,0.0272,1018.041545,0.000373
+Kentucky,Import,Other and unknown,thousand tons,2012,1.6143,43.4108,1.35
+Kentucky,Import,Pipeline,thousand tons,2012,0,3703.689,0
+Kentucky,Import,Rail,thousand tons,2012,0,1528.619128,0
+Kentucky,Import,Truck,thousand tons,2012,26.758439,1661.961841,12.44747
+Kentucky,Import,Water,thousand tons,2012,0,96.374991,0
+Louisiana,Domestic Only,Air (include truck-air),thousand tons,2012,0.0001,15.295003,7.4346
+Louisiana,Domestic Only,Multiple modes & mail,thousand tons,2012,3630.6727,12687.1113,6365.091767
+Louisiana,Domestic Only,Pipeline,thousand tons,2012,139256.5109,93430.4158,120135.0352
+Louisiana,Domestic Only,Rail,thousand tons,2012,4025.8984,27728.5126,36933.6694
+Louisiana,Domestic Only,Truck,thousand tons,2012,129229.1235,37477.23256,48297.55076
+Louisiana,Domestic Only,Water,thousand tons,2012,43899.0405,49168.4306,62596.7708
+Louisiana,Export,Air (include truck-air),thousand tons,2012,0.159968,2.229947,17.17764
+Louisiana,Export,Multiple modes & mail,thousand tons,2012,8798.984668,11747.20952,425.321417
+Louisiana,Export,Other and unknown,thousand tons,2012,0.314837,0.729919,1.6575
+Louisiana,Export,Pipeline,thousand tons,2012,9207.345216,0,1901.918992
+Louisiana,Export,Rail,thousand tons,2012,655.989228,11198.76405,2163.179418
+Louisiana,Export,Truck,thousand tons,2012,72355.0067,3376.390539,1862.578302
+Louisiana,Export,Water,thousand tons,2012,19347.27701,1053.595668,513.113482
+Louisiana,Import,Air (include truck-air),thousand tons,2012,0.109372,8.251972,0.363407
+Louisiana,Import,Multiple modes & mail,thousand tons,2012,566.555116,183.072027,1422.690737
+Louisiana,Import,No domestic mode,thousand tons,2012,42238.5591,0,0
+Louisiana,Import,Other and unknown,thousand tons,2012,70.472,2.3179,348.7325
+Louisiana,Import,Pipeline,thousand tons,2012,38532.77648,6679.4595,4103.9393
+Louisiana,Import,Rail,thousand tons,2012,452.140263,4580.345303,7608.500382
+Louisiana,Import,Truck,thousand tons,2012,14887.40174,345.430706,6449.877236
+Louisiana,Import,Water,thousand tons,2012,11080.35173,65.10615,4519.559445
+Maine,Domestic Only,Air (include truck-air),thousand tons,2012,0,15.632801,2.269502
+Maine,Domestic Only,Multiple modes & mail,thousand tons,2012,111.5617,376.74433,586.705133
+Maine,Domestic Only,Pipeline,thousand tons,2012,383.0186,855.9214,837.4796
+Maine,Domestic Only,Rail,thousand tons,2012,330,871.1536,916.5549
+Maine,Domestic Only,Truck,thousand tons,2012,48578.88858,8593.342983,15044.25019
+Maine,Domestic Only,Water,thousand tons,2012,6.83,0,0
+Maine,Export,Air (include truck-air),thousand tons,2012,0,1.581162,8.689314
+Maine,Export,Multiple modes & mail,thousand tons,2012,65.2669,21.7145,31.29613
+Maine,Export,Other and unknown,thousand tons,2012,8.779,0.6097,0.6026
+Maine,Export,Pipeline,thousand tons,2012,119.0833,38.2731,0
+Maine,Export,Rail,thousand tons,2012,327.4427,213.71225,78.7214
+Maine,Export,Truck,thousand tons,2012,1796.6019,762.350193,364.235757
+Maine,Export,Water,thousand tons,2012,62.2309,35.4484,108.994689
+Maine,Import,Air (include truck-air),thousand tons,2012,0,2.258888,0.067018
+Maine,Import,Multiple modes & mail,thousand tons,2012,34.803,38.997415,159.055443
+Maine,Import,Other and unknown,thousand tons,2012,2.7899,1.7686,0.5544
+Maine,Import,Pipeline,thousand tons,2012,1732.4601,1003.1601,0
+Maine,Import,Rail,thousand tons,2012,316.4096,477.39806,961.015044
+Maine,Import,Truck,thousand tons,2012,1936.0781,252.471675,2959.833643
+Maine,Import,Water,thousand tons,2012,179.8894,53.891384,2692.8112
+Maryland,Domestic Only,Air (include truck-air),thousand tons,2012,0,44.7643,19.091903
+Maryland,Domestic Only,Multiple modes & mail,thousand tons,2012,87.6921,1368.571879,2431.151392
+Maryland,Domestic Only,Pipeline,thousand tons,2012,22.4815,14971.193,11461.1099
+Maryland,Domestic Only,Rail,thousand tons,2012,811.426747,14303.792,3443.382396
+Maryland,Domestic Only,Truck,thousand tons,2012,92354.37551,38964.82335,36938.70241
+Maryland,Domestic Only,Water,thousand tons,2012,62.204,193.409,776.359
+Maryland,Export,Air (include truck-air),thousand tons,2012,0.026246,0.698801,35.947123
+Maryland,Export,Multiple modes & mail,thousand tons,2012,9.380306,660.434545,69.381774
+Maryland,Export,Other and unknown,thousand tons,2012,0.0026,0,1.8547
+Maryland,Export,Rail,thousand tons,2012,120.0252,13956.5786,1009.543962
+Maryland,Export,Truck,thousand tons,2012,2834.745577,6460.145871,990.036441
+Maryland,Export,Water,thousand tons,2012,1.947982,359.261413,109.939637
+Maryland,Import,Air (include truck-air),thousand tons,2012,0.020404,23.969887,0.613652
+Maryland,Import,Multiple modes & mail,thousand tons,2012,79.112252,124.130129,414.014087
+Maryland,Import,Other and unknown,thousand tons,2012,2.5288,11.787,15.4384
+Maryland,Import,Pipeline,thousand tons,2012,63.1508,0,0
+Maryland,Import,Rail,thousand tons,2012,739.2453,535.865088,982.734556
+Maryland,Import,Truck,thousand tons,2012,6534.299009,858.581273,4324.978663
+Maryland,Import,Water,thousand tons,2012,118.922026,24.804792,347.792409
+Massachusetts,Domestic Only,Air (include truck-air),thousand tons,2012,0,216.155004,99.577211
+Massachusetts,Domestic Only,Multiple modes & mail,thousand tons,2012,125.9937,1963.019449,813.515943
+Massachusetts,Domestic Only,Pipeline,thousand tons,2012,16.1994,8033.5123,1818.5257
+Massachusetts,Domestic Only,Rail,thousand tons,2012,281.8364,3967.8798,447.986771
+Massachusetts,Domestic Only,Truck,thousand tons,2012,107999.2564,41701.31697,30341.12928
+Massachusetts,Export,Air (include truck-air),thousand tons,2012,0.065579,12.668295,103.04839
+Massachusetts,Export,Multiple modes & mail,thousand tons,2012,8.022186,15.562245,89.237167
+Massachusetts,Export,Other and unknown,thousand tons,2012,0.3162,1.29,3.0859
+Massachusetts,Export,Rail,thousand tons,2012,2.9536,86.2622,131.508604
+Massachusetts,Export,Truck,thousand tons,2012,1437.020644,166.030279,1307.519569
+Massachusetts,Export,Water,thousand tons,2012,0.5983,9.640083,338.702181
+Massachusetts,Import,Air (include truck-air),thousand tons,2012,0.024676,48.938737,9.532247
+Massachusetts,Import,Multiple modes & mail,thousand tons,2012,13.462293,304.674856,74.773937
+Massachusetts,Import,Other and unknown,thousand tons,2012,1.6706,12.6089,1.5211
+Massachusetts,Import,Pipeline,thousand tons,2012,152.06779,537.4044,1808.3012
+Massachusetts,Import,Rail,thousand tons,2012,89.4117,1253.11466,630.8481
+Massachusetts,Import,Truck,thousand tons,2012,4744.954912,2784.933497,487.628022
+Massachusetts,Import,Water,thousand tons,2012,171.4692,417.795407,3071.805474
+Michigan,Domestic Only,Air (include truck-air),thousand tons,2012,0.0495,26.926699,100.154403
+Michigan,Domestic Only,Multiple modes & mail,thousand tons,2012,4791.3319,5377.450215,9433.114077
+Michigan,Domestic Only,Pipeline,thousand tons,2012,8675.4858,39860.2331,4417.2909
+Michigan,Domestic Only,Rail,thousand tons,2012,25097.6076,34323.5253,11082.3072
+Michigan,Domestic Only,Truck,thousand tons,2012,157482.6542,56136.31804,59543.38858
+Michigan,Domestic Only,Water,thousand tons,2012,7679.245,50.4074,21033.5665
+Michigan,Export,Air (include truck-air),thousand tons,2012,1.22622,129.392957,72.868731
+Michigan,Export,Multiple modes & mail,thousand tons,2012,443.105087,2093.847815,1542.142268
+Michigan,Export,Other and unknown,thousand tons,2012,109.1209,14.44,460.9725
+Michigan,Export,Pipeline,thousand tons,2012,1087.042972,20009.61674,3199.5304
+Michigan,Export,Rail,thousand tons,2012,1735.680706,12564.6751,1383.184717
+Michigan,Export,Truck,thousand tons,2012,6914.410127,22379.75554,2395.962243
+Michigan,Export,Water,thousand tons,2012,3290.734,833.81438,370.835803
+Michigan,Import,Air (include truck-air),thousand tons,2012,1.774499,83.014466,9.821087
+Michigan,Import,Multiple modes & mail,thousand tons,2012,858.083761,693.283267,650.03027
+Michigan,Import,Other and unknown,thousand tons,2012,37.3357,7.097291,72.6179
+Michigan,Import,Pipeline,thousand tons,2012,3731.0575,1792.934,7172.584954
+Michigan,Import,Rail,thousand tons,2012,3199.784082,4120.143536,14747.09292
+Michigan,Import,Truck,thousand tons,2012,10975.73231,3169.741907,12091.78299
+Michigan,Import,Water,thousand tons,2012,2365.053698,818.31043,122.14566
+Minnesota,Domestic Only,Air (include truck-air),thousand tons,2012,0,26.802303,26.953708
+Minnesota,Domestic Only,Multiple modes & mail,thousand tons,2012,309.8427,4234.660474,18112.88887
+Minnesota,Domestic Only,Pipeline,thousand tons,2012,200.3031,51445.7023,28831.8739
+Minnesota,Domestic Only,Rail,thousand tons,2012,10308.1152,35129.7406,60474.0759
+Minnesota,Domestic Only,Truck,thousand tons,2012,226151.6872,60807.51884,61094.94297
+Minnesota,Domestic Only,Water,thousand tons,2012,0,8978.6757,8621.388
+Minnesota,Export,Air (include truck-air),thousand tons,2012,0.030653,7.095697,83.552854
+Minnesota,Export,Multiple modes & mail,thousand tons,2012,0.000003,0.137346,800.376129
+Minnesota,Export,Other and unknown,thousand tons,2012,1.81776,0.7454,0.926844
+Minnesota,Export,Pipeline,thousand tons,2012,0,0,205.6297
+Minnesota,Export,Rail,thousand tons,2012,0,0,7990.677684
+Minnesota,Export,Truck,thousand tons,2012,7.145468,0.026601,2894.601554
+Minnesota,Export,Water,thousand tons,2012,0,0,706.69143
+Minnesota,Import,Air (include truck-air),thousand tons,2012,0.2596,27.882885,3.498726
+Minnesota,Import,Multiple modes & mail,thousand tons,2012,0,1953.039502,0
+Minnesota,Import,Other and unknown,thousand tons,2012,15.409774,2.60569,7.0341
+Minnesota,Import,Pipeline,thousand tons,2012,0,16936.0736,0
+Minnesota,Import,Rail,thousand tons,2012,0,5601.699732,0
+Minnesota,Import,Truck,thousand tons,2012,14.828635,1917.552922,0.0905
+Minnesota,Import,Water,thousand tons,2012,0,453.3243,0
+Mississippi,Domestic Only,Air (include truck-air),thousand tons,2012,0,21.0331,7.7946
+Mississippi,Domestic Only,Multiple modes & mail,thousand tons,2012,42.5362,2619.112836,2503.999575
+Mississippi,Domestic Only,Pipeline,thousand tons,2012,3965.9698,128303.9087,108005.6333
+Mississippi,Domestic Only,Rail,thousand tons,2012,760.664,10115.5508,5593.5411
+Mississippi,Domestic Only,Truck,thousand tons,2012,116889.2846,48836.15313,33793.20176
+Mississippi,Domestic Only,Water,thousand tons,2012,552.187,3258.0294,1067.2848
+Mississippi,Export,Air (include truck-air),thousand tons,2012,0,0.0065,11.772174
+Mississippi,Export,Multiple modes & mail,thousand tons,2012,4.013409,23.698853,171.503891
+Mississippi,Export,Other and unknown,thousand tons,2012,0,0,1.654
+Mississippi,Export,Pipeline,thousand tons,2012,11.6417,0.033,0
+Mississippi,Export,Rail,thousand tons,2012,326.125,65.180871,817.225321
+Mississippi,Export,Truck,thousand tons,2012,5037.1786,473.518827,1761.948664
+Mississippi,Export,Water,thousand tons,2012,389.694332,93.756983,305.015644
+Mississippi,Import,Air (include truck-air),thousand tons,2012,0,15.153317,0.132802
+Mississippi,Import,Multiple modes & mail,thousand tons,2012,0.0179,657.299625,8.302799
+Mississippi,Import,No domestic mode,thousand tons,2012,15566.4818,0,0
+Mississippi,Import,Other and unknown,thousand tons,2012,0.0009,4.0857,0.0136
+Mississippi,Import,Pipeline,thousand tons,2012,0,54.451,0
+Mississippi,Import,Rail,thousand tons,2012,1.8444,379.36548,555.3685
+Mississippi,Import,Truck,thousand tons,2012,1030.2618,845.610259,157.292496
+Mississippi,Import,Water,thousand tons,2012,1310.9579,1155.245307,74.141502
+Missouri,Domestic Only,Air (include truck-air),thousand tons,2012,0.1216,22.833902,21.597402
+Missouri,Domestic Only,Multiple modes & mail,thousand tons,2012,2608.86255,10331.55523,6331.951318
+Missouri,Domestic Only,Pipeline,thousand tons,2012,6.1472,39372.9026,29968.1639
+Missouri,Domestic Only,Rail,thousand tons,2012,3857.4931,52910.363,9652.1946
+Missouri,Domestic Only,Truck,thousand tons,2012,138539.707,61889.64128,59379.93531
+Missouri,Domestic Only,Water,thousand tons,2012,1820.0539,5933.543,9973.5037
+Missouri,Export,Air (include truck-air),thousand tons,2012,0.1322,0.0681,36.436501
+Missouri,Export,Multiple modes & mail,thousand tons,2012,0,0,1003.360764
+Missouri,Export,Other and unknown,thousand tons,2012,2.0422,1.6343,10.681119
+Missouri,Export,Rail,thousand tons,2012,0,0,8128.167304
+Missouri,Export,Truck,thousand tons,2012,0.072,0.0012,3333.554914
+Missouri,Export,Water,thousand tons,2012,0,0,4.420771
+Missouri,Import,Air (include truck-air),thousand tons,2012,6.195842,34.556264,5.513905
+Missouri,Import,Multiple modes & mail,thousand tons,2012,0,1543.511418,0
+Missouri,Import,Other and unknown,thousand tons,2012,21.424425,14.1906,19.959502
+Missouri,Import,Pipeline,thousand tons,2012,0,171.6145,0
+Missouri,Import,Rail,thousand tons,2012,0,1729.219949,0
+Missouri,Import,Truck,thousand tons,2012,6.4597,1387.116955,0.396995
+Missouri,Import,Water,thousand tons,2012,0,25.902353,0
+Montana,Domestic Only,Air (include truck-air),thousand tons,2012,0,4.136002,4.104
+Montana,Domestic Only,Multiple modes & mail,thousand tons,2012,20.9408,289.588554,868.9596
+Montana,Domestic Only,Pipeline,thousand tons,2012,6982.1097,4117.9485,18229.5599
+Montana,Domestic Only,Rail,thousand tons,2012,3551.983,4658.965,44187.4113
+Montana,Domestic Only,Truck,thousand tons,2012,29190.71217,9708.549127,14546.7359
+Montana,Export,Air (include truck-air),thousand tons,2012,0.0813,1.200792,1.951571
+Montana,Export,Multiple modes & mail,thousand tons,2012,0.000001,0.980734,1400.78024
+Montana,Export,Other and unknown,thousand tons,2012,0.0133,7.9558,0.0782
+Montana,Export,Pipeline,thousand tons,2012,0,98.0763,0.93228
+Montana,Export,Rail,thousand tons,2012,133.699,1838.475074,1671.244674
+Montana,Export,Truck,thousand tons,2012,354.398397,3632.708311,323.231276
+Montana,Import,Air (include truck-air),thousand tons,2012,0,0.944572,0.020657
+Montana,Import,Multiple modes & mail,thousand tons,2012,0.0033,42.425406,0.3689
+Montana,Import,Other and unknown,thousand tons,2012,0.3426,0.5427,5.0789
+Montana,Import,Pipeline,thousand tons,2012,25307.6914,2362.9146,7113.1674
+Montana,Import,Rail,thousand tons,2012,184.8978,137.877879,3725.291296
+Montana,Import,Truck,thousand tons,2012,889.5217,78.63482,1572.107035
+Nebraska,Domestic Only,Air (include truck-air),thousand tons,2012,0,5.792403,8.952
+Nebraska,Domestic Only,Multiple modes & mail,thousand tons,2012,85.2733,904.284195,4724.5104
+Nebraska,Domestic Only,Pipeline,thousand tons,2012,32.6363,46021.3409,43767.7409
+Nebraska,Domestic Only,Rail,thousand tons,2012,18417.9391,19508.2187,31118.6897
+Nebraska,Domestic Only,Truck,thousand tons,2012,127941.9418,45689.21458,28698.34582
+Nebraska,Export,Air (include truck-air),thousand tons,2012,0.0006,0.0029,12.368223
+Nebraska,Export,Multiple modes & mail,thousand tons,2012,0,0,202.609396
+Nebraska,Export,Other and unknown,thousand tons,2012,0,0,0.5492
+Nebraska,Export,Pipeline,thousand tons,2012,0,0,371.8134
+Nebraska,Export,Rail,thousand tons,2012,0,0,2625.3318
+Nebraska,Export,Truck,thousand tons,2012,0.001,0,1143.448868
+Nebraska,Export,Water,thousand tons,2012,0,0,0.180292
+Nebraska,Import,Air (include truck-air),thousand tons,2012,0.2523,4.983118,0.4932
+Nebraska,Import,Multiple modes & mail,thousand tons,2012,0,285.821367,0
+Nebraska,Import,Other and unknown,thousand tons,2012,0.3668,1.9728,17.1382
+Nebraska,Import,Pipeline,thousand tons,2012,0,64.263,0
+Nebraska,Import,Rail,thousand tons,2012,0,821.173133,0
+Nebraska,Import,Truck,thousand tons,2012,0.7353,299.552263,0.0008
+Nebraska,Import,Water,thousand tons,2012,0,0.000022,0
+Nevada,Domestic Only,Air (include truck-air),thousand tons,2012,0.0256,13.105601,18.410601
+Nevada,Domestic Only,Multiple modes & mail,thousand tons,2012,18.068135,2182.184972,445.388712
+Nevada,Domestic Only,Pipeline,thousand tons,2012,1.1177,22937.8309,17822.0099
+Nevada,Domestic Only,Rail,thousand tons,2012,50.2316,2982.8904,653.0697
+Nevada,Domestic Only,Truck,thousand tons,2012,39711.40789,17959.60861,11400.25762
+Nevada,Export,Air (include truck-air),thousand tons,2012,0.1224,4.1705,15.20676
+Nevada,Export,Multiple modes & mail,thousand tons,2012,0,0,71.508396
+Nevada,Export,Other and unknown,thousand tons,2012,0.0053,0.0069,6.0448
+Nevada,Export,Pipeline,thousand tons,2012,0,0,2503.01714
+Nevada,Export,Rail,thousand tons,2012,0,0,3270.837928
+Nevada,Export,Truck,thousand tons,2012,0.2004,0.0007,666.002923
+Nevada,Import,Air (include truck-air),thousand tons,2012,0.1701,8.807349,0.7705
+Nevada,Import,Multiple modes & mail,thousand tons,2012,0.0005,90.282847,0
+Nevada,Import,Other and unknown,thousand tons,2012,0.8627,1.0802,0.028
+Nevada,Import,Rail,thousand tons,2012,0,383.796647,0
+Nevada,Import,Truck,thousand tons,2012,1.9403,596.657277,0
+New Hampshire,Domestic Only,Air (include truck-air),thousand tons,2012,0,6.583311,8.455507
+New Hampshire,Domestic Only,Multiple modes & mail,thousand tons,2012,14.2911,386.799003,208.546054
+New Hampshire,Domestic Only,Pipeline,thousand tons,2012,0.0094,1811.894,1345.8203
+New Hampshire,Domestic Only,Rail,thousand tons,2012,0.0001,318.4873,0
+New Hampshire,Domestic Only,Truck,thousand tons,2012,22841.60633,17730.50576,10233.35496
+New Hampshire,Export,Air (include truck-air),thousand tons,2012,0.0116,0.0446,18.641185
+New Hampshire,Export,Multiple modes & mail,thousand tons,2012,0.0045,0.214903,17.807343
+New Hampshire,Export,Other and unknown,thousand tons,2012,0,0,3.3766
+New Hampshire,Export,Pipeline,thousand tons,2012,0,0,42.7773
+New Hampshire,Export,Rail,thousand tons,2012,3.8082,11.4933,9.109716
+New Hampshire,Export,Truck,thousand tons,2012,208.2276,0.035572,425.968473
+New Hampshire,Export,Water,thousand tons,2012,24.3853,6.4457,67.496927
+New Hampshire,Import,Air (include truck-air),thousand tons,2012,0,10.364211,0
+New Hampshire,Import,Multiple modes & mail,thousand tons,2012,0.660261,54.064713,15.417413
+New Hampshire,Import,Other and unknown,thousand tons,2012,0,1.2297,0
+New Hampshire,Import,Pipeline,thousand tons,2012,0,40.8933,0
+New Hampshire,Import,Rail,thousand tons,2012,114.9837,1569.566833,0.5178
+New Hampshire,Import,Truck,thousand tons,2012,1305.2606,1496.000504,36.408636
+New Hampshire,Import,Water,thousand tons,2012,0.0158,6730.618996,54.8054
+New Jersey,Domestic Only,Air (include truck-air),thousand tons,2012,0,35.986196,93.178111
+New Jersey,Domestic Only,Multiple modes & mail,thousand tons,2012,306.3935,4287.113743,1500.633455
+New Jersey,Domestic Only,Pipeline,thousand tons,2012,13789.1948,31135.3337,16450.4272
+New Jersey,Domestic Only,Rail,thousand tons,2012,839.7244,13394.2361,2392.521498
+New Jersey,Domestic Only,Truck,thousand tons,2012,140875.7801,62795.94721,80171.35158
+New Jersey,Domestic Only,Water,thousand tons,2012,3827.7857,1065.7248,3081.162
+New Jersey,Export,Air (include truck-air),thousand tons,2012,0.00471,30.447212,116.861628
+New Jersey,Export,Multiple modes & mail,thousand tons,2012,8.706944,414.412765,216.247974
+New Jersey,Export,Other and unknown,thousand tons,2012,0.4385,4.8244,60.84984
+New Jersey,Export,Pipeline,thousand tons,2012,161.0355,35.6038,78.182
+New Jersey,Export,Rail,thousand tons,2012,76.94181,2068.064786,899.898358
+New Jersey,Export,Truck,thousand tons,2012,10171.27294,1881.188807,4032.064242
+New Jersey,Export,Water,thousand tons,2012,172.611175,148.680905,1908.84158
+New Jersey,Import,Air (include truck-air),thousand tons,2012,0.005849,145.637296,14.39973
+New Jersey,Import,Multiple modes & mail,thousand tons,2012,82.983291,1639.027515,5344.007539
+New Jersey,Import,No domestic mode,thousand tons,2012,14280.5675,0,0
+New Jersey,Import,Other and unknown,thousand tons,2012,18.2351,15.3833,40.6538
+New Jersey,Import,Pipeline,thousand tons,2012,0,265.63619,0
+New Jersey,Import,Rail,thousand tons,2012,702.69397,8403.678235,1858.483047
+New Jersey,Import,Truck,thousand tons,2012,27873.3019,6466.637562,10677.34254
+New Jersey,Import,Water,thousand tons,2012,22.345354,1375.328539,3622.958645
+New Mexico,Domestic Only,Air (include truck-air),thousand tons,2012,0,8.439102,2.6985
+New Mexico,Domestic Only,Multiple modes & mail,thousand tons,2012,40.6918,921.593517,667.0334
+New Mexico,Domestic Only,Other and unknown,thousand tons,2012,6009.8818,0,0
+New Mexico,Domestic Only,Pipeline,thousand tons,2012,23009.7434,15486.3054,38896.8071
+New Mexico,Domestic Only,Rail,thousand tons,2012,12841.7862,1762.8665,2183.6133
+New Mexico,Domestic Only,Truck,thousand tons,2012,33386.42248,15204.35461,7450.333727
+New Mexico,Export,Air (include truck-air),thousand tons,2012,0.0013,0.020939,4.921223
+New Mexico,Export,Multiple modes & mail,thousand tons,2012,0,0.005,10.81582
+New Mexico,Export,Other and unknown,thousand tons,2012,1.4949,10.5065,0.227
+New Mexico,Export,Pipeline,thousand tons,2012,0,0,2177.5319
+New Mexico,Export,Rail,thousand tons,2012,0,0.118,303.35073
+New Mexico,Export,Truck,thousand tons,2012,68.57751,226.620896,203.649011
+New Mexico,Import,Air (include truck-air),thousand tons,2012,0.1011,8.025683,0.199722
+New Mexico,Import,Multiple modes & mail,thousand tons,2012,0.0016,40.914609,0
+New Mexico,Import,Other and unknown,thousand tons,2012,0.004,0.6675,0
+New Mexico,Import,Pipeline,thousand tons,2012,0,200.0649,0
+New Mexico,Import,Rail,thousand tons,2012,0,294.0632,0
+New Mexico,Import,Truck,thousand tons,2012,211.54293,107.512787,533.495883
+New York,Domestic Only,Air (include truck-air),thousand tons,2012,1.4209,74.538812,48.028805
+New York,Domestic Only,Multiple modes & mail,thousand tons,2012,1046.15839,4981.01711,3217.390542
+New York,Domestic Only,Pipeline,thousand tons,2012,1306.9531,34289.7383,17297.2558
+New York,Domestic Only,Rail,thousand tons,2012,2194.947856,8014.536455,4588.277216
+New York,Domestic Only,Truck,thousand tons,2012,318858.9572,86123.82522,64942.2526
+New York,Domestic Only,Water,thousand tons,2012,0,1228.6033,3.4861
+New York,Export,Air (include truck-air),thousand tons,2012,0.964216,422.076901,45.443067
+New York,Export,Multiple modes & mail,thousand tons,2012,427.530987,131.982153,397.022292
+New York,Export,Other and unknown,thousand tons,2012,33.497359,609.638536,16.7822
+New York,Export,Pipeline,thousand tons,2012,1558.241,7282.303011,0
+New York,Export,Rail,thousand tons,2012,1752.658,12699.31366,2647.782533
+New York,Export,Truck,thousand tons,2012,5462.523998,17270.7611,7723.683129
+New York,Export,Water,thousand tons,2012,5294.3438,3904.699294,1932.303407
+New York,Import,Air (include truck-air),thousand tons,2012,4.849696,69.881673,314.825263
+New York,Import,Multiple modes & mail,thousand tons,2012,288.510482,2455.205767,400.532369
+New York,Import,Other and unknown,thousand tons,2012,31.4868,30.3933,49.7043
+New York,Import,Pipeline,thousand tons,2012,7059.5965,0,6429.2687
+New York,Import,Rail,thousand tons,2012,1264.25422,1256.233623,7915.94436
+New York,Import,Truck,thousand tons,2012,6029.228146,10623.50665,9891.08394
+New York,Import,Water,thousand tons,2012,1513.091488,3010.943553,1242.751243
+North Carolina,Domestic Only,Air (include truck-air),thousand tons,2012,0.000001,33.2486,44.464613
+North Carolina,Domestic Only,Multiple modes & mail,thousand tons,2012,505.206,4751.542603,5012.390633
+North Carolina,Domestic Only,Pipeline,thousand tons,2012,277.84,18401.3607,10996.2844
+North Carolina,Domestic Only,Rail,thousand tons,2012,2153.4538,45397.8415,6664.4176
+North Carolina,Domestic Only,Truck,thousand tons,2012,206942.9738,58744.7007,65915.0989
+North Carolina,Domestic Only,Water,thousand tons,2012,0,4949.3277,0
+North Carolina,Export,Air (include truck-air),thousand tons,2012,2.686276,7.452274,82.17984
+North Carolina,Export,Multiple modes & mail,thousand tons,2012,3.324923,32.240998,604.869668
+North Carolina,Export,Other and unknown,thousand tons,2012,4.0149,2.4902,12.8825
+North Carolina,Export,Pipeline,thousand tons,2012,4.7827,0,0
+North Carolina,Export,Rail,thousand tons,2012,33.1215,500.3439,779.983498
+North Carolina,Export,Truck,thousand tons,2012,1484.001075,656.379293,5273.512785
+North Carolina,Export,Water,thousand tons,2012,1.24435,69.373111,76.492203
+North Carolina,Import,Air (include truck-air),thousand tons,2012,9.140127,78.661967,13.441
+North Carolina,Import,Multiple modes & mail,thousand tons,2012,17.252093,1367.716146,288.838015
+North Carolina,Import,Other and unknown,thousand tons,2012,7.040333,91.6936,2.2619
+North Carolina,Import,Pipeline,thousand tons,2012,125.8288,0.0652,0
+North Carolina,Import,Rail,thousand tons,2012,359.7321,2713.700756,698.456532
+North Carolina,Import,Truck,thousand tons,2012,2746.143346,3589.024002,1383.374536
+North Carolina,Import,Water,thousand tons,2012,32.5655,310.863842,68.1152
+North Dakota,Domestic Only,Air (include truck-air),thousand tons,2012,0,4.9037,1.3091
+North Dakota,Domestic Only,Multiple modes & mail,thousand tons,2012,32.8479,643.2868,1500.93158
+North Dakota,Domestic Only,Other and unknown,thousand tons,2012,16690,0,0
+North Dakota,Domestic Only,Pipeline,thousand tons,2012,6545.243,14448.825,59833.1617
+North Dakota,Domestic Only,Rail,thousand tons,2012,2641.261,6605.8149,32797.1967
+North Dakota,Domestic Only,Truck,thousand tons,2012,81305.91689,17555.43693,8997.691992
+North Dakota,Export,Air (include truck-air),thousand tons,2012,0.056,4.793562,1.182495
+North Dakota,Export,Multiple modes & mail,thousand tons,2012,0.144,0.651913,52.962992
+North Dakota,Export,Other and unknown,thousand tons,2012,0.1475,3.7514,0.0848
+North Dakota,Export,Pipeline,thousand tons,2012,1604.1109,327.230213,38.885
+North Dakota,Export,Rail,thousand tons,2012,2119.0433,10445.55205,799.33496
+North Dakota,Export,Truck,thousand tons,2012,711.8053,6139.49235,158.909153
+North Dakota,Import,Air (include truck-air),thousand tons,2012,0,1.531089,0.001033
+North Dakota,Import,Multiple modes & mail,thousand tons,2012,0,193.169672,0.328699
+North Dakota,Import,Other and unknown,thousand tons,2012,4.9563,0.4777,7.8109
+North Dakota,Import,Pipeline,thousand tons,2012,10586.4906,0,82074.74347
+North Dakota,Import,Rail,thousand tons,2012,1816.0185,217.758497,29827.78658
+North Dakota,Import,Truck,thousand tons,2012,1422.8953,161.86747,3549.179186
+Ohio,Domestic Only,Air (include truck-air),thousand tons,2012,0.4654,45.925202,35.370302
+Ohio,Domestic Only,Multiple modes & mail,thousand tons,2012,6310.705275,18086.26413,11655.20155
+Ohio,Domestic Only,Pipeline,thousand tons,2012,28676.5873,55395.3545,25205.8923
+Ohio,Domestic Only,Rail,thousand tons,2012,16837.2999,46773.46843,20716.5364
+Ohio,Domestic Only,Truck,thousand tons,2012,305626.5543,91162.70936,110119.4814
+Ohio,Domestic Only,Water,thousand tons,2012,4834.3381,27463.3163,1104.0775
+Ohio,Export,Air (include truck-air),thousand tons,2012,0.1715,5.499395,153.344046
+Ohio,Export,Multiple modes & mail,thousand tons,2012,0.000654,2.194656,1493.682648
+Ohio,Export,Other and unknown,thousand tons,2012,2.4783,8.5554,8.8974
+Ohio,Export,Pipeline,thousand tons,2012,0,0,18703.0887
+Ohio,Export,Rail,thousand tons,2012,661.966803,2263.21684,4316.142609
+Ohio,Export,Truck,thousand tons,2012,44.064394,20.157596,8224.591066
+Ohio,Export,Water,thousand tons,2012,709.2501,264.905677,373.530366
+Ohio,Import,Air (include truck-air),thousand tons,2012,10.991619,85.220063,5.411689
+Ohio,Import,Multiple modes & mail,thousand tons,2012,1.954155,2842.497459,31.914027
+Ohio,Import,No domestic mode,thousand tons,2012,4041.7401,0,0
+Ohio,Import,Other and unknown,thousand tons,2012,22.210627,43.1643,3.3318
+Ohio,Import,Pipeline,thousand tons,2012,0.9738,7208.5289,0
+Ohio,Import,Rail,thousand tons,2012,2574.662023,5977.777702,1177.0929
+Ohio,Import,Truck,thousand tons,2012,874.67668,7847.617162,220.903031
+Ohio,Import,Water,thousand tons,2012,1994.089643,175.84195,543.212993
+Oklahoma,Domestic Only,Air (include truck-air),thousand tons,2012,0,13.814602,14.8844
+Oklahoma,Domestic Only,Multiple modes & mail,thousand tons,2012,186.94,2693.583009,3246.067419
+Oklahoma,Domestic Only,Pipeline,thousand tons,2012,48639.2053,27342.7991,55724.8198
+Oklahoma,Domestic Only,Rail,thousand tons,2012,5317.037199,23230.2284,17932.4298
+Oklahoma,Domestic Only,Truck,thousand tons,2012,141757.2536,44362.70049,65157.85349
+Oklahoma,Domestic Only,Water,thousand tons,2012,0.3297,136.3251,8241.8354
+Oklahoma,Export,Air (include truck-air),thousand tons,2012,0.0192,0.2438,21.304825
+Oklahoma,Export,Multiple modes & mail,thousand tons,2012,0,0,31.863277
+Oklahoma,Export,Other and unknown,thousand tons,2012,0.1997,0,5.4988
+Oklahoma,Export,Rail,thousand tons,2012,0,0,743.855251
+Oklahoma,Export,Truck,thousand tons,2012,0.0776,0,989.683819
+Oklahoma,Export,Water,thousand tons,2012,0,0,0.80213
+Oklahoma,Import,Air (include truck-air),thousand tons,2012,1.3208,14.050224,0.4365
+Oklahoma,Import,Multiple modes & mail,thousand tons,2012,0,155.462432,0
+Oklahoma,Import,Other and unknown,thousand tons,2012,0.001,2.961616,0.0149
+Oklahoma,Import,Pipeline,thousand tons,2012,0,3611.01391,0
+Oklahoma,Import,Rail,thousand tons,2012,0,1090.14376,0
+Oklahoma,Import,Truck,thousand tons,2012,0.8975,507.119619,0
+Oklahoma,Import,Water,thousand tons,2012,0,0.000308,0
+Oregon,Domestic Only,Air (include truck-air),thousand tons,2012,0,26.527201,24.722602
+Oregon,Domestic Only,Multiple modes & mail,thousand tons,2012,1731.7366,1837.241711,3139.181087
+Oregon,Domestic Only,Pipeline,thousand tons,2012,78.4382,17571.4754,14084.5908
+Oregon,Domestic Only,Rail,thousand tons,2012,746.4689,8230.171075,4638.5413
+Oregon,Domestic Only,Truck,thousand tons,2012,109553.7208,23128.53782,24699.36379
+Oregon,Domestic Only,Water,thousand tons,2012,0,2145.379073,108.9797
+Oregon,Export,Air (include truck-air),thousand tons,2012,0.080944,1.652752,26.914054
+Oregon,Export,Multiple modes & mail,thousand tons,2012,3.405269,61.964244,203.752192
+Oregon,Export,Other and unknown,thousand tons,2012,0.0411,0.2579,2.4548
+Oregon,Export,Pipeline,thousand tons,2012,20.3813,0.1649,76.69621
+Oregon,Export,Rail,thousand tons,2012,134.5752,2941.685205,917.628732
+Oregon,Export,Truck,thousand tons,2012,11085.12702,366.137075,2947.140666
+Oregon,Export,Water,thousand tons,2012,91.172058,104.777713,36.697674
+Oregon,Import,Air (include truck-air),thousand tons,2012,0.311148,20.682193,1.085243
+Oregon,Import,Multiple modes & mail,thousand tons,2012,29.359795,381.926304,759.30563
+Oregon,Import,Other and unknown,thousand tons,2012,10.951288,5.7889,4.3075
+Oregon,Import,Pipeline,thousand tons,2012,4.6188,551.5882,0
+Oregon,Import,Rail,thousand tons,2012,4.2026,3240.510349,220.816655
+Oregon,Import,Truck,thousand tons,2012,2991.531233,1182.626764,732.411964
+Oregon,Import,Water,thousand tons,2012,267.248754,40.999114,124.341432
+Pennsylvania,Domestic Only,Air (include truck-air),thousand tons,2012,0.1169,60.902204,30.685191
+Pennsylvania,Domestic Only,Multiple modes & mail,thousand tons,2012,5782.76304,10876.86449,14907.82373
+Pennsylvania,Domestic Only,Pipeline,thousand tons,2012,69768.9085,24593.9233,48449.9905
+Pennsylvania,Domestic Only,Rail,thousand tons,2012,11814.8349,43162.94405,19430.30361
+Pennsylvania,Domestic Only,Truck,thousand tons,2012,286929.9763,107035.5676,118632.8971
+Pennsylvania,Domestic Only,Water,thousand tons,2012,3483.9438,7579.2996,1107.1637
+Pennsylvania,Export,Air (include truck-air),thousand tons,2012,1.559228,66.4876,121.33603
+Pennsylvania,Export,Multiple modes & mail,thousand tons,2012,8.324581,27.969711,376.553248
+Pennsylvania,Export,Other and unknown,thousand tons,2012,0.0102,0.0052,15.6261
+Pennsylvania,Export,Pipeline,thousand tons,2012,450.9423,0,554.308873
+Pennsylvania,Export,Rail,thousand tons,2012,73.0964,72.544441,2751.170317
+Pennsylvania,Export,Truck,thousand tons,2012,1640.273688,943.631373,14263.06138
+Pennsylvania,Export,Water,thousand tons,2012,474.709505,138.777031,680.649269
+Pennsylvania,Import,Air (include truck-air),thousand tons,2012,7.434095,104.894912,25.35109
+Pennsylvania,Import,Multiple modes & mail,thousand tons,2012,35.225876,906.977508,764.215158
+Pennsylvania,Import,No domestic mode,thousand tons,2012,16327.6084,0,0
+Pennsylvania,Import,Other and unknown,thousand tons,2012,12.6881,30.216902,16.5093
+Pennsylvania,Import,Pipeline,thousand tons,2012,420.2354,4162.2709,249.0482
+Pennsylvania,Import,Rail,thousand tons,2012,248.2375,3879.782453,7097.9046
+Pennsylvania,Import,Truck,thousand tons,2012,4613.892324,7536.164436,4145.703641
+Pennsylvania,Import,Water,thousand tons,2012,442.236471,768.783068,602.72725
+Rhode Island,Domestic Only,Air (include truck-air),thousand tons,2012,0,5.4639,4.0751
+Rhode Island,Domestic Only,Multiple modes & mail,thousand tons,2012,4.3015,324.616555,101.858628
+Rhode Island,Domestic Only,Pipeline,thousand tons,2012,0.3912,4096.7915,2316.8818
+Rhode Island,Domestic Only,Rail,thousand tons,2012,3.6732,213.4714,9.8147
+Rhode Island,Domestic Only,Truck,thousand tons,2012,17622.52028,7404.282417,12726.85366
+Rhode Island,Export,Air (include truck-air),thousand tons,2012,0,0.0937,11.939159
+Rhode Island,Export,Multiple modes & mail,thousand tons,2012,0,0,9.264662
+Rhode Island,Export,Other and unknown,thousand tons,2012,0,0,0.4038
+Rhode Island,Export,Rail,thousand tons,2012,0,0.1894,60.754293
+Rhode Island,Export,Truck,thousand tons,2012,0.4182,0.1284,459.951723
+Rhode Island,Export,Water,thousand tons,2012,724.0039,1.5421,55.025217
+Rhode Island,Import,Air (include truck-air),thousand tons,2012,0,6.323215,0.14511
+Rhode Island,Import,Multiple modes & mail,thousand tons,2012,25.7015,97.287783,52.774691
+Rhode Island,Import,Other and unknown,thousand tons,2012,0.0003,1.1461,0.0003
+Rhode Island,Import,Rail,thousand tons,2012,0,70.14487,222.9309
+Rhode Island,Import,Truck,thousand tons,2012,2136.3521,301.248974,360.998677
+Rhode Island,Import,Water,thousand tons,2012,208.7658,24.559236,939.509794
+South Carolina,Domestic Only,Air (include truck-air),thousand tons,2012,0.0795,24.623614,13.515203
+South Carolina,Domestic Only,Multiple modes & mail,thousand tons,2012,485.235707,5530.222471,2478.681197
+South Carolina,Domestic Only,Pipeline,thousand tons,2012,0.652,20284.1341,16923.1136
+South Carolina,Domestic Only,Rail,thousand tons,2012,2308.5782,26750.0311,3105.4287
+South Carolina,Domestic Only,Truck,thousand tons,2012,100124.7082,40468.41967,39184.90239
+South Carolina,Domestic Only,Water,thousand tons,2012,0,214.068,0
+South Carolina,Export,Air (include truck-air),thousand tons,2012,0.055319,0.251623,45.045227
+South Carolina,Export,Multiple modes & mail,thousand tons,2012,41.00329,722.455563,92.245323
+South Carolina,Export,Other and unknown,thousand tons,2012,0.0009,52.9255,5.2946
+South Carolina,Export,Rail,thousand tons,2012,196.4821,287.3462,419.994203
+South Carolina,Export,Truck,thousand tons,2012,3185.183315,2581.658704,2326.449711
+South Carolina,Export,Water,thousand tons,2012,16.208893,54.447785,74.226851
+South Carolina,Import,Air (include truck-air),thousand tons,2012,0.608175,46.6713,0.918811
+South Carolina,Import,Multiple modes & mail,thousand tons,2012,123.321618,667.29444,951.570794
+South Carolina,Import,Other and unknown,thousand tons,2012,2.7975,12.3527,64.8424
+South Carolina,Import,Rail,thousand tons,2012,835.066,1222.909855,812.254471
+South Carolina,Import,Truck,thousand tons,2012,4014.281803,1451.188602,3277.118275
+South Carolina,Import,Water,thousand tons,2012,662.699859,122.477477,239.539346
+South Dakota,Domestic Only,Air (include truck-air),thousand tons,2012,0,2.1023,1.8956
+South Dakota,Domestic Only,Multiple modes & mail,thousand tons,2012,396.4239,834.238314,2499.564733
+South Dakota,Domestic Only,Pipeline,thousand tons,2012,301.4018,16881.5871,15325.0502
+South Dakota,Domestic Only,Rail,thousand tons,2012,1718.4501,3093.923,10040.1688
+South Dakota,Domestic Only,Truck,thousand tons,2012,66419.74228,13118.9551,16334.91213
+South Dakota,Export,Air (include truck-air),thousand tons,2012,0.0024,1.5867,2.813421
+South Dakota,Export,Multiple modes & mail,thousand tons,2012,0,0,34.107996
+South Dakota,Export,Other and unknown,thousand tons,2012,0,0.0232,0.2136
+South Dakota,Export,Pipeline,thousand tons,2012,0,0,60.7355
+South Dakota,Export,Rail,thousand tons,2012,0,0,587.9199
+South Dakota,Export,Truck,thousand tons,2012,0.0002,0,331.366556
+South Dakota,Import,Air (include truck-air),thousand tons,2012,0,1.171602,0.0003
+South Dakota,Import,Multiple modes & mail,thousand tons,2012,0,25.723498,0
+South Dakota,Import,Other and unknown,thousand tons,2012,0,0.4575,0
+South Dakota,Import,Rail,thousand tons,2012,0,274.24586,0
+South Dakota,Import,Truck,thousand tons,2012,0,268.953441,0
+Tennessee,Domestic Only,Air (include truck-air),thousand tons,2012,0.4365,46.908201,24.452002
+Tennessee,Domestic Only,Multiple modes & mail,thousand tons,2012,1055.26247,5660.441064,4376.531819
+Tennessee,Domestic Only,Pipeline,thousand tons,2012,242.9337,42603.8305,37228.6417
+Tennessee,Domestic Only,Rail,thousand tons,2012,2149.2417,20474.1291,8015.3988
+Tennessee,Domestic Only,Truck,thousand tons,2012,134967.7067,56878.20339,70563.36154
+Tennessee,Domestic Only,Water,thousand tons,2012,587.979,7538.2322,2126.3571
+Tennessee,Export,Air (include truck-air),thousand tons,2012,6.436683,179.972023,59.006945
+Tennessee,Export,Multiple modes & mail,thousand tons,2012,0.0006,0.001663,1276.178843
+Tennessee,Export,Other and unknown,thousand tons,2012,2.1692,0.0007,0.7804
+Tennessee,Export,Pipeline,thousand tons,2012,0,0,0.25646
+Tennessee,Export,Rail,thousand tons,2012,0,0,1558.151897
+Tennessee,Export,Truck,thousand tons,2012,3.508707,1.391618,4062.260621
+Tennessee,Export,Water,thousand tons,2012,0,0,5.328313
+Tennessee,Import,Air (include truck-air),thousand tons,2012,12.326364,115.675723,202.429428
+Tennessee,Import,Multiple modes & mail,thousand tons,2012,0.009613,2464.396655,0.001043
+Tennessee,Import,Other and unknown,thousand tons,2012,4.214581,36.5189,6.115069
+Tennessee,Import,Pipeline,thousand tons,2012,0,1926.4172,0
+Tennessee,Import,Rail,thousand tons,2012,0,3255.993246,0
+Tennessee,Import,Truck,thousand tons,2012,21.54447,2127.253927,3.874582
+Tennessee,Import,Water,thousand tons,2012,0,21.215163,0
+Texas,Domestic Only,Air (include truck-air),thousand tons,2012,5.6416,122.956203,131.800501
+Texas,Domestic Only,Multiple modes & mail,thousand tons,2012,11118.54079,23916.42922,12297.19317
+Texas,Domestic Only,Pipeline,thousand tons,2012,468414.2612,46290.8603,157441.5574
+Texas,Domestic Only,Rail,thousand tons,2012,51660.1014,134977.008,37272.8652
+Texas,Domestic Only,Truck,thousand tons,2012,1112953.575,107537.5321,96081.36054
+Texas,Domestic Only,Water,thousand tons,2012,145471.8966,26200.0718,22455.7883
+Texas,Export,Air (include truck-air),thousand tons,2012,8.070048,56.200008,190.764552
+Texas,Export,Multiple modes & mail,thousand tons,2012,8007.564826,936.627968,1858.288401
+Texas,Export,Other and unknown,thousand tons,2012,139.17943,36.8366,45.220076
+Texas,Export,Pipeline,thousand tons,2012,51961.4497,3521.457723,719.356486
+Texas,Export,Rail,thousand tons,2012,12753.92902,21855.5837,6376.461748
+Texas,Export,Truck,thousand tons,2012,57149.92397,17986.11799,8755.469965
+Texas,Export,Water,thousand tons,2012,26444.45527,932.700238,804.334871
+Texas,Import,Air (include truck-air),thousand tons,2012,12.653162,77.139411,60.392351
+Texas,Import,Multiple modes & mail,thousand tons,2012,3963.808653,3006.265589,1333.68424
+Texas,Import,No domestic mode,thousand tons,2012,139109.4151,0,0
+Texas,Import,Other and unknown,thousand tons,2012,161.3547,49.205861,334.9877
+Texas,Import,Pipeline,thousand tons,2012,18061.14243,5836.226454,5835.315997
+Texas,Import,Rail,thousand tons,2012,5128.872327,7185.637603,10666.98721
+Texas,Import,Truck,thousand tons,2012,44307.74302,4191.005085,18587.5977
+Texas,Import,Water,thousand tons,2012,12907.55903,1286.186001,922.925325
+Utah,Domestic Only,Air (include truck-air),thousand tons,2012,0,59.269203,291.518304
+Utah,Domestic Only,Multiple modes & mail,thousand tons,2012,46.8096,1105.418874,3338.51887
+Utah,Domestic Only,Other and unknown,thousand tons,2012,4206.79,0,0
+Utah,Domestic Only,Pipeline,thousand tons,2012,15863.4555,27374.0898,33962.9374
+Utah,Domestic Only,Rail,thousand tons,2012,3923.2601,5782.1906,6668.2537
+Utah,Domestic Only,Truck,thousand tons,2012,45497.38195,15389.44264,16183.64864
+Utah,Export,Air (include truck-air),thousand tons,2012,0.06623,0.3207,39.222988
+Utah,Export,Multiple modes & mail,thousand tons,2012,0,0,194.358765
+Utah,Export,Other and unknown,thousand tons,2012,0.1417,0,4.9652
+Utah,Export,Rail,thousand tons,2012,0,0,675.249478
+Utah,Export,Truck,thousand tons,2012,1.51307,0,998.946781
+Utah,Import,Air (include truck-air),thousand tons,2012,0.239937,9.482295,1.1595
+Utah,Import,Multiple modes & mail,thousand tons,2012,0,225.744589,0
+Utah,Import,Other and unknown,thousand tons,2012,1.6921,23.4191,1.7383
+Utah,Import,Pipeline,thousand tons,2012,0,766.1373,0
+Utah,Import,Rail,thousand tons,2012,0,697.820712,0
+Utah,Import,Truck,thousand tons,2012,4.044786,620.354425,0.000319
+Vermont,Domestic Only,Air (include truck-air),thousand tons,2012,0,2.7791,4.203201
+Vermont,Domestic Only,Multiple modes & mail,thousand tons,2012,3.325,204.116538,144.111409
+Vermont,Domestic Only,Rail,thousand tons,2012,128.7665,292.9954,798.015
+Vermont,Domestic Only,Truck,thousand tons,2012,17277.69293,10146.6353,4887.633501
+Vermont,Export,Air (include truck-air),thousand tons,2012,0,1.037149,3.819686
+Vermont,Export,Multiple modes & mail,thousand tons,2012,0.0232,0.021299,100.322612
+Vermont,Export,Other and unknown,thousand tons,2012,0.4898,2.9135,1.6755
+Vermont,Export,Rail,thousand tons,2012,86.1717,41.755365,72.45787
+Vermont,Export,Truck,thousand tons,2012,440.169324,706.50755,418.676142
+Vermont,Export,Water,thousand tons,2012,0,0,51.204767
+Vermont,Import,Air (include truck-air),thousand tons,2012,0,8.877085,0.415602
+Vermont,Import,Multiple modes & mail,thousand tons,2012,0,88.102645,0.018999
+Vermont,Import,Other and unknown,thousand tons,2012,3.2948,1.0925,3.8844
+Vermont,Import,Pipeline,thousand tons,2012,93.9886,0,1494.2952
+Vermont,Import,Rail,thousand tons,2012,331.0528,93.005825,1302.424897
+Vermont,Import,Truck,thousand tons,2012,947.5016,231.523544,1716.251252
+Vermont,Import,Water,thousand tons,2012,0,14.351739,0
+Virginia,Domestic Only,Air (include truck-air),thousand tons,2012,0.2508,29.828502,15.082103
+Virginia,Domestic Only,Multiple modes & mail,thousand tons,2012,1026.744003,3509.031285,978.51851
+Virginia,Domestic Only,Pipeline,thousand tons,2012,2746.8185,20892.4803,14827.7754
+Virginia,Domestic Only,Rail,thousand tons,2012,5283.814179,29052.26597,11266.2355
+Virginia,Domestic Only,Truck,thousand tons,2012,158562.0237,52968.71934,49868.75076
+Virginia,Domestic Only,Water,thousand tons,2012,822.7171,654.516,378.5195
+Virginia,Export,Air (include truck-air),thousand tons,2012,8.497747,42.173024,40.479546
+Virginia,Export,Multiple modes & mail,thousand tons,2012,54.582604,1599.539033,124.853931
+Virginia,Export,Other and unknown,thousand tons,2012,0.9451,0,4.3115
+Virginia,Export,Rail,thousand tons,2012,2060.2767,45359.5258,781.855425
+Virginia,Export,Truck,thousand tons,2012,7794.330552,24082.36808,1426.293516
+Virginia,Export,Water,thousand tons,2012,486.400721,1407.837415,179.801954
+Virginia,Import,Air (include truck-air),thousand tons,2012,8.282512,25.192964,21.141577
+Virginia,Import,Multiple modes & mail,thousand tons,2012,314.946635,182.601886,1511.459414
+Virginia,Import,Other and unknown,thousand tons,2012,81.8729,24.63029,106.7148
+Virginia,Import,Pipeline,thousand tons,2012,0,0.015392,0
+Virginia,Import,Rail,thousand tons,2012,167.947953,1337.591801,88.0955
+Virginia,Import,Truck,thousand tons,2012,3403.791503,982.702384,1770.531995
+Virginia,Import,Water,thousand tons,2012,137.814839,215.972764,137.048135
+Washington,Domestic Only,Air (include truck-air),thousand tons,2012,0.3778,37.639502,47.969703
+Washington,Domestic Only,Multiple modes & mail,thousand tons,2012,4636.713294,3366.638712,3322.359913
+Washington,Domestic Only,Pipeline,thousand tons,2012,17756.3152,11611.4602,11336.2101
+Washington,Domestic Only,Rail,thousand tons,2012,9274.703879,24429.6841,4994.103975
+Washington,Domestic Only,Truck,thousand tons,2012,154092.3136,29081.34174,23433.48853
+Washington,Domestic Only,Water,thousand tons,2012,1593.9927,6771.1439,3150.483673
+Washington,Export,Air (include truck-air),thousand tons,2012,946.166448,18.520484,38.762481
+Washington,Export,Multiple modes & mail,thousand tons,2012,1318.912972,3814.069011,221.968277
+Washington,Export,Other and unknown,thousand tons,2012,8.1433,35.726858,321.2388
+Washington,Export,Pipeline,thousand tons,2012,174.565437,90.438444,0.428991
+Washington,Export,Rail,thousand tons,2012,1452.73481,1845.112382,529.215503
+Washington,Export,Truck,thousand tons,2012,46170.73074,7207.925358,1616.046108
+Washington,Export,Water,thousand tons,2012,1377.285968,91.684401,252.946836
+Washington,Import,Air (include truck-air),thousand tons,2012,1.210618,15.593281,5.608068
+Washington,Import,Multiple modes & mail,thousand tons,2012,132.420383,292.360094,3046.592119
+Washington,Import,No domestic mode,thousand tons,2012,10732.548,0,0
+Washington,Import,Other and unknown,thousand tons,2012,23.4328,2.660935,23.1166
+Washington,Import,Pipeline,thousand tons,2012,8306.330258,0,690.5089
+Washington,Import,Rail,thousand tons,2012,1940.733654,1154.001441,4112.162363
+Washington,Import,Truck,thousand tons,2012,9160.431366,1358.140307,2175.819736
+Washington,Import,Water,thousand tons,2012,3844.118428,126.491868,68.241476
+Washington DC,Domestic Only,Air (include truck-air),thousand tons,2012,0,1.798801,0.221
+Washington DC,Domestic Only,Multiple modes & mail,thousand tons,2012,0.1482,106.2367,6.4252
+Washington DC,Domestic Only,Pipeline,thousand tons,2012,0,522.9823,0
+Washington DC,Domestic Only,Rail,thousand tons,2012,0,12.6857,0
+Washington DC,Domestic Only,Truck,thousand tons,2012,2040.1633,3127.439317,3546.6639
+Washington DC,Export,Air (include truck-air),thousand tons,2012,0,0.002294,1.9054
+Washington DC,Export,Multiple modes & mail,thousand tons,2012,0,0,0.252253
+Washington DC,Export,Other and unknown,thousand tons,2012,0.0131,20.4193,0.0036
+Washington DC,Export,Rail,thousand tons,2012,0,51.6676,0.6473
+Washington DC,Export,Truck,thousand tons,2012,0,0.00335,3.748999
+Washington DC,Export,Water,thousand tons,2012,0.0615,8.792,18.511804
+Washington DC,Import,Air (include truck-air),thousand tons,2012,0,1.125748,0.000795
+Washington DC,Import,Multiple modes & mail,thousand tons,2012,0,3.031116,0.000005
+Washington DC,Import,Other and unknown,thousand tons,2012,0.1611,0.1567,0.6394
+Washington DC,Import,Rail,thousand tons,2012,0,4.6338,3.762471
+Washington DC,Import,Truck,thousand tons,2012,0,56.251283,0.00016
+Washington DC,Import,Water,thousand tons,2012,0.0377,1.785761,3.002942
+West Virginia,Domestic Only,Air (include truck-air),thousand tons,2012,0,6.612302,2.4201
+West Virginia,Domestic Only,Multiple modes & mail,thousand tons,2012,5937.4653,7662.537501,1422.919958
+West Virginia,Domestic Only,Pipeline,thousand tons,2012,13562.941,21061.7347,23918.6897
+West Virginia,Domestic Only,Rail,thousand tons,2012,3301.1801,3553.7055,69594.0282
+West Virginia,Domestic Only,Truck,thousand tons,2012,50940.15571,20572.92434,18157.57574
+West Virginia,Domestic Only,Water,thousand tons,2012,1567.2376,11681.9893,7000.5112
+West Virginia,Export,Air (include truck-air),thousand tons,2012,0,0.0004,5.602116
+West Virginia,Export,Multiple modes & mail,thousand tons,2012,0,0,6918.872347
+West Virginia,Export,Other and unknown,thousand tons,2012,0,0,2.199
+West Virginia,Export,Rail,thousand tons,2012,0,0,54287.50934
+West Virginia,Export,Truck,thousand tons,2012,0.0112,0,13610.85579
+West Virginia,Export,Water,thousand tons,2012,0,0,12.654757
+West Virginia,Import,Air (include truck-air),thousand tons,2012,0,6.050449,0.0683
+West Virginia,Import,Multiple modes & mail,thousand tons,2012,0,83.417441,0
+West Virginia,Import,Other and unknown,thousand tons,2012,0,0.412,0
+West Virginia,Import,Rail,thousand tons,2012,0,978.995723,0
+West Virginia,Import,Truck,thousand tons,2012,0.0271,280.930175,0
+West Virginia,Import,Water,thousand tons,2012,0,0.09657,0
+Wisconsin,Domestic Only,Air (include truck-air),thousand tons,2012,0.047801,24.6114,31.131807
+Wisconsin,Domestic Only,Multiple modes & mail,thousand tons,2012,226.1905,2318.961527,4409.245547
+Wisconsin,Domestic Only,Pipeline,thousand tons,2012,1968.4771,13204.8439,13079.0299
+Wisconsin,Domestic Only,Rail,thousand tons,2012,2864.263,50363.3874,11615.8499
+Wisconsin,Domestic Only,Truck,thousand tons,2012,196233.4754,60425.58444,60205.1531
+Wisconsin,Domestic Only,Water,thousand tons,2012,658.2835,4915.115,29.4725
+Wisconsin,Export,Air (include truck-air),thousand tons,2012,0.0961,0.1555,93.778098
+Wisconsin,Export,Multiple modes & mail,thousand tons,2012,0,0,1107.498181
+Wisconsin,Export,Other and unknown,thousand tons,2012,0,0,6.0447
+Wisconsin,Export,Rail,thousand tons,2012,0,0.0255,4435.471838
+Wisconsin,Export,Truck,thousand tons,2012,5.0761,0,3410.792715
+Wisconsin,Export,Water,thousand tons,2012,175.2501,0.8003,581.143364
+Wisconsin,Import,Air (include truck-air),thousand tons,2012,1.294794,49.494442,0.373325
+Wisconsin,Import,Multiple modes & mail,thousand tons,2012,0.177738,949.251929,9.985009
+Wisconsin,Import,No domestic mode,thousand tons,2012,1211.4554,0,0
+Wisconsin,Import,Other and unknown,thousand tons,2012,0.234621,24.619087,0.051455
+Wisconsin,Import,Pipeline,thousand tons,2012,0,127.3426,0
+Wisconsin,Import,Rail,thousand tons,2012,0,3162.616233,6.0964
+Wisconsin,Import,Truck,thousand tons,2012,362.992039,2217.78373,90.259917
+Wisconsin,Import,Water,thousand tons,2012,703.446454,697.28912,11.627749
+Wyoming,Domestic Only,Air (include truck-air),thousand tons,2012,0,1.718,1.5973
+Wyoming,Domestic Only,Multiple modes & mail,thousand tons,2012,8.8311,351.9895,750.48698
+Wyoming,Domestic Only,Other and unknown,thousand tons,2012,9934,0,0
+Wyoming,Domestic Only,Pipeline,thousand tons,2012,36622.4674,33667.6185,65676.6949
+Wyoming,Domestic Only,Rail,thousand tons,2012,17490.2351,2627.1779,371894.472
+Wyoming,Domestic Only,Truck,thousand tons,2012,13523.02781,8774.1333,9439.717287
+Wyoming,Export,Air (include truck-air),thousand tons,2012,0,0,1.195703
+Wyoming,Export,Multiple modes & mail,thousand tons,2012,0,0,175.16724
+Wyoming,Export,Other and unknown,thousand tons,2012,0,0,1.9293
+Wyoming,Export,Pipeline,thousand tons,2012,0,0,64.6834
+Wyoming,Export,Rail,thousand tons,2012,0,0,5077.823469
+Wyoming,Export,Truck,thousand tons,2012,0,0,241.109333
+Wyoming,Import,Air (include truck-air),thousand tons,2012,0,0.971502,0
+Wyoming,Import,Multiple modes & mail,thousand tons,2012,0,31.32646,0
+Wyoming,Import,Other and unknown,thousand tons,2012,0,1.2894,0
+Wyoming,Import,Pipeline,thousand tons,2012,0,3244.0749,0
+Wyoming,Import,Rail,thousand tons,2012,0,439.12509,0
+Wyoming,Import,Truck,thousand tons,2012,0,93.689215,0
+Alabama,Domestic Only,Air (include truck-air),thousand tons,2022,0.000214,9.85325,67.145239
+Alabama,Domestic Only,Multiple modes & mail,thousand tons,2022,2340.591682,9219.049936,12196.18972
+Alabama,Domestic Only,Pipeline,thousand tons,2022,17955.15336,104879.9128,81232.90219
+Alabama,Domestic Only,Rail,thousand tons,2022,8925.960619,12179.97282,13142.61239
+Alabama,Domestic Only,Truck,thousand tons,2022,154367.4935,47366.65111,59887.24175
+Alabama,Domestic Only,Water,thousand tons,2022,7044.599237,4036.917884,1582.520513
+Alabama,Export,Air (include truck-air),thousand tons,2022,0,11.011816,13.113092
+Alabama,Export,Multiple modes & mail,thousand tons,2022,357.586342,279.307327,252.541134
+Alabama,Export,Other and unknown,thousand tons,2022,0.216871,0,53.560304
+Alabama,Export,Rail,thousand tons,2022,5848.137227,942.085138,1821.033357
+Alabama,Export,Truck,thousand tons,2022,6712.873005,853.284075,1968.791853
+Alabama,Export,Water,thousand tons,2022,2108.373769,1621.979626,338.711287
+Alabama,Import,Air (include truck-air),thousand tons,2022,0.000066,8.515305,8.705808
+Alabama,Import,Multiple modes & mail,thousand tons,2022,4449.515126,179.591233,982.294445
+Alabama,Import,Other and unknown,thousand tons,2022,0.000329,0.101255,0
+Alabama,Import,Pipeline,thousand tons,2022,1034.3241,0,0
+Alabama,Import,Rail,thousand tons,2022,7072.76519,1683.956287,2270.795112
+Alabama,Import,Truck,thousand tons,2022,33597.53155,2091.435778,1629.307718
+Alabama,Import,Water,thousand tons,2022,20197.79389,311.56021,9709.479078
+Alaska,Domestic Only,Air (include truck-air),thousand tons,2022,25.22332,128.527256,20.526929
+Alaska,Domestic Only,Multiple modes & mail,thousand tons,2022,1146.913844,1999.52266,302.441865
+Alaska,Domestic Only,Pipeline,thousand tons,2022,3176.515402,0,0
+Alaska,Domestic Only,Rail,thousand tons,2022,2304.912523,0,0
+Alaska,Domestic Only,Truck,thousand tons,2022,16271.2035,0,0
+Alaska,Domestic Only,Water,thousand tons,2022,3578.004698,483.180882,26084.1528
+Alaska,Export,Air (include truck-air),thousand tons,2022,0.63796,92.510478,2.907379
+Alaska,Export,Multiple modes & mail,thousand tons,2022,648.885473,180.283169,47.27296
+Alaska,Export,Other and unknown,thousand tons,2022,0.299806,0.12663,11.239482
+Alaska,Export,Pipeline,thousand tons,2022,2255.7201,0,0
+Alaska,Export,Rail,thousand tons,2022,3509.999673,0.748944,1.083711
+Alaska,Export,Truck,thousand tons,2022,926.400932,0,0.088213
+Alaska,Export,Water,thousand tons,2022,1080.090993,132.187115,133.835239
+Alaska,Import,Air (include truck-air),thousand tons,2022,0.231872,1.454163,26.788008
+Alaska,Import,Multiple modes & mail,thousand tons,2022,249.466478,28.562026,42.149238
+Alaska,Import,No domestic mode,thousand tons,2022,286.26199,0,0
+Alaska,Import,Other and unknown,thousand tons,2022,0.059079,0.0005,0.048679
+Alaska,Import,Rail,thousand tons,2022,397.335425,0.524995,0
+Alaska,Import,Truck,thousand tons,2022,386.101578,0.23903,0.056271
+Alaska,Import,Water,thousand tons,2022,538.796759,104.429276,4.228472
+Arizona,Domestic Only,Air (include truck-air),thousand tons,2022,0,18.291469,15.61062
+Arizona,Domestic Only,Multiple modes & mail,thousand tons,2022,436.902437,5815.344564,2215.227598
+Arizona,Domestic Only,Pipeline,thousand tons,2022,5143.528664,32470.3373,19691.03035
+Arizona,Domestic Only,Rail,thousand tons,2022,9469.876127,11058.18924,1434.227679
+Arizona,Domestic Only,Truck,thousand tons,2022,110841.5476,23098.31007,17993.29502
+Arizona,Export,Air (include truck-air),thousand tons,2022,0.001612,1.216847,54.296047
+Arizona,Export,Multiple modes & mail,thousand tons,2022,3.026555,44.408262,128.603668
+Arizona,Export,Other and unknown,thousand tons,2022,35.265991,77.075289,47.216922
+Arizona,Export,Pipeline,thousand tons,2022,883.318398,2.589422,961.045019
+Arizona,Export,Rail,thousand tons,2022,8132.187353,1948.754295,180.251565
+Arizona,Export,Truck,thousand tons,2022,1292.830924,1665.878791,1343.060737
+Arizona,Import,Air (include truck-air),thousand tons,2022,0.005691,26.678593,2.098166
+Arizona,Import,Multiple modes & mail,thousand tons,2022,0,278.631166,0.002289
+Arizona,Import,Other and unknown,thousand tons,2022,64.567226,6.076282,8.752324
+Arizona,Import,Pipeline,thousand tons,2022,10.158704,0,4.758308
+Arizona,Import,Rail,thousand tons,2022,579.534578,712.594397,1072.603205
+Arizona,Import,Truck,thousand tons,2022,3587.655611,1706.913927,1853.28379
+Arkansas,Domestic Only,Air (include truck-air),thousand tons,2022,0,3.239539,2.173563
+Arkansas,Domestic Only,Multiple modes & mail,thousand tons,2022,734.905689,5146.694414,6289.374243
+Arkansas,Domestic Only,Pipeline,thousand tons,2022,8564.899015,24697.05924,34943.10351
+Arkansas,Domestic Only,Rail,thousand tons,2022,8978.768243,14098.58069,3220.530892
+Arkansas,Domestic Only,Truck,thousand tons,2022,138909.152,33268.09753,38332.43696
+Arkansas,Domestic Only,Water,thousand tons,2022,197.47768,3475.614215,2695.360338
+Arkansas,Export,Air (include truck-air),thousand tons,2022,3.153832,0.006663,8.812525
+Arkansas,Export,Multiple modes & mail,thousand tons,2022,0,0,283.836152
+Arkansas,Export,Other and unknown,thousand tons,2022,6.274769,0,18.451471
+Arkansas,Export,Rail,thousand tons,2022,0,0,1080.79009
+Arkansas,Export,Truck,thousand tons,2022,0,0,1591.714053
+Arkansas,Export,Water,thousand tons,2022,0,0,288.91837
+Arkansas,Import,Air (include truck-air),thousand tons,2022,0.355113,8.431833,0.091538
+Arkansas,Import,Multiple modes & mail,thousand tons,2022,0,498.705924,0
+Arkansas,Import,Other and unknown,thousand tons,2022,7.03368,0.680994,0
+Arkansas,Import,Rail,thousand tons,2022,0,615.040856,0
+Arkansas,Import,Truck,thousand tons,2022,0,1022.291177,0.000029
+Arkansas,Import,Water,thousand tons,2022,0,302.02683,0
+California,Domestic Only,Air (include truck-air),thousand tons,2022,24.612244,117.932177,717.155094
+California,Domestic Only,Multiple modes & mail,thousand tons,2022,7508.869044,26531.96034,18982.29506
+California,Domestic Only,Pipeline,thousand tons,2022,161333.8402,46450.01823,3434.661232
+California,Domestic Only,Rail,thousand tons,2022,16379.80859,19851.78892,5776.380177
+California,Domestic Only,Truck,thousand tons,2022,742354.9434,75766.03757,77319.43618
+California,Domestic Only,Water,thousand tons,2022,13265.54798,21992.23932,17.773812
+California,Export,Air (include truck-air),thousand tons,2022,215.826662,161.457496,155.421741
+California,Export,Multiple modes & mail,thousand tons,2022,6423.724086,5446.17928,1029.907562
+California,Export,Other and unknown,thousand tons,2022,1134.359329,1167.649513,280.975171
+California,Export,Pipeline,thousand tons,2022,151.811715,419.814775,0
+California,Export,Rail,thousand tons,2022,4418.820664,8321.317561,3442.409292
+California,Export,Truck,thousand tons,2022,36345.69642,15365.33781,6752.045723
+California,Export,Water,thousand tons,2022,3611.2991,85.040887,412.875938
+California,Import,Air (include truck-air),thousand tons,2022,329.204438,252.218275,229.616986
+California,Import,Multiple modes & mail,thousand tons,2022,7282.797753,3910.652094,7757.271776
+California,Import,No domestic mode,thousand tons,2022,44463.60686,0,0
+California,Import,Other and unknown,thousand tons,2022,13.995657,3.078188,5.196401
+California,Import,Pipeline,thousand tons,2022,13.562634,4.758308,0
+California,Import,Rail,thousand tons,2022,2308.727186,8344.278219,3689.176551
+California,Import,Truck,thousand tons,2022,50920.43191,6170.373546,15792.60151
+California,Import,Water,thousand tons,2022,6125.606833,448.768192,240.104174
+Colorado,Domestic Only,Air (include truck-air),thousand tons,2022,0.08563,26.129322,32.683114
+Colorado,Domestic Only,Multiple modes & mail,thousand tons,2022,823.007652,5909.893022,3196.682867
+Colorado,Domestic Only,Pipeline,thousand tons,2022,14322.23748,36066.19204,81310.06133
+Colorado,Domestic Only,Rail,thousand tons,2022,7790.982943,9390.081384,8723.859765
+Colorado,Domestic Only,Truck,thousand tons,2022,151171.4,28358.6563,27220.63401
+Colorado,Export,Air (include truck-air),thousand tons,2022,0,3.566523,29.185441
+Colorado,Export,Multiple modes & mail,thousand tons,2022,0,0.000996,197.780876
+Colorado,Export,Other and unknown,thousand tons,2022,0,0,530.631442
+Colorado,Export,Pipeline,thousand tons,2022,0,0,75.209231
+Colorado,Export,Rail,thousand tons,2022,0,0,559.978698
+Colorado,Export,Truck,thousand tons,2022,5.454679,0.018449,1485.041276
+Colorado,Import,Air (include truck-air),thousand tons,2022,0,21.019444,4.477189
+Colorado,Import,Multiple modes & mail,thousand tons,2022,0,314.147108,0.008947
+Colorado,Import,Other and unknown,thousand tons,2022,0,0.094954,0
+Colorado,Import,Pipeline,thousand tons,2022,0,462.399399,0
+Colorado,Import,Rail,thousand tons,2022,0,851.828182,0
+Colorado,Import,Truck,thousand tons,2022,15.823618,1167.589027,0.00038
+Connecticut,Domestic Only,Air (include truck-air),thousand tons,2022,0,9.293093,10.21115
+Connecticut,Domestic Only,Multiple modes & mail,thousand tons,2022,42.206832,1179.45042,722.509524
+Connecticut,Domestic Only,Pipeline,thousand tons,2022,5836.07851,16065.77023,7980.559135
+Connecticut,Domestic Only,Rail,thousand tons,2022,448.747209,815.187289,1335.02305
+Connecticut,Domestic Only,Truck,thousand tons,2022,78319.3477,23276.82761,27458.02723
+Connecticut,Domestic Only,Water,thousand tons,2022,7.140271,2875.877425,6.461953
+Connecticut,Export,Air (include truck-air),thousand tons,2022,0,0.083397,27.370194
+Connecticut,Export,Multiple modes & mail,thousand tons,2022,0,0.011234,155.155568
+Connecticut,Export,Other and unknown,thousand tons,2022,13.941112,0,73.785461
+Connecticut,Export,Pipeline,thousand tons,2022,0,0,7.83398
+Connecticut,Export,Rail,thousand tons,2022,95.510667,104.581972,713.104678
+Connecticut,Export,Truck,thousand tons,2022,136.523374,0.09705,1147.52763
+Connecticut,Export,Water,thousand tons,2022,0,0,0.037023
+Connecticut,Import,Air (include truck-air),thousand tons,2022,0,11.319552,0.189551
+Connecticut,Import,Multiple modes & mail,thousand tons,2022,4.330812,737.475295,91.810404
+Connecticut,Import,Other and unknown,thousand tons,2022,0.019372,3.100435,0.422407
+Connecticut,Import,Rail,thousand tons,2022,1060.833519,1795.277408,770.938541
+Connecticut,Import,Truck,thousand tons,2022,971.673039,2761.915646,0.376871
+Connecticut,Import,Water,thousand tons,2022,13.432819,0.018228,181.232272
+Delaware,Domestic Only,Air (include truck-air),thousand tons,2022,0,79.214286,1.133939
+Delaware,Domestic Only,Multiple modes & mail,thousand tons,2022,63.540581,1296.764114,1020.986731
+Delaware,Domestic Only,Pipeline,thousand tons,2022,3560.837069,1548.157096,3190.501066
+Delaware,Domestic Only,Rail,thousand tons,2022,2.266719,1699.806902,1551.644769
+Delaware,Domestic Only,Truck,thousand tons,2022,17396.1302,14184.03445,11826.98402
+Delaware,Domestic Only,Water,thousand tons,2022,1.550243,401.527146,587.892511
+Delaware,Export,Air (include truck-air),thousand tons,2022,0,0.559112,3.984323
+Delaware,Export,Multiple modes & mail,thousand tons,2022,0,5.948929,65.559039
+Delaware,Export,Other and unknown,thousand tons,2022,0,0,24.593626
+Delaware,Export,Rail,thousand tons,2022,55.731624,267.385674,166.358003
+Delaware,Export,Truck,thousand tons,2022,866.323555,127.796518,450.81306
+Delaware,Export,Water,thousand tons,2022,62.842742,6.050132,0.044751
+Delaware,Import,Air (include truck-air),thousand tons,2022,0,3.680805,0.001012
+Delaware,Import,Multiple modes & mail,thousand tons,2022,8.793306,83.285779,74.417099
+Delaware,Import,No domestic mode,thousand tons,2022,3891.547544,0,0
+Delaware,Import,Other and unknown,thousand tons,2022,0.497965,1.082152,2.281994
+Delaware,Import,Rail,thousand tons,2022,369.716375,1835.321978,1214.389714
+Delaware,Import,Truck,thousand tons,2022,2700.895889,505.467026,865.637407
+Delaware,Import,Water,thousand tons,2022,0,0,866.654837
+Florida,Domestic Only,Air (include truck-air),thousand tons,2022,0.949786,59.186439,46.295125
+Florida,Domestic Only,Multiple modes & mail,thousand tons,2022,11133.72153,13965.37829,8994.912647
+Florida,Domestic Only,Pipeline,thousand tons,2022,33899.11671,33614.35721,0
+Florida,Domestic Only,Rail,thousand tons,2022,14843.48758,17798.851,3319.480604
+Florida,Domestic Only,Truck,thousand tons,2022,527673.0559,62137.46882,39076.21097
+Florida,Domestic Only,Water,thousand tons,2022,3.273147,17567.01374,82.497048
+Florida,Export,Air (include truck-air),thousand tons,2022,5.810378,216.995106,57.964431
+Florida,Export,Multiple modes & mail,thousand tons,2022,592.375302,586.259635,252.191694
+Florida,Export,Other and unknown,thousand tons,2022,100.906404,25.430978,57.195304
+Florida,Export,Rail,thousand tons,2022,2328.551474,276.990442,2469.932974
+Florida,Export,Truck,thousand tons,2022,8877.386559,2462.792342,2693.494421
+Florida,Export,Water,thousand tons,2022,265.220193,20.02855,727.099817
+Florida,Import,Air (include truck-air),thousand tons,2022,22.846355,95.848793,132.876407
+Florida,Import,Multiple modes & mail,thousand tons,2022,1856.929782,2017.344823,3555.60377
+Florida,Import,Other and unknown,thousand tons,2022,25.528804,2.03162,7.834089
+Florida,Import,Rail,thousand tons,2022,3987.637475,5982.153504,3674.660959
+Florida,Import,Truck,thousand tons,2022,24341.48453,3575.42478,4355.94143
+Florida,Import,Water,thousand tons,2022,781.877513,1892.081254,24.89396
+Georgia,Domestic Only,Air (include truck-air),thousand tons,2022,7.486397,43.539912,43.89401
+Georgia,Domestic Only,Multiple modes & mail,thousand tons,2022,3198.043008,16953.12881,12134.35748
+Georgia,Domestic Only,Pipeline,thousand tons,2022,18734.29511,35194.22622,18376.02528
+Georgia,Domestic Only,Rail,thousand tons,2022,15140.2837,22224.31948,8638.498815
+Georgia,Domestic Only,Truck,thousand tons,2022,255533.4881,91522.24046,80942.14686
+Georgia,Domestic Only,Water,thousand tons,2022,306.10141,0.781812,50.42239
+Georgia,Export,Air (include truck-air),thousand tons,2022,0.000692,85.27768,61.952704
+Georgia,Export,Multiple modes & mail,thousand tons,2022,874.324516,778.623073,391.188831
+Georgia,Export,Other and unknown,thousand tons,2022,54.985334,101.102369,123.25565
+Georgia,Export,Rail,thousand tons,2022,734.861766,1566.204421,1945.761255
+Georgia,Export,Truck,thousand tons,2022,12167.84987,4582.187448,3457.873259
+Georgia,Export,Water,thousand tons,2022,0,3.462384,0.229398
+Georgia,Import,Air (include truck-air),thousand tons,2022,0.000395,52.647967,93.841712
+Georgia,Import,Multiple modes & mail,thousand tons,2022,1030.385696,1071.314503,823.863372
+Georgia,Import,Other and unknown,thousand tons,2022,0.761544,1.187463,1.087405
+Georgia,Import,Rail,thousand tons,2022,649.054741,2213.386229,3594.091973
+Georgia,Import,Truck,thousand tons,2022,17131.93429,4860.042246,5133.167735
+Georgia,Import,Water,thousand tons,2022,0,2.200787,1.877956
+Hawaii,Domestic Only,Air (include truck-air),thousand tons,2022,76.840238,613.612058,10.529467
+Hawaii,Domestic Only,Multiple modes & mail,thousand tons,2022,1319.116181,1892.004504,176.317452
+Hawaii,Domestic Only,Pipeline,thousand tons,2022,6027.570146,0,0
+Hawaii,Domestic Only,Truck,thousand tons,2022,24405.2775,0,0
+Hawaii,Domestic Only,Water,thousand tons,2022,164.3037,715.86029,0.015223
+Hawaii,Export,Air (include truck-air),thousand tons,2022,18.820001,118.899049,10.75694
+Hawaii,Export,Multiple modes & mail,thousand tons,2022,528.329264,27.175013,25.575101
+Hawaii,Export,Other and unknown,thousand tons,2022,7.634283,25.360423,11.828565
+Hawaii,Export,Truck,thousand tons,2022,366.498307,0,0
+Hawaii,Export,Water,thousand tons,2022,1552.706288,26.057385,363.93224
+Hawaii,Import,Air (include truck-air),thousand tons,2022,14.510963,52.870158,2.985841
+Hawaii,Import,Multiple modes & mail,thousand tons,2022,1539.526667,35.662121,842.282518
+Hawaii,Import,No domestic mode,thousand tons,2022,3471.098315,0,0
+Hawaii,Import,Other and unknown,thousand tons,2022,0.011451,1.155673,0.419898
+Hawaii,Import,Truck,thousand tons,2022,1004.911827,0,0
+Hawaii,Import,Water,thousand tons,2022,2481.555984,30.181037,923.770935
+Idaho,Domestic Only,Air (include truck-air),thousand tons,2022,0.013375,4.065824,4.387844
+Idaho,Domestic Only,Multiple modes & mail,thousand tons,2022,64.388636,2026.599415,4051.917879
+Idaho,Domestic Only,Pipeline,thousand tons,2022,28366.3105,2583.214984,20249.51694
+Idaho,Domestic Only,Rail,thousand tons,2022,1914.69782,2514.127425,2855.737852
+Idaho,Domestic Only,Truck,thousand tons,2022,76519.86672,17568.04043,16768.52819
+Idaho,Export,Air (include truck-air),thousand tons,2022,0.012261,0.276084,7.852381
+Idaho,Export,Multiple modes & mail,thousand tons,2022,0,0,4.820656
+Idaho,Export,Other and unknown,thousand tons,2022,0,3.247422,25.561979
+Idaho,Export,Rail,thousand tons,2022,0,0,694.455134
+Idaho,Export,Truck,thousand tons,2022,0.006153,1.90791,784.034082
+Idaho,Import,Air (include truck-air),thousand tons,2022,0.04901,5.156382,0.489118
+Idaho,Import,Multiple modes & mail,thousand tons,2022,0,74.220324,0.139381
+Idaho,Import,Other and unknown,thousand tons,2022,0,0.00919,0
+Idaho,Import,Pipeline,thousand tons,2022,0,0,9162.731113
+Idaho,Import,Rail,thousand tons,2022,1506.691574,229.45629,7622.161917
+Idaho,Import,Truck,thousand tons,2022,328.518299,765.955595,715.957114
+Illinois,Domestic Only,Air (include truck-air),thousand tons,2022,0.124495,20.432632,48.73963
+Illinois,Domestic Only,Multiple modes & mail,thousand tons,2022,3407.746164,23590.01855,25817.41828
+Illinois,Domestic Only,Other and unknown,thousand tons,2022,1129.4509,0,0
+Illinois,Domestic Only,Pipeline,thousand tons,2022,33542.89815,87473.79238,64702.16425
+Illinois,Domestic Only,Rail,thousand tons,2022,12628.0937,33468.69487,37916.97376
+Illinois,Domestic Only,Truck,thousand tons,2022,471667.8927,123352.4833,129741.5857
+Illinois,Domestic Only,Water,thousand tons,2022,11845.17913,8767.761946,49785.70668
+Illinois,Export,Air (include truck-air),thousand tons,2022,0.070257,350.27063,100.321515
+Illinois,Export,Multiple modes & mail,thousand tons,2022,8.773866,32.391944,2945.965638
+Illinois,Export,Other and unknown,thousand tons,2022,313.513026,35.276615,32.890666
+Illinois,Export,Pipeline,thousand tons,2022,0,0,8021.011109
+Illinois,Export,Rail,thousand tons,2022,3.560138,34.997205,13752.17535
+Illinois,Export,Truck,thousand tons,2022,213.640302,282.701878,16182.48983
+Illinois,Export,Water,thousand tons,2022,36.765172,16.511952,936.564901
+Illinois,Import,Air (include truck-air),thousand tons,2022,1.405778,74.972728,400.326165
+Illinois,Import,Multiple modes & mail,thousand tons,2022,770.74692,1410.69723,1970.485147
+Illinois,Import,Other and unknown,thousand tons,2022,4.770239,0.563032,0.66299
+Illinois,Import,Pipeline,thousand tons,2022,0,51971.65082,0
+Illinois,Import,Rail,thousand tons,2022,1623.1367,18382.66916,1073.873031
+Illinois,Import,Truck,thousand tons,2022,6827.183036,10578.0819,5333.877472
+Illinois,Import,Water,thousand tons,2022,574.794008,4255.628803,1217.304685
+Indiana,Domestic Only,Air (include truck-air),thousand tons,2022,0.001072,12.203549,6.529771
+Indiana,Domestic Only,Multiple modes & mail,thousand tons,2022,923.649243,27901.70474,19569.50823
+Indiana,Domestic Only,Pipeline,thousand tons,2022,25986.66109,94051.29622,62413.7177
+Indiana,Domestic Only,Rail,thousand tons,2022,28530.25379,26984.8249,25801.26514
+Indiana,Domestic Only,Truck,thousand tons,2022,252568.9566,102034.7899,107943.3716
+Indiana,Domestic Only,Water,thousand tons,2022,4019.914537,10399.06889,15577.31216
+Indiana,Export,Air (include truck-air),thousand tons,2022,0.000915,1.798709,29.082148
+Indiana,Export,Multiple modes & mail,thousand tons,2022,21.404567,815.670772,725.57781
+Indiana,Export,Other and unknown,thousand tons,2022,71.189644,4.952626,82.246683
+Indiana,Export,Pipeline,thousand tons,2022,0,0,9907.6338
+Indiana,Export,Rail,thousand tons,2022,0,294.248053,1847.776815
+Indiana,Export,Truck,thousand tons,2022,21.277514,0.565116,5675.108543
+Indiana,Export,Water,thousand tons,2022,0,0.530511,75.210456
+Indiana,Import,Air (include truck-air),thousand tons,2022,0.002461,12.878259,0.96707
+Indiana,Import,Multiple modes & mail,thousand tons,2022,10.257573,1202.741453,401.601406
+Indiana,Import,Other and unknown,thousand tons,2022,0,1.0546,0.009435
+Indiana,Import,Pipeline,thousand tons,2022,0,17619.8658,0
+Indiana,Import,Rail,thousand tons,2022,0,5080.923725,699.367155
+Indiana,Import,Truck,thousand tons,2022,14.12789,6793.458329,1.565137
+Indiana,Import,Water,thousand tons,2022,0,444.617915,0
+Iowa,Domestic Only,Air (include truck-air),thousand tons,2022,0.00083,5.304212,16.284305
+Iowa,Domestic Only,Multiple modes & mail,thousand tons,2022,708.100706,5320.547427,27339.98294
+Iowa,Domestic Only,Pipeline,thousand tons,2022,9333.993054,55362.86922,41325.85164
+Iowa,Domestic Only,Rail,thousand tons,2022,7835.428037,14770.67578,19931.76658
+Iowa,Domestic Only,Truck,thousand tons,2022,307852.8417,59388.78477,77982.23103
+Iowa,Domestic Only,Water,thousand tons,2022,0,1236.007624,3675.275461
+Iowa,Export,Air (include truck-air),thousand tons,2022,0.236341,0.001339,16.642878
+Iowa,Export,Multiple modes & mail,thousand tons,2022,0,0,2307.724642
+Iowa,Export,Other and unknown,thousand tons,2022,0,0,23.056604
+Iowa,Export,Rail,thousand tons,2022,0,0,10141.37437
+Iowa,Export,Truck,thousand tons,2022,0.000496,0.001483,2557.642761
+Iowa,Export,Water,thousand tons,2022,0,0,2222.096077
+Iowa,Import,Air (include truck-air),thousand tons,2022,13.482488,18.403564,0.155402
+Iowa,Import,Multiple modes & mail,thousand tons,2022,0,263.735963,0
+Iowa,Import,Other and unknown,thousand tons,2022,0,0.057893,0
+Iowa,Import,Pipeline,thousand tons,2022,0,516.000835,0
+Iowa,Import,Rail,thousand tons,2022,0,2771.201006,0
+Iowa,Import,Truck,thousand tons,2022,0.000339,1515.115453,0.001925
+Iowa,Import,Water,thousand tons,2022,0,203.729884,0
+Kansas,Domestic Only,Air (include truck-air),thousand tons,2022,0.000887,9.684676,7.693076
+Kansas,Domestic Only,Multiple modes & mail,thousand tons,2022,1001.605167,4806.430152,7412.833561
+Kansas,Domestic Only,Pipeline,thousand tons,2022,20982.31601,54454.5203,48074.73631
+Kansas,Domestic Only,Rail,thousand tons,2022,6307.371546,7613.744889,8826.036019
+Kansas,Domestic Only,Truck,thousand tons,2022,195762.7358,40107.98746,50674.75556
+Kansas,Domestic Only,Water,thousand tons,2022,0,0,19.454433
+Kansas,Export,Air (include truck-air),thousand tons,2022,0,0.327655,17.620298
+Kansas,Export,Multiple modes & mail,thousand tons,2022,0,0,461.538047
+Kansas,Export,Other and unknown,thousand tons,2022,10.578094,0,36.949302
+Kansas,Export,Pipeline,thousand tons,2022,0,0,163.183063
+Kansas,Export,Rail,thousand tons,2022,0,0,4695.524483
+Kansas,Export,Truck,thousand tons,2022,15.987134,0,2475.867733
+Kansas,Export,Water,thousand tons,2022,0,0,3.643676
+Kansas,Import,Air (include truck-air),thousand tons,2022,0,17.01023,0.105323
+Kansas,Import,Multiple modes & mail,thousand tons,2022,0,1001.144813,0
+Kansas,Import,Other and unknown,thousand tons,2022,0,0.806122,0
+Kansas,Import,Pipeline,thousand tons,2022,0,5389.722387,0
+Kansas,Import,Rail,thousand tons,2022,0,2226.844471,0
+Kansas,Import,Truck,thousand tons,2022,1.432095,1934.283391,0.000681
+Kentucky,Domestic Only,Air (include truck-air),thousand tons,2022,0,17.074569,13.729908
+Kentucky,Domestic Only,Multiple modes & mail,thousand tons,2022,309.308051,6417.609735,5749.154769
+Kentucky,Domestic Only,Other and unknown,thousand tons,2022,261.37585,0,0
+Kentucky,Domestic Only,Pipeline,thousand tons,2022,10350.29229,59080.61863,44721.64303
+Kentucky,Domestic Only,Rail,thousand tons,2022,4113.991781,13240.85168,19725.33725
+Kentucky,Domestic Only,Truck,thousand tons,2022,126721.0258,59933.06531,55845.47875
+Kentucky,Domestic Only,Water,thousand tons,2022,9929.873156,10042.38183,18872.78003
+Kentucky,Export,Air (include truck-air),thousand tons,2022,0.014452,236.969881,48.881364
+Kentucky,Export,Multiple modes & mail,thousand tons,2022,0,1.349986,287.012107
+Kentucky,Export,Other and unknown,thousand tons,2022,0,30.984294,82.613404
+Kentucky,Export,Rail,thousand tons,2022,0,0,1025.883093
+Kentucky,Export,Truck,thousand tons,2022,15.945396,34.980925,2953.726168
+Kentucky,Export,Water,thousand tons,2022,0,0,1107.935076
+Kentucky,Import,Air (include truck-air),thousand tons,2022,0.079954,55.598329,199.415152
+Kentucky,Import,Multiple modes & mail,thousand tons,2022,0,546.220184,0.174422
+Kentucky,Import,Other and unknown,thousand tons,2022,0.018644,0.299567,0.000606
+Kentucky,Import,Pipeline,thousand tons,2022,0,8360.680682,0
+Kentucky,Import,Rail,thousand tons,2022,0,1434.441093,0
+Kentucky,Import,Truck,thousand tons,2022,75.177005,3000.179244,41.245902
+Kentucky,Import,Water,thousand tons,2022,0,928.248835,0
+Louisiana,Domestic Only,Air (include truck-air),thousand tons,2022,0,35.38793,5.323565
+Louisiana,Domestic Only,Multiple modes & mail,thousand tons,2022,2438.339682,10052.58187,23940.96291
+Louisiana,Domestic Only,Pipeline,thousand tons,2022,128687.524,180342.7188,145517.8788
+Louisiana,Domestic Only,Rail,thousand tons,2022,24375.22919,17124.00943,25617.77619
+Louisiana,Domestic Only,Truck,thousand tons,2022,149649.6421,33951.69289,38223.00427
+Louisiana,Domestic Only,Water,thousand tons,2022,64939.83773,115720.5113,60061.78852
+Louisiana,Export,Air (include truck-air),thousand tons,2022,8.043789,2.160744,12.825022
+Louisiana,Export,Multiple modes & mail,thousand tons,2022,7839.103192,5953.838017,267.872912
+Louisiana,Export,Other and unknown,thousand tons,2022,0.422196,71.014589,134.421565
+Louisiana,Export,Pipeline,thousand tons,2022,0,1531.597951,2128.48413
+Louisiana,Export,Rail,thousand tons,2022,5526.628677,5000.036375,3858.578863
+Louisiana,Export,Truck,thousand tons,2022,55162.8736,9372.303962,2607.435958
+Louisiana,Export,Water,thousand tons,2022,83441.24958,5711.886755,2402.138759
+Louisiana,Import,Air (include truck-air),thousand tons,2022,0.134685,12.827774,2.131196
+Louisiana,Import,Multiple modes & mail,thousand tons,2022,2489.663154,69.475074,1950.735313
+Louisiana,Import,No domestic mode,thousand tons,2022,13127.08063,0,0
+Louisiana,Import,Other and unknown,thousand tons,2022,0.000084,0.121331,0.060897
+Louisiana,Import,Pipeline,thousand tons,2022,502.020151,542.378174,0
+Louisiana,Import,Rail,thousand tons,2022,1500.660804,3644.416112,3690.241407
+Louisiana,Import,Truck,thousand tons,2022,20502.01299,530.465556,3110.660382
+Louisiana,Import,Water,thousand tons,2022,29081.09395,736.642897,4891.03453
+Maine,Domestic Only,Air (include truck-air),thousand tons,2022,0,4.390707,3.660583
+Maine,Domestic Only,Multiple modes & mail,thousand tons,2022,242.534827,1281.990319,1172.824002
+Maine,Domestic Only,Pipeline,thousand tons,2022,1026.678683,1599.6215,1008.340992
+Maine,Domestic Only,Rail,thousand tons,2022,237.117443,97.845859,468.868239
+Maine,Domestic Only,Truck,thousand tons,2022,48030.36034,8608.726245,13748.69592
+Maine,Domestic Only,Water,thousand tons,2022,0.000133,0,0
+Maine,Export,Air (include truck-air),thousand tons,2022,0.049281,0.974296,10.560596
+Maine,Export,Multiple modes & mail,thousand tons,2022,129.183724,34.195295,6.716665
+Maine,Export,Other and unknown,thousand tons,2022,0.752555,0.580609,6.36549
+Maine,Export,Pipeline,thousand tons,2022,341.161984,5.116161,0
+Maine,Export,Rail,thousand tons,2022,285.105284,46.312403,45.16075
+Maine,Export,Truck,thousand tons,2022,864.791316,677.64856,219.680225
+Maine,Export,Water,thousand tons,2022,72.70843,0.069291,0
+Maine,Import,Air (include truck-air),thousand tons,2022,0.002368,2.395525,0.2789
+Maine,Import,Multiple modes & mail,thousand tons,2022,66.023618,66.779873,1254.326787
+Maine,Import,Other and unknown,thousand tons,2022,0.063235,0.00626,0.280366
+Maine,Import,Pipeline,thousand tons,2022,1151.7005,0,329.830345
+Maine,Import,Rail,thousand tons,2022,1128.316961,193.803767,1458.608982
+Maine,Import,Truck,thousand tons,2022,1278.678386,946.974938,4597.874926
+Maine,Import,Water,thousand tons,2022,32.069103,0,17.107731
+Maryland,Domestic Only,Air (include truck-air),thousand tons,2022,0,13.268217,20.856929
+Maryland,Domestic Only,Multiple modes & mail,thousand tons,2022,109.899185,4387.856796,1441.336415
+Maryland,Domestic Only,Pipeline,thousand tons,2022,5674.678247,16336.27846,12626.28176
+Maryland,Domestic Only,Rail,thousand tons,2022,2195.948182,4510.485667,4112.331291
+Maryland,Domestic Only,Truck,thousand tons,2022,108747.4501,41934.74201,44978.5774
+Maryland,Domestic Only,Water,thousand tons,2022,0,2581.666354,244.66086
+Maryland,Export,Air (include truck-air),thousand tons,2022,0,0.67091,15.044889
+Maryland,Export,Multiple modes & mail,thousand tons,2022,1.342451,93.525094,35.091526
+Maryland,Export,Other and unknown,thousand tons,2022,0.000325,72.405955,29.724974
+Maryland,Export,Rail,thousand tons,2022,17.277119,4588.83932,597.633439
+Maryland,Export,Truck,thousand tons,2022,2407.402585,8837.246013,744.085345
+Maryland,Export,Water,thousand tons,2022,0.144214,1.166801,1.230997
+Maryland,Import,Air (include truck-air),thousand tons,2022,0,8.680757,1.464653
+Maryland,Import,Multiple modes & mail,thousand tons,2022,14.942217,90.203937,396.557825
+Maryland,Import,Other and unknown,thousand tons,2022,0.026547,0.202731,0.005585
+Maryland,Import,Rail,thousand tons,2022,72.136934,1153.529732,2253.0024
+Maryland,Import,Truck,thousand tons,2022,8302.431665,1094.819273,2886.674609
+Maryland,Import,Water,thousand tons,2022,9.717264,186.797781,2.53427
+Massachusetts,Domestic Only,Air (include truck-air),thousand tons,2022,0,31.962851,28.03952
+Massachusetts,Domestic Only,Multiple modes & mail,thousand tons,2022,255.694501,4393.590094,1988.640933
+Massachusetts,Domestic Only,Pipeline,thousand tons,2022,15531.7067,11394.2127,2261.601837
+Massachusetts,Domestic Only,Rail,thousand tons,2022,84.317561,1353.151409,561.382141
+Massachusetts,Domestic Only,Truck,thousand tons,2022,109733.23,40015.75231,45877.4973
+Massachusetts,Domestic Only,Water,thousand tons,2022,0,37.666664,0
+Massachusetts,Export,Air (include truck-air),thousand tons,2022,0.000606,2.50781,32.859694
+Massachusetts,Export,Multiple modes & mail,thousand tons,2022,0.166512,28.930548,147.018493
+Massachusetts,Export,Other and unknown,thousand tons,2022,66.853523,74.908003,59.609535
+Massachusetts,Export,Rail,thousand tons,2022,670.625438,46.749273,268.06927
+Massachusetts,Export,Truck,thousand tons,2022,1243.032797,160.460627,2510.036812
+Massachusetts,Export,Water,thousand tons,2022,0.025855,0.00823,0
+Massachusetts,Import,Air (include truck-air),thousand tons,2022,0,47.392729,9.740105
+Massachusetts,Import,Multiple modes & mail,thousand tons,2022,17.659779,425.518445,412.446594
+Massachusetts,Import,Other and unknown,thousand tons,2022,1.128537,1.308338,0.140379
+Massachusetts,Import,Pipeline,thousand tons,2022,0,1083.256104,0
+Massachusetts,Import,Rail,thousand tons,2022,282.138117,2029.134974,660.912023
+Massachusetts,Import,Truck,thousand tons,2022,5631.890647,3373.20395,4935.208953
+Massachusetts,Import,Water,thousand tons,2022,2.905891,24.608093,62.387392
+Michigan,Domestic Only,Air (include truck-air),thousand tons,2022,0.000174,27.422137,14.776758
+Michigan,Domestic Only,Multiple modes & mail,thousand tons,2022,3668.651474,12198.58784,7036.916364
+Michigan,Domestic Only,Pipeline,thousand tons,2022,17096.85492,52335.2502,7777.227377
+Michigan,Domestic Only,Rail,thousand tons,2022,66349.92212,13463.62313,6252.098445
+Michigan,Domestic Only,Truck,thousand tons,2022,244788.5063,63518.11789,62783.77588
+Michigan,Domestic Only,Water,thousand tons,2022,17846.75857,259.85953,19920.34467
+Michigan,Export,Air (include truck-air),thousand tons,2022,0.003377,21.044949,74.211486
+Michigan,Export,Multiple modes & mail,thousand tons,2022,1529.779141,2578.500219,418.740966
+Michigan,Export,Other and unknown,thousand tons,2022,18.824324,353.527592,148.72435
+Michigan,Export,Pipeline,thousand tons,2022,6853.69395,38449.67919,3667.393742
+Michigan,Export,Rail,thousand tons,2022,10015.14638,21184.02302,1828.105496
+Michigan,Export,Truck,thousand tons,2022,8596.749737,25438.83639,3779.346164
+Michigan,Export,Water,thousand tons,2022,317.830255,115.725644,155.194464
+Michigan,Import,Air (include truck-air),thousand tons,2022,0.003676,83.554055,11.442764
+Michigan,Import,Multiple modes & mail,thousand tons,2022,1162.241468,790.754452,1670.596105
+Michigan,Import,Other and unknown,thousand tons,2022,0.037555,1.131021,0.058109
+Michigan,Import,Pipeline,thousand tons,2022,3759.119227,3996.612895,18500.44373
+Michigan,Import,Rail,thousand tons,2022,3748.663193,9872.900759,14028.28311
+Michigan,Import,Truck,thousand tons,2022,12314.2357,5959.044341,14704.43465
+Michigan,Import,Water,thousand tons,2022,212.307466,43.202619,14.859165
+Minnesota,Domestic Only,Air (include truck-air),thousand tons,2022,0,15.399857,91.016755
+Minnesota,Domestic Only,Multiple modes & mail,thousand tons,2022,1116.174894,9133.660006,31263.41423
+Minnesota,Domestic Only,Other and unknown,thousand tons,2022,2847.907,0,0
+Minnesota,Domestic Only,Pipeline,thousand tons,2022,25255.31495,57432.72439,40825.90842
+Minnesota,Domestic Only,Rail,thousand tons,2022,22119.82765,11916.29233,32985.86925
+Minnesota,Domestic Only,Truck,thousand tons,2022,301042.9142,77560.79031,68895.02428
+Minnesota,Domestic Only,Water,thousand tons,2022,5242.66,3895.434011,7962.174596
+Minnesota,Export,Air (include truck-air),thousand tons,2022,0.000685,6.698537,111.271362
+Minnesota,Export,Multiple modes & mail,thousand tons,2022,0.005449,0.029992,1679.307434
+Minnesota,Export,Other and unknown,thousand tons,2022,18.25243,35.242013,33.610731
+Minnesota,Export,Pipeline,thousand tons,2022,0,0,80.594621
+Minnesota,Export,Rail,thousand tons,2022,0,0,4663.288538
+Minnesota,Export,Truck,thousand tons,2022,10.423116,1.422308,5738.85906
+Minnesota,Export,Water,thousand tons,2022,0,0,859.201527
+Minnesota,Import,Air (include truck-air),thousand tons,2022,0,66.592888,5.200788
+Minnesota,Import,Multiple modes & mail,thousand tons,2022,0,779.155938,0.000102
+Minnesota,Import,Other and unknown,thousand tons,2022,0.003259,0.465179,0.808452
+Minnesota,Import,Pipeline,thousand tons,2022,0,27020.82653,0
+Minnesota,Import,Rail,thousand tons,2022,0,4906.238129,0
+Minnesota,Import,Truck,thousand tons,2022,17.692712,3654.790658,1.686625
+Minnesota,Import,Water,thousand tons,2022,0,65.271186,0
+Mississippi,Domestic Only,Air (include truck-air),thousand tons,2022,0,4.352057,4.351922
+Mississippi,Domestic Only,Multiple modes & mail,thousand tons,2022,111.850696,5189.92829,7926.881102
+Mississippi,Domestic Only,Pipeline,thousand tons,2022,22439.62688,121109.0141,111727.4799
+Mississippi,Domestic Only,Rail,thousand tons,2022,1295.569709,12881.30613,3542.303937
+Mississippi,Domestic Only,Truck,thousand tons,2022,79703.11472,35142.26011,31854.63241
+Mississippi,Domestic Only,Water,thousand tons,2022,508.369068,7623.573221,7825.444701
+Mississippi,Export,Air (include truck-air),thousand tons,2022,0.000011,0.020362,21.976137
+Mississippi,Export,Multiple modes & mail,thousand tons,2022,115.031586,133.971912,34.699503
+Mississippi,Export,Other and unknown,thousand tons,2022,0,0.047358,45.769481
+Mississippi,Export,Rail,thousand tons,2022,1021.719606,144.676865,1343.375857
+Mississippi,Export,Truck,thousand tons,2022,1502.7817,107.084877,2705.811426
+Mississippi,Export,Water,thousand tons,2022,6826.814136,714.987909,6.061081
+Mississippi,Import,Air (include truck-air),thousand tons,2022,0.891739,24.107709,0.01249
+Mississippi,Import,Multiple modes & mail,thousand tons,2022,57.141514,184.459977,39.33389
+Mississippi,Import,No domestic mode,thousand tons,2022,3299.72835,0,0
+Mississippi,Import,Other and unknown,thousand tons,2022,0,0.055671,0
+Mississippi,Import,Pipeline,thousand tons,2022,0,1.063389,0
+Mississippi,Import,Rail,thousand tons,2022,210.378228,818.24779,211.61828
+Mississippi,Import,Truck,thousand tons,2022,1607.988289,2286.326584,11.013442
+Mississippi,Import,Water,thousand tons,2022,739.796296,5961.17856,339.797514
+Missouri,Domestic Only,Air (include truck-air),thousand tons,2022,0.00039,16.647912,13.396284
+Missouri,Domestic Only,Multiple modes & mail,thousand tons,2022,450.440644,9216.290314,12474.96907
+Missouri,Domestic Only,Other and unknown,thousand tons,2022,45.171959,0,0
+Missouri,Domestic Only,Pipeline,thousand tons,2022,4727.2194,34115.9643,20901.72107
+Missouri,Domestic Only,Rail,thousand tons,2022,7185.369115,21824.8467,9311.370422
+Missouri,Domestic Only,Truck,thousand tons,2022,195705.5252,65556.50849,61956.04107
+Missouri,Domestic Only,Water,thousand tons,2022,1708.034092,4319.337878,12918.1515
+Missouri,Export,Air (include truck-air),thousand tons,2022,0.000286,0.110479,34.208357
+Missouri,Export,Multiple modes & mail,thousand tons,2022,0,0,462.052357
+Missouri,Export,Other and unknown,thousand tons,2022,42.655598,20.74894,14.611617
+Missouri,Export,Rail,thousand tons,2022,0,0,4924.219714
+Missouri,Export,Truck,thousand tons,2022,0.519983,1.946982,3275.774592
+Missouri,Export,Water,thousand tons,2022,0,0,105.410844
+Missouri,Import,Air (include truck-air),thousand tons,2022,0.001022,20.828834,2.333412
+Missouri,Import,Multiple modes & mail,thousand tons,2022,0,573.802439,0
+Missouri,Import,Other and unknown,thousand tons,2022,0.252114,1.630395,0.006121
+Missouri,Import,Pipeline,thousand tons,2022,0,230.101,0
+Missouri,Import,Rail,thousand tons,2022,0,1862.37711,0
+Missouri,Import,Truck,thousand tons,2022,11.461034,3214.432349,3.825271
+Missouri,Import,Water,thousand tons,2022,0,161.087119,0
+Montana,Domestic Only,Air (include truck-air),thousand tons,2022,0,1.094793,0.029521
+Montana,Domestic Only,Multiple modes & mail,thousand tons,2022,155.766763,782.313034,6027.238361
+Montana,Domestic Only,Other and unknown,thousand tons,2022,5479.7642,0,0
+Montana,Domestic Only,Pipeline,thousand tons,2022,22606.85175,5214.882485,14625.26861
+Montana,Domestic Only,Rail,thousand tons,2022,1271.047966,902.726851,16083.84335
+Montana,Domestic Only,Truck,thousand tons,2022,33010.22145,12487.19871,11863.13989
+Montana,Export,Air (include truck-air),thousand tons,2022,0.043519,1.245677,1.545365
+Montana,Export,Multiple modes & mail,thousand tons,2022,0,3.686732,9436.343086
+Montana,Export,Other and unknown,thousand tons,2022,0.603865,0.245291,6.762865
+Montana,Export,Pipeline,thousand tons,2022,0,321.395341,0
+Montana,Export,Rail,thousand tons,2022,266.990418,1114.640772,467.959949
+Montana,Export,Truck,thousand tons,2022,309.791176,2845.320834,146.560882
+Montana,Import,Air (include truck-air),thousand tons,2022,0.008336,0.859419,0.382278
+Montana,Import,Multiple modes & mail,thousand tons,2022,0,44.533857,56.519248
+Montana,Import,Other and unknown,thousand tons,2022,0.104289,0.095662,0.061017
+Montana,Import,Pipeline,thousand tons,2022,13532.52008,0,11800.95572
+Montana,Import,Rail,thousand tons,2022,306.43919,124.365168,1679.080805
+Montana,Import,Truck,thousand tons,2022,1152.381787,94.770423,1848.799573
+Nebraska,Domestic Only,Air (include truck-air),thousand tons,2022,0,4.271053,2.319718
+Nebraska,Domestic Only,Multiple modes & mail,thousand tons,2022,844.999979,4101.47036,9932.984484
+Nebraska,Domestic Only,Pipeline,thousand tons,2022,2789.844276,54755.26556,53947.21727
+Nebraska,Domestic Only,Rail,thousand tons,2022,14679.48935,6346.586597,12408.99345
+Nebraska,Domestic Only,Truck,thousand tons,2022,196962.9919,44537.73895,34364.75074
+Nebraska,Domestic Only,Water,thousand tons,2022,0,19.700695,0
+Nebraska,Export,Air (include truck-air),thousand tons,2022,0,0.008334,15.743058
+Nebraska,Export,Multiple modes & mail,thousand tons,2022,0,0,360.47277
+Nebraska,Export,Other and unknown,thousand tons,2022,0,0,42.964026
+Nebraska,Export,Pipeline,thousand tons,2022,0,0,1776.868403
+Nebraska,Export,Rail,thousand tons,2022,0,0,6883.421416
+Nebraska,Export,Truck,thousand tons,2022,0.025647,0.004701,1414.890121
+Nebraska,Export,Water,thousand tons,2022,0,0,0.000761
+Nebraska,Import,Air (include truck-air),thousand tons,2022,0,5.515676,0.242375
+Nebraska,Import,Multiple modes & mail,thousand tons,2022,0,117.642766,0
+Nebraska,Import,Other and unknown,thousand tons,2022,0,0.032621,0.025342
+Nebraska,Import,Rail,thousand tons,2022,0,901.300173,0
+Nebraska,Import,Truck,thousand tons,2022,1.814614,573.758976,0.073988
+Nebraska,Import,Water,thousand tons,2022,0,0.035208,0
+Nevada,Domestic Only,Air (include truck-air),thousand tons,2022,0.000117,27.677178,24.959436
+Nevada,Domestic Only,Multiple modes & mail,thousand tons,2022,98.873142,1973.480106,846.704206
+Nevada,Domestic Only,Pipeline,thousand tons,2022,5943.0393,26737.18803,14516.08416
+Nevada,Domestic Only,Rail,thousand tons,2022,3.110427,2248.880538,535.690946
+Nevada,Domestic Only,Truck,thousand tons,2022,58042.23802,20481.12489,12315.77447
+Nevada,Export,Air (include truck-air),thousand tons,2022,0.076956,2.545651,13.821575
+Nevada,Export,Multiple modes & mail,thousand tons,2022,0,0.000194,107.438231
+Nevada,Export,Other and unknown,thousand tons,2022,54.792108,0.000345,49.76387
+Nevada,Export,Rail,thousand tons,2022,0,0,3273.946968
+Nevada,Export,Truck,thousand tons,2022,0.629115,0.720879,671.814842
+Nevada,Import,Air (include truck-air),thousand tons,2022,0.053747,15.616654,1.377094
+Nevada,Import,Multiple modes & mail,thousand tons,2022,0,177.237024,0.004726
+Nevada,Import,Other and unknown,thousand tons,2022,0.482791,4.748776,0.004101
+Nevada,Import,Rail,thousand tons,2022,0,391.963205,0
+Nevada,Import,Truck,thousand tons,2022,3.591724,1068.359501,0.095544
+New Hampshire,Domestic Only,Air (include truck-air),thousand tons,2022,0,25.09619,2.774792
+New Hampshire,Domestic Only,Multiple modes & mail,thousand tons,2022,39.353181,488.278838,160.143424
+New Hampshire,Domestic Only,Pipeline,thousand tons,2022,3079.73565,2084.81126,2125.93937
+New Hampshire,Domestic Only,Rail,thousand tons,2022,0,54.066396,31.704582
+New Hampshire,Domestic Only,Truck,thousand tons,2022,35978.21504,21591.64465,11417.64236
+New Hampshire,Export,Air (include truck-air),thousand tons,2022,0,0.199325,11.966675
+New Hampshire,Export,Multiple modes & mail,thousand tons,2022,0.513749,2.561955,38.091756
+New Hampshire,Export,Other and unknown,thousand tons,2022,0,0,19.203375
+New Hampshire,Export,Rail,thousand tons,2022,0,5.859149,16.840922
+New Hampshire,Export,Truck,thousand tons,2022,32.008774,1.276549,540.322515
+New Hampshire,Export,Water,thousand tons,2022,0,0.248801,0.158413
+New Hampshire,Import,Air (include truck-air),thousand tons,2022,0,6.066375,0.035577
+New Hampshire,Import,Multiple modes & mail,thousand tons,2022,2.335549,1443.588733,92.553032
+New Hampshire,Import,Other and unknown,thousand tons,2022,0,0.006356,0.02711
+New Hampshire,Import,Rail,thousand tons,2022,0,1613.956236,151.209108
+New Hampshire,Import,Truck,thousand tons,2022,2003.824233,8197.520978,223.910155
+New Hampshire,Import,Water,thousand tons,2022,0,550.97079,73.928614
+New Jersey,Domestic Only,Air (include truck-air),thousand tons,2022,0,32.377328,30.380355
+New Jersey,Domestic Only,Multiple modes & mail,thousand tons,2022,510.645604,9275.837523,6497.587124
+New Jersey,Domestic Only,Pipeline,thousand tons,2022,34066.08111,43244.14418,24467.07017
+New Jersey,Domestic Only,Rail,thousand tons,2022,777.323345,6253.490896,2050.178919
+New Jersey,Domestic Only,Truck,thousand tons,2022,145668.5003,68822.81744,68894.51217
+New Jersey,Domestic Only,Water,thousand tons,2022,3300.139747,3488.533746,630.941697
+New Jersey,Export,Air (include truck-air),thousand tons,2022,0,15.856739,48.581211
+New Jersey,Export,Multiple modes & mail,thousand tons,2022,104.750339,371.125612,232.981092
+New Jersey,Export,Other and unknown,thousand tons,2022,119.058975,13.181634,33.035128
+New Jersey,Export,Pipeline,thousand tons,2022,0,0,2873.689102
+New Jersey,Export,Rail,thousand tons,2022,1572.416877,7482.849582,8657.279446
+New Jersey,Export,Truck,thousand tons,2022,3699.944514,5085.809446,7999.971184
+New Jersey,Export,Water,thousand tons,2022,176.71625,260.726037,226.058891
+New Jersey,Import,Air (include truck-air),thousand tons,2022,0,64.847922,12.687996
+New Jersey,Import,Multiple modes & mail,thousand tons,2022,983.313949,1200.92145,3580.576898
+New Jersey,Import,No domestic mode,thousand tons,2022,8772.615102,0,0
+New Jersey,Import,Other and unknown,thousand tons,2022,1.261326,1.975013,4.956206
+New Jersey,Import,Rail,thousand tons,2022,954.707329,2380.316304,1786.081038
+New Jersey,Import,Truck,thousand tons,2022,35351.75136,8383.644344,17837.01464
+New Jersey,Import,Water,thousand tons,2022,271.226417,6752.876793,425.603017
+New Mexico,Domestic Only,Air (include truck-air),thousand tons,2022,0,2.178442,1.078761
+New Mexico,Domestic Only,Multiple modes & mail,thousand tons,2022,296.592466,3140.704931,3494.039787
+New Mexico,Domestic Only,Other and unknown,thousand tons,2022,8772.0625,0,0
+New Mexico,Domestic Only,Pipeline,thousand tons,2022,9663.36789,16354.1179,64898.75789
+New Mexico,Domestic Only,Rail,thousand tons,2022,3059.487281,7136.941164,5833.665101
+New Mexico,Domestic Only,Truck,thousand tons,2022,33054.42305,14162.24057,6488.851391
+New Mexico,Export,Air (include truck-air),thousand tons,2022,0.004886,0.013859,7.559966
+New Mexico,Export,Multiple modes & mail,thousand tons,2022,0,0.014576,36.657704
+New Mexico,Export,Other and unknown,thousand tons,2022,0.697172,1.84481,22.161877
+New Mexico,Export,Rail,thousand tons,2022,0,0,570.002856
+New Mexico,Export,Truck,thousand tons,2022,138.647682,643.694501,345.912526
+New Mexico,Import,Air (include truck-air),thousand tons,2022,0.184675,4.405581,0.06437
+New Mexico,Import,Multiple modes & mail,thousand tons,2022,0,19.583356,0
+New Mexico,Import,Other and unknown,thousand tons,2022,21.865173,7.88191,139.01764
+New Mexico,Import,Pipeline,thousand tons,2022,0,15.148713,0
+New Mexico,Import,Rail,thousand tons,2022,0,202.43753,0.02584
+New Mexico,Import,Truck,thousand tons,2022,290.887141,150.670853,504.046795
+New York,Domestic Only,Air (include truck-air),thousand tons,2022,0.14301,55.789108,16.740302
+New York,Domestic Only,Multiple modes & mail,thousand tons,2022,1068.902295,10698.35872,4671.438406
+New York,Domestic Only,Pipeline,thousand tons,2022,33523.06371,54236.83523,21853.8435
+New York,Domestic Only,Rail,thousand tons,2022,8735.330712,4018.138315,2098.677425
+New York,Domestic Only,Truck,thousand tons,2022,337347.4841,82578.20965,72143.20119
+New York,Domestic Only,Water,thousand tons,2022,2731.189968,37.462548,1622.0825
+New York,Export,Air (include truck-air),thousand tons,2022,4.343286,140.957955,49.081756
+New York,Export,Multiple modes & mail,thousand tons,2022,380.437937,2506.869842,124.589719
+New York,Export,Other and unknown,thousand tons,2022,72.495007,718.051656,325.552742
+New York,Export,Pipeline,thousand tons,2022,3437.770107,13048.34681,1947.268536
+New York,Export,Rail,thousand tons,2022,226.994095,6384.253006,800.576639
+New York,Export,Truck,thousand tons,2022,12395.96772,26772.67867,1983.793504
+New York,Export,Water,thousand tons,2022,0.01858,996.52368,1758.47775
+New York,Import,Air (include truck-air),thousand tons,2022,10.676784,98.352572,148.657815
+New York,Import,Multiple modes & mail,thousand tons,2022,887.418613,1538.67652,1191.672402
+New York,Import,Other and unknown,thousand tons,2022,94.376296,4.838752,22.853153
+New York,Import,Pipeline,thousand tons,2022,6006.159176,2808.381115,6747.208992
+New York,Import,Rail,thousand tons,2022,1365.867441,3109.074549,7742.798533
+New York,Import,Truck,thousand tons,2022,9405.382394,9812.660303,13661.67249
+New York,Import,Water,thousand tons,2022,0.030429,755.546887,65.421629
+North Carolina,Domestic Only,Air (include truck-air),thousand tons,2022,0.205011,22.853699,9.485442
+North Carolina,Domestic Only,Multiple modes & mail,thousand tons,2022,769.459958,13203.54052,6964.385006
+North Carolina,Domestic Only,Pipeline,thousand tons,2022,13358.66859,15229.10488,0
+North Carolina,Domestic Only,Rail,thousand tons,2022,5176.338201,16405.67859,1911.52165
+North Carolina,Domestic Only,Truck,thousand tons,2022,236177.2881,72153.91553,73936.89417
+North Carolina,Domestic Only,Water,thousand tons,2022,0,244.66086,0
+North Carolina,Export,Air (include truck-air),thousand tons,2022,0.000014,2.454744,78.981009
+North Carolina,Export,Multiple modes & mail,thousand tons,2022,31.540308,75.867696,427.959248
+North Carolina,Export,Other and unknown,thousand tons,2022,18.92479,3.674442,218.661803
+North Carolina,Export,Rail,thousand tons,2022,0,425.474961,1165.650371
+North Carolina,Export,Truck,thousand tons,2022,1984.711566,11.413871,6005.25941
+North Carolina,Export,Water,thousand tons,2022,0,0.058993,0.024416
+North Carolina,Import,Air (include truck-air),thousand tons,2022,0.000053,101.320709,6.823553
+North Carolina,Import,Multiple modes & mail,thousand tons,2022,44.259392,3061.271513,371.854971
+North Carolina,Import,Other and unknown,thousand tons,2022,0.5956,0.938043,0.067598
+North Carolina,Import,Rail,thousand tons,2022,0,4584.736572,1133.513284
+North Carolina,Import,Truck,thousand tons,2022,2673.419503,8522.750037,87.214283
+North Carolina,Import,Water,thousand tons,2022,0,4.961678,279.894432
+North Dakota,Domestic Only,Air (include truck-air),thousand tons,2022,0,2.233487,1.142657
+North Dakota,Domestic Only,Multiple modes & mail,thousand tons,2022,154.250042,1813.543054,6965.336115
+North Dakota,Domestic Only,Other and unknown,thousand tons,2022,36488.75,0,0
+North Dakota,Domestic Only,Pipeline,thousand tons,2022,21274.2716,10817.20299,111238.7959
+North Dakota,Domestic Only,Rail,thousand tons,2022,5131.652223,3651.5402,26164.71336
+North Dakota,Domestic Only,Truck,thousand tons,2022,70010.34479,21800.42936,15534.81289
+North Dakota,Export,Air (include truck-air),thousand tons,2022,0.012179,2.050833,1.514099
+North Dakota,Export,Multiple modes & mail,thousand tons,2022,0,42.930334,195.405923
+North Dakota,Export,Other and unknown,thousand tons,2022,0.252132,80.457381,8.607537
+North Dakota,Export,Pipeline,thousand tons,2022,7242.218577,7990.719583,6918.921098
+North Dakota,Export,Rail,thousand tons,2022,951.728517,16617.62703,1596.084749
+North Dakota,Export,Truck,thousand tons,2022,1960.111957,5355.337892,728.172105
+North Dakota,Import,Air (include truck-air),thousand tons,2022,0.001058,5.094973,0.507793
+North Dakota,Import,Multiple modes & mail,thousand tons,2022,0,52.416347,455.665175
+North Dakota,Import,Other and unknown,thousand tons,2022,0.001973,0,0.008509
+North Dakota,Import,Pipeline,thousand tons,2022,27.746065,23.440643,127958.6238
+North Dakota,Import,Rail,thousand tons,2022,1705.173765,152.547435,36564.06284
+North Dakota,Import,Truck,thousand tons,2022,1680.020088,194.485047,4782.468069
+Ohio,Domestic Only,Air (include truck-air),thousand tons,2022,0.012718,26.144007,34.310691
+Ohio,Domestic Only,Multiple modes & mail,thousand tons,2022,2031.611068,16860.88748,17316.42628
+Ohio,Domestic Only,Other and unknown,thousand tons,2022,53.726509,0,0
+Ohio,Domestic Only,Pipeline,thousand tons,2022,46811.35408,69461.34398,72590.36427
+Ohio,Domestic Only,Rail,thousand tons,2022,15324.27974,19350.85626,12753.45395
+Ohio,Domestic Only,Truck,thousand tons,2022,351204.9402,118507.9333,118751.0762
+Ohio,Domestic Only,Water,thousand tons,2022,10526.73889,32591.37115,11346.73128
+Ohio,Export,Air (include truck-air),thousand tons,2022,0.002011,4.391776,118.908001
+Ohio,Export,Multiple modes & mail,thousand tons,2022,115.20598,24.483511,1649.075823
+Ohio,Export,Other and unknown,thousand tons,2022,260.425144,588.602191,92.451683
+Ohio,Export,Pipeline,thousand tons,2022,0,0,18.252262
+Ohio,Export,Rail,thousand tons,2022,836.75433,242.951619,5845.075743
+Ohio,Export,Truck,thousand tons,2022,817.105205,175.517629,11518.49961
+Ohio,Export,Water,thousand tons,2022,428.950382,1811.715197,1190.459939
+Ohio,Import,Air (include truck-air),thousand tons,2022,0.062979,89.347856,13.330932
+Ohio,Import,Multiple modes & mail,thousand tons,2022,166.797845,1953.3239,239.672986
+Ohio,Import,Other and unknown,thousand tons,2022,0.045646,1.217196,0.019331
+Ohio,Import,Pipeline,thousand tons,2022,0,6596.072194,0
+Ohio,Import,Rail,thousand tons,2022,1957.812586,7802.668801,661.510297
+Ohio,Import,Truck,thousand tons,2022,4035.547456,7320.077645,210.010722
+Ohio,Import,Water,thousand tons,2022,466.538375,1199.596324,247.071567
+Oklahoma,Domestic Only,Air (include truck-air),thousand tons,2022,0,9.810627,5.543625
+Oklahoma,Domestic Only,Multiple modes & mail,thousand tons,2022,1779.177114,10714.28655,5378.626716
+Oklahoma,Domestic Only,Pipeline,thousand tons,2022,17487.32285,52877.29125,72592.36815
+Oklahoma,Domestic Only,Rail,thousand tons,2022,19036.53514,8921.925478,5694.352732
+Oklahoma,Domestic Only,Truck,thousand tons,2022,116264.5272,42851.16383,46527.72683
+Oklahoma,Domestic Only,Water,thousand tons,2022,692.79483,719.604251,4840.912008
+Oklahoma,Export,Air (include truck-air),thousand tons,2022,0,0.112688,14.589948
+Oklahoma,Export,Multiple modes & mail,thousand tons,2022,0,0,195.014821
+Oklahoma,Export,Other and unknown,thousand tons,2022,0,0,22.254221
+Oklahoma,Export,Rail,thousand tons,2022,0,0,512.919271
+Oklahoma,Export,Truck,thousand tons,2022,0.541751,0.253563,763.5677
+Oklahoma,Export,Water,thousand tons,2022,0,0,46.766322
+Oklahoma,Import,Air (include truck-air),thousand tons,2022,0,12.803791,0.45707
+Oklahoma,Import,Multiple modes & mail,thousand tons,2022,0,395.316311,0
+Oklahoma,Import,Other and unknown,thousand tons,2022,0,0.07818,0.013367
+Oklahoma,Import,Pipeline,thousand tons,2022,0,11622.81989,0
+Oklahoma,Import,Rail,thousand tons,2022,0,519.362625,0
+Oklahoma,Import,Truck,thousand tons,2022,2.543143,1216.888859,0.063655
+Oklahoma,Import,Water,thousand tons,2022,0,190.622153,0
+Oregon,Domestic Only,Air (include truck-air),thousand tons,2022,0.277889,11.533707,27.5993
+Oregon,Domestic Only,Multiple modes & mail,thousand tons,2022,519.863919,9800.447146,6087.46548
+Oregon,Domestic Only,Other and unknown,thousand tons,2022,160.02686,0,0
+Oregon,Domestic Only,Pipeline,thousand tons,2022,6574.666852,24917.90638,18212.60678
+Oregon,Domestic Only,Rail,thousand tons,2022,1896.407122,5038.781092,1511.375969
+Oregon,Domestic Only,Truck,thousand tons,2022,146184.7708,26332.74741,32455.95894
+Oregon,Domestic Only,Water,thousand tons,2022,1967.717459,1530.51358,1747.889733
+Oregon,Export,Air (include truck-air),thousand tons,2022,0.000306,0.204822,26.961551
+Oregon,Export,Multiple modes & mail,thousand tons,2022,0.011689,59.50867,800.647393
+Oregon,Export,Other and unknown,thousand tons,2022,0.007201,10.411649,15.067403
+Oregon,Export,Pipeline,thousand tons,2022,0,0,38.573725
+Oregon,Export,Rail,thousand tons,2022,2917.75851,243.333041,877.585943
+Oregon,Export,Truck,thousand tons,2022,7490.367196,4080.776179,3680.438927
+Oregon,Export,Water,thousand tons,2022,2170.564024,20.064768,26.189782
+Oregon,Import,Air (include truck-air),thousand tons,2022,0,18.362109,2.594314
+Oregon,Import,Multiple modes & mail,thousand tons,2022,31.641613,418.554588,20.927662
+Oregon,Import,Other and unknown,thousand tons,2022,0.017078,0.200699,0.018735
+Oregon,Import,Rail,thousand tons,2022,246.442705,5624.617621,96.291358
+Oregon,Import,Truck,thousand tons,2022,2440.057145,1880.834737,1003.08295
+Oregon,Import,Water,thousand tons,2022,114.583831,19.494846,400.04415
+Pennsylvania,Domestic Only,Air (include truck-air),thousand tons,2022,0.694647,35.654593,32.416723
+Pennsylvania,Domestic Only,Multiple modes & mail,thousand tons,2022,1285.617596,19929.13391,8918.372257
+Pennsylvania,Domestic Only,Other and unknown,thousand tons,2022,447.31509,0,0
+Pennsylvania,Domestic Only,Pipeline,thousand tons,2022,43303.53073,15548.60822,101333.6495
+Pennsylvania,Domestic Only,Rail,thousand tons,2022,10494.34097,17353.68825,4996.025189
+Pennsylvania,Domestic Only,Truck,thousand tons,2022,300050.8042,122377.9724,126159.6828
+Pennsylvania,Domestic Only,Water,thousand tons,2022,2848.929968,17025.79796,1513.836029
+Pennsylvania,Export,Air (include truck-air),thousand tons,2022,0.157268,52.028028,53.389662
+Pennsylvania,Export,Multiple modes & mail,thousand tons,2022,63.225069,162.285388,2179.717451
+Pennsylvania,Export,Other and unknown,thousand tons,2022,0.849985,42.359449,121.917696
+Pennsylvania,Export,Pipeline,thousand tons,2022,0,0,1306.715987
+Pennsylvania,Export,Rail,thousand tons,2022,236.985626,156.091921,13036.40162
+Pennsylvania,Export,Truck,thousand tons,2022,4147.37023,2069.197419,14271.49125
+Pennsylvania,Export,Water,thousand tons,2022,200.19426,159.324338,2942.138692
+Pennsylvania,Import,Air (include truck-air),thousand tons,2022,4.734444,58.624764,13.965301
+Pennsylvania,Import,Multiple modes & mail,thousand tons,2022,237.164687,996.249407,822.653185
+Pennsylvania,Import,No domestic mode,thousand tons,2022,19574.90821,0,0
+Pennsylvania,Import,Other and unknown,thousand tons,2022,0.060769,1.634365,0.161174
+Pennsylvania,Import,Pipeline,thousand tons,2022,0,1869.4386,0
+Pennsylvania,Import,Rail,thousand tons,2022,1881.440748,4014.432761,2208.598529
+Pennsylvania,Import,Truck,thousand tons,2022,4604.748979,8867.914824,4733.74702
+Pennsylvania,Import,Water,thousand tons,2022,573.075097,1078.691363,7021.073038
+Rhode Island,Domestic Only,Air (include truck-air),thousand tons,2022,0,3.404248,1.061658
+Rhode Island,Domestic Only,Multiple modes & mail,thousand tons,2022,4.643807,260.920309,215.706433
+Rhode Island,Domestic Only,Pipeline,thousand tons,2022,2248.2397,6238.18409,3991.86809
+Rhode Island,Domestic Only,Rail,thousand tons,2022,0,173.67064,0.635837
+Rhode Island,Domestic Only,Truck,thousand tons,2022,13855.58515,7210.191716,9830.030675
+Rhode Island,Export,Air (include truck-air),thousand tons,2022,0,0.000101,4.435298
+Rhode Island,Export,Multiple modes & mail,thousand tons,2022,0,0.291031,18.903674
+Rhode Island,Export,Other and unknown,thousand tons,2022,0,0,6.157386
+Rhode Island,Export,Rail,thousand tons,2022,0,35.937513,18.25246
+Rhode Island,Export,Truck,thousand tons,2022,1128.191889,0.203997,904.490398
+Rhode Island,Import,Air (include truck-air),thousand tons,2022,0,4.150103,0.006896
+Rhode Island,Import,Multiple modes & mail,thousand tons,2022,14.098601,104.872598,172.643387
+Rhode Island,Import,Other and unknown,thousand tons,2022,0.014384,0.217076,0.014791
+Rhode Island,Import,Rail,thousand tons,2022,0,104.011511,1723.851654
+Rhode Island,Import,Truck,thousand tons,2022,3249.436015,460.459214,114.238241
+Rhode Island,Import,Water,thousand tons,2022,0,0,319.703937
+South Carolina,Domestic Only,Air (include truck-air),thousand tons,2022,0,113.064247,106.407154
+South Carolina,Domestic Only,Multiple modes & mail,thousand tons,2022,2402.557355,8554.982364,7185.392063
+South Carolina,Domestic Only,Pipeline,thousand tons,2022,5802.87967,16471.29542,9714.25628
+South Carolina,Domestic Only,Rail,thousand tons,2022,1520.364735,13139.67853,1344.456387
+South Carolina,Domestic Only,Truck,thousand tons,2022,132184.5637,45927.98525,45617.43603
+South Carolina,Domestic Only,Water,thousand tons,2022,0,490.754286,0
+South Carolina,Export,Air (include truck-air),thousand tons,2022,0.018479,2.234134,28.163271
+South Carolina,Export,Multiple modes & mail,thousand tons,2022,343.481589,229.4398,236.549798
+South Carolina,Export,Other and unknown,thousand tons,2022,418.424652,0.002966,118.325975
+South Carolina,Export,Rail,thousand tons,2022,481.370952,818.11378,520.860232
+South Carolina,Export,Truck,thousand tons,2022,3838.634082,3716.50509,1964.507778
+South Carolina,Export,Water,thousand tons,2022,0,0.603286,0.014626
+South Carolina,Import,Air (include truck-air),thousand tons,2022,0.187213,20.627613,17.301284
+South Carolina,Import,Multiple modes & mail,thousand tons,2022,254.598229,343.254179,780.30067
+South Carolina,Import,Other and unknown,thousand tons,2022,0.001153,0.169097,0
+South Carolina,Import,Rail,thousand tons,2022,491.34074,1348.921974,7061.537995
+South Carolina,Import,Truck,thousand tons,2022,8354.490498,2134.712005,5029.966925
+South Carolina,Import,Water,thousand tons,2022,0.003898,0.061495,0.088288
+South Dakota,Domestic Only,Air (include truck-air),thousand tons,2022,0,1.085609,0.021501
+South Dakota,Domestic Only,Multiple modes & mail,thousand tons,2022,343.041524,1122.057107,6515.835161
+South Dakota,Domestic Only,Pipeline,thousand tons,2022,1847.9366,21493.3873,20764.80818
+South Dakota,Domestic Only,Rail,thousand tons,2022,6839.836689,1429.954347,9622.232443
+South Dakota,Domestic Only,Truck,thousand tons,2022,76096.68398,16955.38407,22951.71893
+South Dakota,Export,Air (include truck-air),thousand tons,2022,0.00482,1.149105,2.105611
+South Dakota,Export,Multiple modes & mail,thousand tons,2022,0,0.014183,23.472475
+South Dakota,Export,Other and unknown,thousand tons,2022,0,0.376088,7.023741
+South Dakota,Export,Rail,thousand tons,2022,0,0,1379.898405
+South Dakota,Export,Truck,thousand tons,2022,0,0.037087,295.350376
+South Dakota,Export,Water,thousand tons,2022,0,0,0.030992
+South Dakota,Import,Air (include truck-air),thousand tons,2022,0,1.813012,0.002553
+South Dakota,Import,Multiple modes & mail,thousand tons,2022,0,24.207613,0
+South Dakota,Import,Other and unknown,thousand tons,2022,0.00588,0.0096,0
+South Dakota,Import,Rail,thousand tons,2022,0,448.210808,0
+South Dakota,Import,Truck,thousand tons,2022,0,276.16209,0
+South Dakota,Import,Water,thousand tons,2022,0,0.854766,0
+Tennessee,Domestic Only,Air (include truck-air),thousand tons,2022,0.069696,48.454344,364.050434
+Tennessee,Domestic Only,Multiple modes & mail,thousand tons,2022,259.972002,13214.97517,6705.507566
+Tennessee,Domestic Only,Pipeline,thousand tons,2022,9748.366308,50719.68785,42287.03765
+Tennessee,Domestic Only,Rail,thousand tons,2022,4238.188637,10894.45147,8949.971375
+Tennessee,Domestic Only,Truck,thousand tons,2022,199222.8931,67247.93029,79730.16081
+Tennessee,Domestic Only,Water,thousand tons,2022,1450.660387,4185.434775,5838.444851
+Tennessee,Export,Air (include truck-air),thousand tons,2022,3.560413,163.797958,46.200182
+Tennessee,Export,Multiple modes & mail,thousand tons,2022,0,0.992027,401.879793
+Tennessee,Export,Other and unknown,thousand tons,2022,9.92885,0.000954,48.787356
+Tennessee,Export,Rail,thousand tons,2022,0,0,2033.005902
+Tennessee,Export,Truck,thousand tons,2022,21.546453,5.404032,5155.638633
+Tennessee,Export,Water,thousand tons,2022,0,0,409.183019
+Tennessee,Import,Air (include truck-air),thousand tons,2022,34.709039,69.071024,280.406529
+Tennessee,Import,Multiple modes & mail,thousand tons,2022,0,681.616077,0.083105
+Tennessee,Import,Other and unknown,thousand tons,2022,1.063115,0.068991,0.001445
+Tennessee,Import,Pipeline,thousand tons,2022,0,44.490547,0
+Tennessee,Import,Rail,thousand tons,2022,0,2128.340753,0
+Tennessee,Import,Truck,thousand tons,2022,73.714316,5217.104486,11.556773
+Tennessee,Import,Water,thousand tons,2022,0,564.377343,0
+Texas,Domestic Only,Air (include truck-air),thousand tons,2022,2.08681,147.936328,74.314836
+Texas,Domestic Only,Multiple modes & mail,thousand tons,2022,38089.89719,63845.96289,40541.78366
+Texas,Domestic Only,Other and unknown,thousand tons,2022,9056.9238,0,0
+Texas,Domestic Only,Pipeline,thousand tons,2022,347668.8893,117484.645,199731.8669
+Texas,Domestic Only,Rail,thousand tons,2022,44171.63841,88380.57395,16004.92991
+Texas,Domestic Only,Truck,thousand tons,2022,1308595.674,116752.1922,128729.2311
+Texas,Domestic Only,Water,thousand tons,2022,114532.8781,30885.23619,39818.84656
+Texas,Export,Air (include truck-air),thousand tons,2022,32.145119,72.087412,146.375559
+Texas,Export,Multiple modes & mail,thousand tons,2022,31186.48608,848.697989,3744.06409
+Texas,Export,Other and unknown,thousand tons,2022,391.20342,939.219082,1157.431255
+Texas,Export,Pipeline,thousand tons,2022,172156.1482,1780.063047,23634.72783
+Texas,Export,Rail,thousand tons,2022,20053.15864,40618.58773,7064.265174
+Texas,Export,Truck,thousand tons,2022,135574.0396,27095.5806,7387.606785
+Texas,Export,Water,thousand tons,2022,37330.51393,4896.922157,1220.06622
+Texas,Import,Air (include truck-air),thousand tons,2022,59.322899,91.438913,56.722189
+Texas,Import,Multiple modes & mail,thousand tons,2022,7442.206632,3918.435061,1759.068371
+Texas,Import,No domestic mode,thousand tons,2022,52336.30819,0,0
+Texas,Import,Other and unknown,thousand tons,2022,1.831368,136.253514,0.950811
+Texas,Import,Pipeline,thousand tons,2022,3719.485878,19840.34133,0
+Texas,Import,Rail,thousand tons,2022,6830.506257,7578.004165,14016.41499
+Texas,Import,Truck,thousand tons,2022,59240.41791,4797.644912,23415.79552
+Texas,Import,Water,thousand tons,2022,11284.28328,1194.223029,1489.966418
+Utah,Domestic Only,Air (include truck-air),thousand tons,2022,0,14.470865,13.594535
+Utah,Domestic Only,Multiple modes & mail,thousand tons,2022,467.262957,4278.982204,4912.226576
+Utah,Domestic Only,Pipeline,thousand tons,2022,15001.77516,30655.52464,38431.07643
+Utah,Domestic Only,Rail,thousand tons,2022,2195.228043,3820.356108,6025.810494
+Utah,Domestic Only,Truck,thousand tons,2022,83990.50172,22683.46663,18215.56418
+Utah,Export,Air (include truck-air),thousand tons,2022,0,0.748042,45.557875
+Utah,Export,Multiple modes & mail,thousand tons,2022,0,0,943.353101
+Utah,Export,Other and unknown,thousand tons,2022,0,0,29.67497
+Utah,Export,Rail,thousand tons,2022,0,0,969.483846
+Utah,Export,Truck,thousand tons,2022,2.567255,0.022042,2602.373315
+Utah,Import,Air (include truck-air),thousand tons,2022,0,16.488025,2.313016
+Utah,Import,Multiple modes & mail,thousand tons,2022,0,144.182855,0.000012
+Utah,Import,Other and unknown,thousand tons,2022,0,1.974081,0.021971
+Utah,Import,Pipeline,thousand tons,2022,0,817.73406,0
+Utah,Import,Rail,thousand tons,2022,0,655.755015,0
+Utah,Import,Truck,thousand tons,2022,10.087469,1117.198065,0.000002
+Vermont,Domestic Only,Air (include truck-air),thousand tons,2022,0,0.14749,1.109826
+Vermont,Domestic Only,Multiple modes & mail,thousand tons,2022,6.63959,412.217108,3250.014759
+Vermont,Domestic Only,Rail,thousand tons,2022,317.377604,278.419834,104.718697
+Vermont,Domestic Only,Truck,thousand tons,2022,12376.62454,6905.435632,6856.40975
+Vermont,Export,Air (include truck-air),thousand tons,2022,0.107781,0.191273,2.081574
+Vermont,Export,Multiple modes & mail,thousand tons,2022,0,10.088259,24.441268
+Vermont,Export,Other and unknown,thousand tons,2022,1.097711,146.930257,10.204571
+Vermont,Export,Rail,thousand tons,2022,0.951278,24.857833,129.185962
+Vermont,Export,Truck,thousand tons,2022,231.965597,765.059896,225.828514
+Vermont,Import,Air (include truck-air),thousand tons,2022,0.06275,5.200941,0.255434
+Vermont,Import,Multiple modes & mail,thousand tons,2022,116.600952,154.837183,41.772695
+Vermont,Import,Other and unknown,thousand tons,2022,0,0.027502,0.94917
+Vermont,Import,Pipeline,thousand tons,2022,156.236628,0,753.425759
+Vermont,Import,Rail,thousand tons,2022,186.542634,97.399352,919.34088
+Vermont,Import,Truck,thousand tons,2022,1302.429284,285.421734,2273.793418
+Virginia,Domestic Only,Air (include truck-air),thousand tons,2022,0.000754,140.829911,10.666475
+Virginia,Domestic Only,Multiple modes & mail,thousand tons,2022,12977.34646,8144.165249,3906.927883
+Virginia,Domestic Only,Other and unknown,thousand tons,2022,93.195671,0,0
+Virginia,Domestic Only,Pipeline,thousand tons,2022,14530.65822,23722.6527,10262.02969
+Virginia,Domestic Only,Rail,thousand tons,2022,3101.95111,11671.90017,5021.607479
+Virginia,Domestic Only,Truck,thousand tons,2022,206738.3084,56311.89355,57039.21865
+Virginia,Domestic Only,Water,thousand tons,2022,904.789493,449.4043,2511.84043
+Virginia,Export,Air (include truck-air),thousand tons,2022,0,0.028194,23.594899
+Virginia,Export,Multiple modes & mail,thousand tons,2022,2045.651185,2838.679098,47.148188
+Virginia,Export,Other and unknown,thousand tons,2022,0,0,38.184509
+Virginia,Export,Rail,thousand tons,2022,1939.862314,11050.82772,1077.406506
+Virginia,Export,Truck,thousand tons,2022,15280.24127,7836.219307,1944.182965
+Virginia,Export,Water,thousand tons,2022,59.051469,2708.016242,42.530689
+Virginia,Import,Air (include truck-air),thousand tons,2022,0.010241,20.759298,0.609475
+Virginia,Import,Multiple modes & mail,thousand tons,2022,310.399449,135.080698,828.589554
+Virginia,Import,Other and unknown,thousand tons,2022,0,0.628914,0
+Virginia,Import,Rail,thousand tons,2022,154.238462,1396.209142,582.977392
+Virginia,Import,Truck,thousand tons,2022,5100.256104,1062.897821,2795.181363
+Virginia,Import,Water,thousand tons,2022,28.671867,94.160119,329.419891
+Washington,Domestic Only,Air (include truck-air),thousand tons,2022,0.000167,21.690219,101.33119
+Washington,Domestic Only,Multiple modes & mail,thousand tons,2022,1705.908018,8322.540948,8278.352887
+Washington,Domestic Only,Pipeline,thousand tons,2022,34860.84043,19498.7663,20754.78028
+Washington,Domestic Only,Rail,thousand tons,2022,10695.22456,34367.2462,1853.561959
+Washington,Domestic Only,Truck,thousand tons,2022,236798.6111,35164.66749,28832.04965
+Washington,Domestic Only,Water,thousand tons,2022,14841.89103,5216.163753,2038.536721
+Washington,Export,Air (include truck-air),thousand tons,2022,1.553255,26.528418,76.130546
+Washington,Export,Multiple modes & mail,thousand tons,2022,3595.981575,11504.90419,125.219744
+Washington,Export,Other and unknown,thousand tons,2022,11.110983,20.586404,136.035192
+Washington,Export,Pipeline,thousand tons,2022,85.91139,2.155399,24.072039
+Washington,Export,Rail,thousand tons,2022,23141.56348,11855.76725,789.160846
+Washington,Export,Truck,thousand tons,2022,20334.73723,6945.003954,1166.325437
+Washington,Export,Water,thousand tons,2022,2605.705261,337.856339,83.658113
+Washington,Import,Air (include truck-air),thousand tons,2022,0.345335,38.208668,44.342647
+Washington,Import,Multiple modes & mail,thousand tons,2022,813.816663,350.780041,1504.571501
+Washington,Import,No domestic mode,thousand tons,2022,1508.255261,0,0
+Washington,Import,Other and unknown,thousand tons,2022,0.103789,0.942521,0.00441
+Washington,Import,Pipeline,thousand tons,2022,11989.50537,9310.044447,0
+Washington,Import,Rail,thousand tons,2022,5445.292261,1751.158374,5737.652149
+Washington,Import,Truck,thousand tons,2022,11227.29663,2011.227824,3298.280597
+Washington,Import,Water,thousand tons,2022,1427.170809,707.934089,90.488413
+Washington DC,Domestic Only,Air (include truck-air),thousand tons,2022,0,1.118214,0.921906
+Washington DC,Domestic Only,Multiple modes & mail,thousand tons,2022,2.174046,90.673207,7.204006
+Washington DC,Domestic Only,Pipeline,thousand tons,2022,0,718.0578,0
+Washington DC,Domestic Only,Rail,thousand tons,2022,0,85.364905,0
+Washington DC,Domestic Only,Truck,thousand tons,2022,4487.048205,3821.877365,1207.405468
+Washington DC,Export,Air (include truck-air),thousand tons,2022,0,26.225456,0.510829
+Washington DC,Export,Multiple modes & mail,thousand tons,2022,0,0.052877,0.069865
+Washington DC,Export,Other and unknown,thousand tons,2022,7.245252,10.094981,1.876697
+Washington DC,Export,Rail,thousand tons,2022,0,0.343168,33.090981
+Washington DC,Export,Truck,thousand tons,2022,0.23177,34.375082,3.572125
+Washington DC,Export,Water,thousand tons,2022,0,0,0.051181
+Washington DC,Import,Air (include truck-air),thousand tons,2022,0,1.340315,18.551132
+Washington DC,Import,Multiple modes & mail,thousand tons,2022,0.118672,2.403633,7.885646
+Washington DC,Import,Other and unknown,thousand tons,2022,0.059353,0.000773,3.580565
+Washington DC,Import,Rail,thousand tons,2022,0.296009,54.442889,12.202507
+Washington DC,Import,Truck,thousand tons,2022,3.07098,27.822822,45.55095
+West Virginia,Domestic Only,Air (include truck-air),thousand tons,2022,0,25.160059,0.00106
+West Virginia,Domestic Only,Multiple modes & mail,thousand tons,2022,193.621174,3121.037257,1244.703468
+West Virginia,Domestic Only,Other and unknown,thousand tons,2022,24.513195,0,0
+West Virginia,Domestic Only,Pipeline,thousand tons,2022,1890.24587,11774.34359,43771.75101
+West Virginia,Domestic Only,Rail,thousand tons,2022,9304.369441,6034.076019,20259.51695
+West Virginia,Domestic Only,Truck,thousand tons,2022,58820.14315,20233.99719,18374.1256
+West Virginia,Domestic Only,Water,thousand tons,2022,10840.28065,12930.72734,29360.67748
+West Virginia,Export,Air (include truck-air),thousand tons,2022,0,0.001664,23.92728
+West Virginia,Export,Multiple modes & mail,thousand tons,2022,0,0,497.552132
+West Virginia,Export,Other and unknown,thousand tons,2022,0,0,96.022694
+West Virginia,Export,Rail,thousand tons,2022,0,0,10896.48348
+West Virginia,Export,Truck,thousand tons,2022,0,0,8566.353016
+West Virginia,Export,Water,thousand tons,2022,0,0,1561.35035
+West Virginia,Import,Air (include truck-air),thousand tons,2022,0.06375,5.875027,0.002479
+West Virginia,Import,Multiple modes & mail,thousand tons,2022,0,130.643185,0
+West Virginia,Import,Other and unknown,thousand tons,2022,0,10.522618,0
+West Virginia,Import,Rail,thousand tons,2022,0,650.882802,0
+West Virginia,Import,Truck,thousand tons,2022,0,456.382818,0.043465
+West Virginia,Import,Water,thousand tons,2022,0,24.512692,0
+Wisconsin,Domestic Only,Air (include truck-air),thousand tons,2022,0.000084,17.71856,10.883132
+Wisconsin,Domestic Only,Multiple modes & mail,thousand tons,2022,502.351257,6353.453243,21233.77908
+Wisconsin,Domestic Only,Pipeline,thousand tons,2022,12403.07829,21317.32519,7337.76496
+Wisconsin,Domestic Only,Rail,thousand tons,2022,10736.34506,22094.54572,18992.81189
+Wisconsin,Domestic Only,Truck,thousand tons,2022,300678.4928,74651.78177,74546.79312
+Wisconsin,Domestic Only,Water,thousand tons,2022,1.023349,2993.28213,0
+Wisconsin,Export,Air (include truck-air),thousand tons,2022,0.079389,0.015904,29.090103
+Wisconsin,Export,Multiple modes & mail,thousand tons,2022,0,12.449217,823.182409
+Wisconsin,Export,Other and unknown,thousand tons,2022,0,4.066778,53.98516
+Wisconsin,Export,Rail,thousand tons,2022,63.896434,24.436442,9687.647251
+Wisconsin,Export,Truck,thousand tons,2022,44.245873,0.00052,5640.940853
+Wisconsin,Export,Water,thousand tons,2022,0,0,0.220933
+Wisconsin,Import,Air (include truck-air),thousand tons,2022,0,15.646767,0.502309
+Wisconsin,Import,Multiple modes & mail,thousand tons,2022,1.550986,476.772778,337.967661
+Wisconsin,Import,Other and unknown,thousand tons,2022,0.008417,0.089401,0.019924
+Wisconsin,Import,Pipeline,thousand tons,2022,0,1313.626374,0
+Wisconsin,Import,Rail,thousand tons,2022,252.173129,4581.596051,1154.690419
+Wisconsin,Import,Truck,thousand tons,2022,338.457892,4098.964288,13.705939
+Wisconsin,Import,Water,thousand tons,2022,0,0.070228,1.298944
+Wyoming,Domestic Only,Air (include truck-air),thousand tons,2022,0,1.090435,0.010542
+Wyoming,Domestic Only,Multiple modes & mail,thousand tons,2022,53.901596,940.894135,6595.49291
+Wyoming,Domestic Only,Other and unknown,thousand tons,2022,9057.6289,0,0
+Wyoming,Domestic Only,Pipeline,thousand tons,2022,8240.01977,39215.13359,65703.71321
+Wyoming,Domestic Only,Rail,thousand tons,2022,16515.28907,2534.163553,158163.1353
+Wyoming,Domestic Only,Truck,thousand tons,2022,17085.73583,10030.67001,10120.89481
+Wyoming,Export,Air (include truck-air),thousand tons,2022,0,0,0.554797
+Wyoming,Export,Multiple modes & mail,thousand tons,2022,0,0,431.56098
+Wyoming,Export,Other and unknown,thousand tons,2022,0,0,8.784065
+Wyoming,Export,Rail,thousand tons,2022,0,0,1501.091741
+Wyoming,Export,Truck,thousand tons,2022,0,0,4386.699558
+Wyoming,Import,Air (include truck-air),thousand tons,2022,0,0.954409,0
+Wyoming,Import,Multiple modes & mail,thousand tons,2022,0,10.39987,0
+Wyoming,Import,Pipeline,thousand tons,2022,0,3797.12357,0
+Wyoming,Import,Rail,thousand tons,2022,0,359.305986,0
+Wyoming,Import,Truck,thousand tons,2022,0,125.554955,0
