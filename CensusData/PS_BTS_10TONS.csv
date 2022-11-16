@@ -1,0 +1,3058 @@
+State,Commodity,Field,Value,Unit,Year
+Alabama,Logs,tons_within,44229.01774,thousand tons,2012
+Alabama,Logs,tons_out,62341.59561,thousand tons,2012
+Alabama,Logs,tons_in,78597.43176,thousand tons,2012
+Alabama,Gravel,tons_within,28851.0747,thousand tons,2012
+Alabama,Gravel,tons_out,12479.95578,thousand tons,2012
+Alabama,Gravel,tons_in,12493.7872,thousand tons,2012
+Alabama,Coal,tons_within,22651.234,thousand tons,2012
+Alabama,Coal,tons_out,8494.078258,thousand tons,2012
+Alabama,Coal,tons_in,6002.207522,thousand tons,2012
+Alabama,Nonmetal min. prods.,tons_within,13561.20291,thousand tons,2012
+Alabama,Nonmetal min. prods.,tons_out,4913.030699,thousand tons,2012
+Alabama,Nonmetal min. prods.,tons_in,4651.900029,thousand tons,2012
+Alabama,Coal-n.e.c.,tons_within,10334.26564,thousand tons,2012
+Alabama,Coal-n.e.c.,tons_out,4801.224524,thousand tons,2012
+Alabama,Coal-n.e.c.,tons_in,4429.964915,thousand tons,2012
+Alabama,Natural sands,tons_within,9889.0644,thousand tons,2012
+Alabama,Natural sands,tons_out,4750.115664,thousand tons,2012
+Alabama,Natural sands,tons_in,4427.2841,thousand tons,2012
+Alabama,Waste/scrap,tons_within,8073.118752,thousand tons,2012
+Alabama,Waste/scrap,tons_out,4525.188888,thousand tons,2012
+Alabama,Waste/scrap,tons_in,3991.991503,thousand tons,2012
+Alabama,Wood prods.,tons_within,7260.892,thousand tons,2012
+Alabama,Wood prods.,tons_out,4223.258639,thousand tons,2012
+Alabama,Wood prods.,tons_in,3820.5901,thousand tons,2012
+Alabama,Gasoline,tons_within,7178.8693,thousand tons,2012
+Alabama,Gasoline,tons_out,3619.4511,thousand tons,2012
+Alabama,Gasoline,tons_in,3627.3239,thousand tons,2012
+Alabama,Fuel oils,tons_within,6808.6246,thousand tons,2012
+Alabama,Fuel oils,tons_out,3480.8868,thousand tons,2012
+Alabama,Fuel oils,tons_in,3368.6825,thousand tons,2012
+Alaska,Crude petroleum,tons_within,18944.2347,thousand tons,2012
+Alaska,Crude petroleum,tons_out,25182.0945,thousand tons,2012
+Alaska,Crude petroleum,tons_in,696.9925,thousand tons,2012
+Alaska,Coal-n.e.c.,tons_within,7918.609233,thousand tons,2012
+Alaska,Coal-n.e.c.,tons_out,258.389,thousand tons,2012
+Alaska,Coal-n.e.c.,tons_in,242.6284,thousand tons,2012
+Alaska,Gasoline,tons_within,5461.5112,thousand tons,2012
+Alaska,Gasoline,tons_out,109.330301,thousand tons,2012
+Alaska,Gasoline,tons_in,160.4364,thousand tons,2012
+Alaska,Gravel,tons_within,4527.5283,thousand tons,2012
+Alaska,Gravel,tons_out,59.0853,thousand tons,2012
+Alaska,Gravel,tons_in,153.0707,thousand tons,2012
+Alaska,Fuel oils,tons_within,3536.691,thousand tons,2012
+Alaska,Fuel oils,tons_out,57.4841,thousand tons,2012
+Alaska,Fuel oils,tons_in,91.719902,thousand tons,2012
+Alaska,Logs,tons_within,2928.549175,thousand tons,2012
+Alaska,Logs,tons_out,46.9425,thousand tons,2012
+Alaska,Logs,tons_in,69.6684,thousand tons,2012
+Alaska,Live animals/fish,tons_within,2687.5439,thousand tons,2012
+Alaska,Live animals/fish,tons_out,42.1091,thousand tons,2012
+Alaska,Live animals/fish,tons_in,66.7304,thousand tons,2012
+Alaska,Coal,tons_within,2594.2998,thousand tons,2012
+Alaska,Coal,tons_out,40.2761,thousand tons,2012
+Alaska,Coal,tons_in,65.1896,thousand tons,2012
+Alaska,Nonmetal min. prods.,tons_within,2351.9287,thousand tons,2012
+Alaska,Nonmetal min. prods.,tons_out,31.9622,thousand tons,2012
+Alaska,Nonmetal min. prods.,tons_in,61.8719,thousand tons,2012
+Alaska,Metallic ores,tons_within,1277.4205,thousand tons,2012
+Alaska,Metallic ores,tons_out,28.5222,thousand tons,2012
+Alaska,Metallic ores,tons_in,60.8213,thousand tons,2012
+Arizona,Gravel,tons_within,48816.9306,thousand tons,2012
+Arizona,Gravel,tons_out,19023.17553,thousand tons,2012
+Arizona,Gravel,tons_in,26788.92803,thousand tons,2012
+Arizona,Nonmetal min. prods.,tons_within,13908.60809,thousand tons,2012
+Arizona,Nonmetal min. prods.,tons_out,2466.733905,thousand tons,2012
+Arizona,Nonmetal min. prods.,tons_in,5425.2043,thousand tons,2012
+Arizona,Metallic ores,tons_within,8846.7077,thousand tons,2012
+Arizona,Metallic ores,tons_out,2116.758709,thousand tons,2012
+Arizona,Metallic ores,tons_in,4744.224399,thousand tons,2012
+Arizona,Waste/scrap,tons_within,8788.5724,thousand tons,2012
+Arizona,Waste/scrap,tons_out,1432.921799,thousand tons,2012
+Arizona,Waste/scrap,tons_in,2150.195095,thousand tons,2012
+Arizona,Coal,tons_within,7270.1005,thousand tons,2012
+Arizona,Coal,tons_out,1362.766095,thousand tons,2012
+Arizona,Coal,tons_in,2025.4741,thousand tons,2012
+Arizona,Natural sands,tons_within,6588.3766,thousand tons,2012
+Arizona,Natural sands,tons_out,1209.918705,thousand tons,2012
+Arizona,Natural sands,tons_in,1758.83,thousand tons,2012
+Arizona,Other foodstuffs,tons_within,6239.8599,thousand tons,2012
+Arizona,Other foodstuffs,tons_out,1129.9515,thousand tons,2012
+Arizona,Other foodstuffs,tons_in,1397.5701,thousand tons,2012
+Arizona,Other ag prods.,tons_within,5290.97847,thousand tons,2012
+Arizona,Other ag prods.,tons_out,1111.079602,thousand tons,2012
+Arizona,Other ag prods.,tons_in,1363.6078,thousand tons,2012
+Arizona,Mixed freight,tons_within,4463.030804,thousand tons,2012
+Arizona,Mixed freight,tons_out,675.780911,thousand tons,2012
+Arizona,Mixed freight,tons_in,1319.649579,thousand tons,2012
+Arizona,Fuel oils,tons_within,3168.5253,thousand tons,2012
+Arizona,Fuel oils,tons_out,663.391,thousand tons,2012
+Arizona,Fuel oils,tons_in,1156.758519,thousand tons,2012
+Arkansas,Gravel,tons_within,25073.4497,thousand tons,2012
+Arkansas,Gravel,tons_out,49734.5761,thousand tons,2012
+Arkansas,Gravel,tons_in,39603.81133,thousand tons,2012
+Arkansas,Coal-n.e.c.,tons_within,23527.8007,thousand tons,2012
+Arkansas,Coal-n.e.c.,tons_out,4749.1876,thousand tons,2012
+Arkansas,Coal-n.e.c.,tons_in,7130.2877,thousand tons,2012
+Arkansas,Logs,tons_within,18919.42965,thousand tons,2012
+Arkansas,Logs,tons_out,4715.018802,thousand tons,2012
+Arkansas,Logs,tons_in,6659.5565,thousand tons,2012
+Arkansas,Cereal grains,tons_within,13431.9648,thousand tons,2012
+Arkansas,Cereal grains,tons_out,3694.1699,thousand tons,2012
+Arkansas,Cereal grains,tons_in,4156.2187,thousand tons,2012
+Arkansas,Waste/scrap,tons_within,8380.1254,thousand tons,2012
+Arkansas,Waste/scrap,tons_out,2886.3539,thousand tons,2012
+Arkansas,Waste/scrap,tons_in,3743.339,thousand tons,2012
+Arkansas,Machinery,tons_within,7765.2286,thousand tons,2012
+Arkansas,Machinery,tons_out,2721.8726,thousand tons,2012
+Arkansas,Machinery,tons_in,3677.4814,thousand tons,2012
+Arkansas,Nonmetal min. prods.,tons_within,7401.3917,thousand tons,2012
+Arkansas,Nonmetal min. prods.,tons_out,2644.3572,thousand tons,2012
+Arkansas,Nonmetal min. prods.,tons_in,3618.7839,thousand tons,2012
+Arkansas,Other ag prods.,tons_within,6593.772437,thousand tons,2012
+Arkansas,Other ag prods.,tons_out,2350.7747,thousand tons,2012
+Arkansas,Other ag prods.,tons_in,3442.0292,thousand tons,2012
+Arkansas,Natural sands,tons_within,5599.039,thousand tons,2012
+Arkansas,Natural sands,tons_out,2302.1459,thousand tons,2012
+Arkansas,Natural sands,tons_in,2302.628814,thousand tons,2012
+Arkansas,Wood prods.,tons_within,4242.9658,thousand tons,2012
+Arkansas,Wood prods.,tons_out,2107.841002,thousand tons,2012
+Arkansas,Wood prods.,tons_in,1962.074699,thousand tons,2012
+California,Gasoline,tons_within,108731.3827,thousand tons,2012
+California,Gasoline,tons_out,23029.9703,thousand tons,2012
+California,Gasoline,tons_in,51320.60241,thousand tons,2012
+California,Gravel,tons_within,95680.72211,thousand tons,2012
+California,Gravel,tons_out,8271.345266,thousand tons,2012
+California,Gravel,tons_in,18704.251,thousand tons,2012
+California,Nonmetal min. prods.,tons_within,95039.09329,thousand tons,2012
+California,Nonmetal min. prods.,tons_out,6976.395552,thousand tons,2012
+California,Nonmetal min. prods.,tons_in,15518.66269,thousand tons,2012
+California,Waste/scrap,tons_within,88163.65641,thousand tons,2012
+California,Waste/scrap,tons_out,6693.554946,thousand tons,2012
+California,Waste/scrap,tons_in,14926.86631,thousand tons,2012
+California,Other foodstuffs,tons_within,75791.81303,thousand tons,2012
+California,Other foodstuffs,tons_out,5926.999001,thousand tons,2012
+California,Other foodstuffs,tons_in,9325.394317,thousand tons,2012
+California,Natural sands,tons_within,69753.83815,thousand tons,2012
+California,Natural sands,tons_out,5346.145248,thousand tons,2012
+California,Natural sands,tons_in,8073.256227,thousand tons,2012
+California,Crude petroleum,tons_within,64075.9352,thousand tons,2012
+California,Crude petroleum,tons_out,5303.330576,thousand tons,2012
+California,Crude petroleum,tons_in,7856.632727,thousand tons,2012
+California,Other ag prods.,tons_within,53737.54952,thousand tons,2012
+California,Other ag prods.,tons_out,5249.113664,thousand tons,2012
+California,Other ag prods.,tons_in,7614.241906,thousand tons,2012
+California,Coal-n.e.c.,tons_within,46209.48399,thousand tons,2012
+California,Coal-n.e.c.,tons_out,5110.391746,thousand tons,2012
+California,Coal-n.e.c.,tons_in,7074.265061,thousand tons,2012
+California,Mixed freight,tons_within,38254.06476,thousand tons,2012
+California,Mixed freight,tons_out,4680.604133,thousand tons,2012
+California,Mixed freight,tons_in,6137.188818,thousand tons,2012
+Colorado,Gravel,tons_within,47260.0254,thousand tons,2012
+Colorado,Gravel,tons_out,56082.18476,thousand tons,2012
+Colorado,Gravel,tons_in,35554.0407,thousand tons,2012
+Colorado,Coal-n.e.c.,tons_within,30397.8283,thousand tons,2012
+Colorado,Coal-n.e.c.,tons_out,15508.025,thousand tons,2012
+Colorado,Coal-n.e.c.,tons_in,17770.0224,thousand tons,2012
+Colorado,Coal,tons_within,16278.0594,thousand tons,2012
+Colorado,Coal,tons_out,6282.1857,thousand tons,2012
+Colorado,Coal,tons_in,3516.4747,thousand tons,2012
+Colorado,Nonmetal min. prods.,tons_within,13398.9566,thousand tons,2012
+Colorado,Nonmetal min. prods.,tons_out,3066.4893,thousand tons,2012
+Colorado,Nonmetal min. prods.,tons_in,3336.9027,thousand tons,2012
+Colorado,Cereal grains,tons_within,11995.3439,thousand tons,2012
+Colorado,Cereal grains,tons_out,3040.7862,thousand tons,2012
+Colorado,Cereal grains,tons_in,2310.4684,thousand tons,2012
+Colorado,Natural sands,tons_within,11035.5261,thousand tons,2012
+Colorado,Natural sands,tons_out,2714.8523,thousand tons,2012
+Colorado,Natural sands,tons_in,1954.0232,thousand tons,2012
+Colorado,Animal feed,tons_within,10692.2043,thousand tons,2012
+Colorado,Animal feed,tons_out,2691.254602,thousand tons,2012
+Colorado,Animal feed,tons_in,1871.680321,thousand tons,2012
+Colorado,Waste/scrap,tons_within,9473.0169,thousand tons,2012
+Colorado,Waste/scrap,tons_out,1685.64576,thousand tons,2012
+Colorado,Waste/scrap,tons_in,1699.2451,thousand tons,2012
+Colorado,Gasoline,tons_within,4945.7235,thousand tons,2012
+Colorado,Gasoline,tons_out,1621.1632,thousand tons,2012
+Colorado,Gasoline,tons_in,1529.9138,thousand tons,2012
+Colorado,Mixed freight,tons_within,4913.323932,thousand tons,2012
+Colorado,Mixed freight,tons_out,1587.709601,thousand tons,2012
+Colorado,Mixed freight,tons_in,1474.8015,thousand tons,2012
+Connecticut,Gravel,tons_within,16570.7952,thousand tons,2012
+Connecticut,Gravel,tons_out,13126.71691,thousand tons,2012
+Connecticut,Gravel,tons_in,13729.76556,thousand tons,2012
+Connecticut,Fuel oils,tons_within,15337.1271,thousand tons,2012
+Connecticut,Fuel oils,tons_out,8954.812178,thousand tons,2012
+Connecticut,Fuel oils,tons_in,6352.973032,thousand tons,2012
+Connecticut,Coal-n.e.c.,tons_within,7818.4598,thousand tons,2012
+Connecticut,Coal-n.e.c.,tons_out,4213.984994,thousand tons,2012
+Connecticut,Coal-n.e.c.,tons_in,3552.38867,thousand tons,2012
+Connecticut,Nonmetal min. prods.,tons_within,7247.1291,thousand tons,2012
+Connecticut,Nonmetal min. prods.,tons_out,2888.565901,thousand tons,2012
+Connecticut,Nonmetal min. prods.,tons_in,2641.549834,thousand tons,2012
+Connecticut,Waste/scrap,tons_within,5596.2338,thousand tons,2012
+Connecticut,Waste/scrap,tons_out,1872.070308,thousand tons,2012
+Connecticut,Waste/scrap,tons_in,2001.204227,thousand tons,2012
+Connecticut,Gasoline,tons_within,4440.6135,thousand tons,2012
+Connecticut,Gasoline,tons_out,1566.839406,thousand tons,2012
+Connecticut,Gasoline,tons_in,1442.464361,thousand tons,2012
+Connecticut,Natural sands,tons_within,3359.9329,thousand tons,2012
+Connecticut,Natural sands,tons_out,1361.531602,thousand tons,2012
+Connecticut,Natural sands,tons_in,1197.3701,thousand tons,2012
+Connecticut,Mixed freight,tons_within,1964.317294,thousand tons,2012
+Connecticut,Mixed freight,tons_out,1261.1344,thousand tons,2012
+Connecticut,Mixed freight,tons_in,1179.744791,thousand tons,2012
+Connecticut,Other foodstuffs,tons_within,1352.0332,thousand tons,2012
+Connecticut,Other foodstuffs,tons_out,1217.303316,thousand tons,2012
+Connecticut,Other foodstuffs,tons_in,1036.7631,thousand tons,2012
+Connecticut,Base metals,tons_within,1193.8458,thousand tons,2012
+Connecticut,Base metals,tons_out,1185.1102,thousand tons,2012
+Connecticut,Base metals,tons_in,976.526289,thousand tons,2012
+Delaware,Gasoline,tons_within,6367.02,thousand tons,2012
+Delaware,Gasoline,tons_out,1120.0062,thousand tons,2012
+Delaware,Gasoline,tons_in,4608.413653,thousand tons,2012
+Delaware,Crude petroleum,tons_within,5843.1847,thousand tons,2012
+Delaware,Crude petroleum,tons_out,1111.245161,thousand tons,2012
+Delaware,Crude petroleum,tons_in,2667.445041,thousand tons,2012
+Delaware,Fuel oils,tons_within,5634.9299,thousand tons,2012
+Delaware,Fuel oils,tons_out,877.8384,thousand tons,2012
+Delaware,Fuel oils,tons_in,1701.0095,thousand tons,2012
+Delaware,Gravel,tons_within,3218.9296,thousand tons,2012
+Delaware,Gravel,tons_out,850.1744,thousand tons,2012
+Delaware,Gravel,tons_in,1446.0078,thousand tons,2012
+Delaware,Waste/scrap,tons_within,2528.515201,thousand tons,2012
+Delaware,Waste/scrap,tons_out,700.332626,thousand tons,2012
+Delaware,Waste/scrap,tons_in,1068.978975,thousand tons,2012
+Delaware,Nonmetal min. prods.,tons_within,2205.1171,thousand tons,2012
+Delaware,Nonmetal min. prods.,tons_out,609.8329,thousand tons,2012
+Delaware,Nonmetal min. prods.,tons_in,993.6486,thousand tons,2012
+Delaware,Natural sands,tons_within,2062.9875,thousand tons,2012
+Delaware,Natural sands,tons_out,602.4222,thousand tons,2012
+Delaware,Natural sands,tons_in,970.312065,thousand tons,2012
+Delaware,Other ag prods.,tons_within,1700.049277,thousand tons,2012
+Delaware,Other ag prods.,tons_out,451.95089,thousand tons,2012
+Delaware,Other ag prods.,tons_in,732.4377,thousand tons,2012
+Delaware,Coal-n.e.c.,tons_within,1627.752422,thousand tons,2012
+Delaware,Coal-n.e.c.,tons_out,362.4754,thousand tons,2012
+Delaware,Coal-n.e.c.,tons_in,599.089207,thousand tons,2012
+Delaware,Cereal grains,tons_within,1615.4316,thousand tons,2012
+Delaware,Cereal grains,tons_out,346.863558,thousand tons,2012
+Delaware,Cereal grains,tons_in,580.2145,thousand tons,2012
+Florida,Gravel,tons_within,108678.4249,thousand tons,2012
+Florida,Gravel,tons_out,8109.651441,thousand tons,2012
+Florida,Gravel,tons_in,26625.46465,thousand tons,2012
+Florida,Natural sands,tons_within,85835.3866,thousand tons,2012
+Florida,Natural sands,tons_out,8076.230273,thousand tons,2012
+Florida,Natural sands,tons_in,13807.8709,thousand tons,2012
+Florida,Gasoline,tons_within,49441.9008,thousand tons,2012
+Florida,Gasoline,tons_out,6348.34241,thousand tons,2012
+Florida,Gasoline,tons_in,12533.8079,thousand tons,2012
+Florida,Nonmetal min. prods.,tons_within,42171.307,thousand tons,2012
+Florida,Nonmetal min. prods.,tons_out,3354.41229,thousand tons,2012
+Florida,Nonmetal min. prods.,tons_in,12067.0582,thousand tons,2012
+Florida,Other ag prods.,tons_within,38097.73529,thousand tons,2012
+Florida,Other ag prods.,tons_out,3330.860809,thousand tons,2012
+Florida,Other ag prods.,tons_in,6867.259908,thousand tons,2012
+Florida,Waste/scrap,tons_within,31725.81935,thousand tons,2012
+Florida,Waste/scrap,tons_out,2180.259519,thousand tons,2012
+Florida,Waste/scrap,tons_in,4083.420561,thousand tons,2012
+Florida,Other foodstuffs,tons_within,19276.71489,thousand tons,2012
+Florida,Other foodstuffs,tons_out,2119.349115,thousand tons,2012
+Florida,Other foodstuffs,tons_in,4058.720864,thousand tons,2012
+Florida,Fuel oils,tons_within,18540.93645,thousand tons,2012
+Florida,Fuel oils,tons_out,2023.472609,thousand tons,2012
+Florida,Fuel oils,tons_in,3836.034944,thousand tons,2012
+Florida,Mixed freight,tons_within,15193.91662,thousand tons,2012
+Florida,Mixed freight,tons_out,1649.478226,thousand tons,2012
+Florida,Mixed freight,tons_in,3326.798203,thousand tons,2012
+Florida,Nonmetallic minerals,tons_within,13576.08134,thousand tons,2012
+Florida,Nonmetallic minerals,tons_out,1519.142644,thousand tons,2012
+Florida,Nonmetallic minerals,tons_in,3222.093017,thousand tons,2012
+Georgia,Gravel,tons_within,54933.9646,thousand tons,2012
+Georgia,Gravel,tons_out,25772.36202,thousand tons,2012
+Georgia,Gravel,tons_in,33922.65547,thousand tons,2012
+Georgia,Logs,tons_within,34800.08824,thousand tons,2012
+Georgia,Logs,tons_out,10915.0601,thousand tons,2012
+Georgia,Logs,tons_in,19208.7743,thousand tons,2012
+Georgia,Gasoline,tons_within,20280.0076,thousand tons,2012
+Georgia,Gasoline,tons_out,6818.759603,thousand tons,2012
+Georgia,Gasoline,tons_in,10723.4401,thousand tons,2012
+Georgia,Nonmetal min. prods.,tons_within,20083.28399,thousand tons,2012
+Georgia,Nonmetal min. prods.,tons_out,5912.955301,thousand tons,2012
+Georgia,Nonmetal min. prods.,tons_in,7329.278592,thousand tons,2012
+Georgia,Waste/scrap,tons_within,14905.2692,thousand tons,2012
+Georgia,Waste/scrap,tons_out,5902.386736,thousand tons,2012
+Georgia,Waste/scrap,tons_in,7149.675071,thousand tons,2012
+Georgia,Wood prods.,tons_within,14332.66676,thousand tons,2012
+Georgia,Wood prods.,tons_out,5359.166651,thousand tons,2012
+Georgia,Wood prods.,tons_in,6313.8917,thousand tons,2012
+Georgia,Nonmetallic minerals,tons_within,11707.3412,thousand tons,2012
+Georgia,Nonmetallic minerals,tons_out,4954.542805,thousand tons,2012
+Georgia,Nonmetallic minerals,tons_in,6297.621162,thousand tons,2012
+Georgia,Other ag prods.,tons_within,9760.390911,thousand tons,2012
+Georgia,Other ag prods.,tons_out,4779.45303,thousand tons,2012
+Georgia,Other ag prods.,tons_in,5176.12247,thousand tons,2012
+Georgia,Other foodstuffs,tons_within,9068.5488,thousand tons,2012
+Georgia,Other foodstuffs,tons_out,4559.3186,thousand tons,2012
+Georgia,Other foodstuffs,tons_in,4866.944837,thousand tons,2012
+Georgia,Fuel oils,tons_within,8970.7861,thousand tons,2012
+Georgia,Fuel oils,tons_out,4366.139505,thousand tons,2012
+Georgia,Fuel oils,tons_in,4444.82902,thousand tons,2012
+Hawaii,Gravel,tons_within,8413.9056,thousand tons,2012
+Hawaii,Gravel,tons_out,853.1694,thousand tons,2012
+Hawaii,Gravel,tons_in,1208.3186,thousand tons,2012
+Hawaii,Crude petroleum,tons_within,6081.6046,thousand tons,2012
+Hawaii,Crude petroleum,tons_out,34.3075,thousand tons,2012
+Hawaii,Crude petroleum,tons_in,286.1251,thousand tons,2012
+Hawaii,Fuel oils,tons_within,6002.5199,thousand tons,2012
+Hawaii,Fuel oils,tons_out,33.525395,thousand tons,2012
+Hawaii,Fuel oils,tons_in,265.4139,thousand tons,2012
+Hawaii,Gasoline,tons_within,5522.2622,thousand tons,2012
+Hawaii,Gasoline,tons_out,26.848195,thousand tons,2012
+Hawaii,Gasoline,tons_in,247.53715,thousand tons,2012
+Hawaii,Waste/scrap,tons_within,4286.3408,thousand tons,2012
+Hawaii,Waste/scrap,tons_out,25.461798,thousand tons,2012
+Hawaii,Waste/scrap,tons_in,215.9704,thousand tons,2012
+Hawaii,Nonmetal min. prods.,tons_within,3682.94699,thousand tons,2012
+Hawaii,Nonmetal min. prods.,tons_out,21.190298,thousand tons,2012
+Hawaii,Nonmetal min. prods.,tons_in,215.5837,thousand tons,2012
+Hawaii,Fertilizers,tons_within,1316.6179,thousand tons,2012
+Hawaii,Fertilizers,tons_out,17.492705,thousand tons,2012
+Hawaii,Fertilizers,tons_in,140.5088,thousand tons,2012
+Hawaii,Natural sands,tons_within,1072.9673,thousand tons,2012
+Hawaii,Natural sands,tons_out,14.0556,thousand tons,2012
+Hawaii,Natural sands,tons_in,131.0075,thousand tons,2012
+Hawaii,Other foodstuffs,tons_within,943.261792,thousand tons,2012
+Hawaii,Other foodstuffs,tons_out,12.917699,thousand tons,2012
+Hawaii,Other foodstuffs,tons_in,128.3322,thousand tons,2012
+Hawaii,Coal,tons_within,905.8479,thousand tons,2012
+Hawaii,Coal,tons_out,9.3219,thousand tons,2012
+Hawaii,Coal,tons_in,97.2331,thousand tons,2012
+Idaho,Other ag prods.,tons_within,14955.94653,thousand tons,2012
+Idaho,Other ag prods.,tons_out,14867.8113,thousand tons,2012
+Idaho,Other ag prods.,tons_in,3172.2012,thousand tons,2012
+Idaho,Coal-n.e.c.,tons_within,12662.2167,thousand tons,2012
+Idaho,Coal-n.e.c.,tons_out,5553.127,thousand tons,2012
+Idaho,Coal-n.e.c.,tons_in,3085.7864,thousand tons,2012
+Idaho,Other foodstuffs,tons_within,8066.5382,thousand tons,2012
+Idaho,Other foodstuffs,tons_out,4239.3373,thousand tons,2012
+Idaho,Other foodstuffs,tons_in,2756.251085,thousand tons,2012
+Idaho,Logs,tons_within,7119.743183,thousand tons,2012
+Idaho,Logs,tons_out,4152.964872,thousand tons,2012
+Idaho,Logs,tons_in,2394.21841,thousand tons,2012
+Idaho,Cereal grains,tons_within,6229.9574,thousand tons,2012
+Idaho,Cereal grains,tons_out,3112.015275,thousand tons,2012
+Idaho,Cereal grains,tons_in,2229.1054,thousand tons,2012
+Idaho,Gravel,tons_within,4916.0337,thousand tons,2012
+Idaho,Gravel,tons_out,2700.501,thousand tons,2012
+Idaho,Gravel,tons_in,2185.474401,thousand tons,2012
+Idaho,Animal feed,tons_within,4815.7019,thousand tons,2012
+Idaho,Animal feed,tons_out,2519.3541,thousand tons,2012
+Idaho,Animal feed,tons_in,1326.974,thousand tons,2012
+Idaho,Wood prods.,tons_within,3279.0448,thousand tons,2012
+Idaho,Wood prods.,tons_out,1449.9232,thousand tons,2012
+Idaho,Wood prods.,tons_in,1288.52769,thousand tons,2012
+Idaho,Nonmetal min. prods.,tons_within,2277.7593,thousand tons,2012
+Idaho,Nonmetal min. prods.,tons_out,1039.1417,thousand tons,2012
+Idaho,Nonmetal min. prods.,tons_in,1006.381,thousand tons,2012
+Idaho,Waste/scrap,tons_within,1918.8249,thousand tons,2012
+Idaho,Waste/scrap,tons_out,794.3957,thousand tons,2012
+Idaho,Waste/scrap,tons_in,975.398,thousand tons,2012
+Illinois,Gravel,tons_within,79919.21496,thousand tons,2012
+Illinois,Gravel,tons_out,60259.23768,thousand tons,2012
+Illinois,Gravel,tons_in,72114.18997,thousand tons,2012
+Illinois,Cereal grains,tons_within,78317.58333,thousand tons,2012
+Illinois,Cereal grains,tons_out,28633.9037,thousand tons,2012
+Illinois,Cereal grains,tons_in,59550.3718,thousand tons,2012
+Illinois,Gasoline,tons_within,53080.61694,thousand tons,2012
+Illinois,Gasoline,tons_out,23175.9192,thousand tons,2012
+Illinois,Gasoline,tons_in,55118.0939,thousand tons,2012
+Illinois,Fuel oils,tons_within,43899.036,thousand tons,2012
+Illinois,Fuel oils,tons_out,20079.00645,thousand tons,2012
+Illinois,Fuel oils,tons_in,17168.92734,thousand tons,2012
+Illinois,Fertilizers,tons_within,28612.88605,thousand tons,2012
+Illinois,Fertilizers,tons_out,18610.5529,thousand tons,2012
+Illinois,Fertilizers,tons_in,17102.84457,thousand tons,2012
+Illinois,Other ag prods.,tons_within,24326.43603,thousand tons,2012
+Illinois,Other ag prods.,tons_out,16420.58336,thousand tons,2012
+Illinois,Other ag prods.,tons_in,16023.56032,thousand tons,2012
+Illinois,Nonmetal min. prods.,tons_within,21094.7976,thousand tons,2012
+Illinois,Nonmetal min. prods.,tons_out,16221.21082,thousand tons,2012
+Illinois,Nonmetal min. prods.,tons_in,11002.90664,thousand tons,2012
+Illinois,Natural sands,tons_within,18585.40132,thousand tons,2012
+Illinois,Natural sands,tons_out,14218.9091,thousand tons,2012
+Illinois,Natural sands,tons_in,10342.3538,thousand tons,2012
+Illinois,Other foodstuffs,tons_within,16288.42716,thousand tons,2012
+Illinois,Other foodstuffs,tons_out,13905.96092,thousand tons,2012
+Illinois,Other foodstuffs,tons_in,9825.28277,thousand tons,2012
+Illinois,Waste/scrap,tons_within,15741.31989,thousand tons,2012
+Illinois,Waste/scrap,tons_out,10154.30541,thousand tons,2012
+Illinois,Waste/scrap,tons_in,9570.624806,thousand tons,2012
+Indiana,Gravel,tons_within,46575.9811,thousand tons,2012
+Indiana,Gravel,tons_out,43206.35476,thousand tons,2012
+Indiana,Gravel,tons_in,57209.8839,thousand tons,2012
+Indiana,Coal,tons_within,34504.0505,thousand tons,2012
+Indiana,Coal,tons_out,28906.89282,thousand tons,2012
+Indiana,Coal,tons_in,32558.6405,thousand tons,2012
+Indiana,Cereal grains,tons_within,25522.5817,thousand tons,2012
+Indiana,Cereal grains,tons_out,13040.21889,thousand tons,2012
+Indiana,Cereal grains,tons_in,24934.61,thousand tons,2012
+Indiana,Gasoline,tons_within,18963.0796,thousand tons,2012
+Indiana,Gasoline,tons_out,10364.57337,thousand tons,2012
+Indiana,Gasoline,tons_in,18463.79511,thousand tons,2012
+Indiana,Fuel oils,tons_within,16207.157,thousand tons,2012
+Indiana,Fuel oils,tons_out,9090.873396,thousand tons,2012
+Indiana,Fuel oils,tons_in,11934.9504,thousand tons,2012
+Indiana,Nonmetal min. prods.,tons_within,12807.4928,thousand tons,2012
+Indiana,Nonmetal min. prods.,tons_out,8493.264084,thousand tons,2012
+Indiana,Nonmetal min. prods.,tons_in,8901.8773,thousand tons,2012
+Indiana,Base metals,tons_within,11373.0259,thousand tons,2012
+Indiana,Base metals,tons_out,7069.000772,thousand tons,2012
+Indiana,Base metals,tons_in,8386.1353,thousand tons,2012
+Indiana,Other ag prods.,tons_within,10079.71416,thousand tons,2012
+Indiana,Other ag prods.,tons_out,5394.56285,thousand tons,2012
+Indiana,Other ag prods.,tons_in,6915.238293,thousand tons,2012
+Indiana,Waste/scrap,tons_within,8904.1298,thousand tons,2012
+Indiana,Waste/scrap,tons_out,5224.99154,thousand tons,2012
+Indiana,Waste/scrap,tons_in,6174.156699,thousand tons,2012
+Indiana,Other foodstuffs,tons_within,7397.3283,thousand tons,2012
+Indiana,Other foodstuffs,tons_out,4187.455703,thousand tons,2012
+Indiana,Other foodstuffs,tons_in,6030.6273,thousand tons,2012
+Iowa,Cereal grains,tons_within,80678.0077,thousand tons,2012
+Iowa,Cereal grains,tons_out,36435.73063,thousand tons,2012
+Iowa,Cereal grains,tons_in,50996.61746,thousand tons,2012
+Iowa,Gravel,tons_within,47800.67486,thousand tons,2012
+Iowa,Gravel,tons_out,20458.8952,thousand tons,2012
+Iowa,Gravel,tons_in,20421.4953,thousand tons,2012
+Iowa,Animal feed,tons_within,29194.77242,thousand tons,2012
+Iowa,Animal feed,tons_out,18096.8496,thousand tons,2012
+Iowa,Animal feed,tons_in,16587.4769,thousand tons,2012
+Iowa,Other ag prods.,tons_within,19316.88304,thousand tons,2012
+Iowa,Other ag prods.,tons_out,15621.71554,thousand tons,2012
+Iowa,Other ag prods.,tons_in,4772.1241,thousand tons,2012
+Iowa,Nonmetal min. prods.,tons_within,14272.77249,thousand tons,2012
+Iowa,Nonmetal min. prods.,tons_out,13557.3749,thousand tons,2012
+Iowa,Nonmetal min. prods.,tons_in,4537.934518,thousand tons,2012
+Iowa,Other foodstuffs,tons_within,6468.994145,thousand tons,2012
+Iowa,Other foodstuffs,tons_out,6822.9981,thousand tons,2012
+Iowa,Other foodstuffs,tons_in,4422.411542,thousand tons,2012
+Iowa,Live animals/fish,tons_within,6322.013042,thousand tons,2012
+Iowa,Live animals/fish,tons_out,5957.5964,thousand tons,2012
+Iowa,Live animals/fish,tons_in,4364.2516,thousand tons,2012
+Iowa,Waste/scrap,tons_within,5380.209574,thousand tons,2012
+Iowa,Waste/scrap,tons_out,3842.956097,thousand tons,2012
+Iowa,Waste/scrap,tons_in,3851.8288,thousand tons,2012
+Iowa,Fertilizers,tons_within,5061.893162,thousand tons,2012
+Iowa,Fertilizers,tons_out,3732.0974,thousand tons,2012
+Iowa,Fertilizers,tons_in,3637.0273,thousand tons,2012
+Iowa,Nonmetallic minerals,tons_within,4838.597716,thousand tons,2012
+Iowa,Nonmetallic minerals,tons_out,3032.1016,thousand tons,2012
+Iowa,Nonmetallic minerals,tons_in,3214.6978,thousand tons,2012
+Kansas,Cereal grains,tons_within,49311.776,thousand tons,2012
+Kansas,Cereal grains,tons_out,41509.8411,thousand tons,2012
+Kansas,Cereal grains,tons_in,44615.32999,thousand tons,2012
+Kansas,Nonmetal min. prods.,tons_within,13283.3212,thousand tons,2012
+Kansas,Nonmetal min. prods.,tons_out,37001.87915,thousand tons,2012
+Kansas,Nonmetal min. prods.,tons_in,15103.3426,thousand tons,2012
+Kansas,Gravel,tons_within,12595.4858,thousand tons,2012
+Kansas,Gravel,tons_out,5087.6375,thousand tons,2012
+Kansas,Gravel,tons_in,13387.2576,thousand tons,2012
+Kansas,Fuel oils,tons_within,10925.0621,thousand tons,2012
+Kansas,Fuel oils,tons_out,5020.7316,thousand tons,2012
+Kansas,Fuel oils,tons_in,9419.1246,thousand tons,2012
+Kansas,Natural sands,tons_within,10492.3815,thousand tons,2012
+Kansas,Natural sands,tons_out,3586.4981,thousand tons,2012
+Kansas,Natural sands,tons_in,4111.7914,thousand tons,2012
+Kansas,Coal-n.e.c.,tons_within,9839.6036,thousand tons,2012
+Kansas,Coal-n.e.c.,tons_out,3483.5656,thousand tons,2012
+Kansas,Coal-n.e.c.,tons_in,4102.5359,thousand tons,2012
+Kansas,Mixed freight,tons_within,8310.552376,thousand tons,2012
+Kansas,Mixed freight,tons_out,3330.365998,thousand tons,2012
+Kansas,Mixed freight,tons_in,3585.7252,thousand tons,2012
+Kansas,Animal feed,tons_within,6508.1162,thousand tons,2012
+Kansas,Animal feed,tons_out,3303.5931,thousand tons,2012
+Kansas,Animal feed,tons_in,3197.1431,thousand tons,2012
+Kansas,Gasoline,tons_within,5766.8745,thousand tons,2012
+Kansas,Gasoline,tons_out,3282.612,thousand tons,2012
+Kansas,Gasoline,tons_in,2901.0558,thousand tons,2012
+Kansas,Other ag prods.,tons_within,5564.238136,thousand tons,2012
+Kansas,Other ag prods.,tons_out,2889.990788,thousand tons,2012
+Kansas,Other ag prods.,tons_in,2372.4009,thousand tons,2012
+Kentucky,Coal,tons_within,41165.0338,thousand tons,2012
+Kentucky,Coal,tons_out,72849.8724,thousand tons,2012
+Kentucky,Coal,tons_in,38242.6454,thousand tons,2012
+Kentucky,Gravel,tons_within,39362.2179,thousand tons,2012
+Kentucky,Gravel,tons_out,34891.27319,thousand tons,2012
+Kentucky,Gravel,tons_in,21033.2931,thousand tons,2012
+Kentucky,Waste/scrap,tons_within,8658.3126,thousand tons,2012
+Kentucky,Waste/scrap,tons_out,10050.377,thousand tons,2012
+Kentucky,Waste/scrap,tons_in,10618.9461,thousand tons,2012
+Kentucky,Nonmetal min. prods.,tons_within,7751.553899,thousand tons,2012
+Kentucky,Nonmetal min. prods.,tons_out,8432.834011,thousand tons,2012
+Kentucky,Nonmetal min. prods.,tons_in,9525.40478,thousand tons,2012
+Kentucky,Gasoline,tons_within,7533.6341,thousand tons,2012
+Kentucky,Gasoline,tons_out,8163.9069,thousand tons,2012
+Kentucky,Gasoline,tons_in,5863.067797,thousand tons,2012
+Kentucky,Logs,tons_within,6518.421144,thousand tons,2012
+Kentucky,Logs,tons_out,6340.579343,thousand tons,2012
+Kentucky,Logs,tons_in,5486.9371,thousand tons,2012
+Kentucky,Coal-n.e.c.,tons_within,6345.517902,thousand tons,2012
+Kentucky,Coal-n.e.c.,tons_out,4174.93939,thousand tons,2012
+Kentucky,Coal-n.e.c.,tons_in,5271.1026,thousand tons,2012
+Kentucky,Fuel oils,tons_within,5748.7137,thousand tons,2012
+Kentucky,Fuel oils,tons_out,3598.668144,thousand tons,2012
+Kentucky,Fuel oils,tons_in,4614.824399,thousand tons,2012
+Kentucky,Cereal grains,tons_within,5510.6321,thousand tons,2012
+Kentucky,Cereal grains,tons_out,3587.578513,thousand tons,2012
+Kentucky,Cereal grains,tons_in,4418.0304,thousand tons,2012
+Kentucky,Natural sands,tons_within,5361.1928,thousand tons,2012
+Kentucky,Natural sands,tons_out,2744.2271,thousand tons,2012
+Kentucky,Natural sands,tons_in,4278.8141,thousand tons,2012
+Louisiana,Coal-n.e.c.,tons_within,94333.16121,thousand tons,2012
+Louisiana,Coal-n.e.c.,tons_out,125082.1003,thousand tons,2012
+Louisiana,Coal-n.e.c.,tons_in,64920.4264,thousand tons,2012
+Louisiana,Crude petroleum,tons_within,80450.5466,thousand tons,2012
+Louisiana,Crude petroleum,tons_out,35396.18073,thousand tons,2012
+Louisiana,Crude petroleum,tons_in,57480.35193,thousand tons,2012
+Louisiana,Fuel oils,tons_within,64827.6272,thousand tons,2012
+Louisiana,Fuel oils,tons_out,28824.7693,thousand tons,2012
+Louisiana,Fuel oils,tons_in,36107.1992,thousand tons,2012
+Louisiana,Gasoline,tons_within,62449.3277,thousand tons,2012
+Louisiana,Gasoline,tons_out,17332.6004,thousand tons,2012
+Louisiana,Gasoline,tons_in,20433.91141,thousand tons,2012
+Louisiana,Basic chemicals,tons_within,32523.58692,thousand tons,2012
+Louisiana,Basic chemicals,tons_out,16117.7986,thousand tons,2012
+Louisiana,Basic chemicals,tons_in,19916.1745,thousand tons,2012
+Louisiana,Other ag prods.,tons_within,32461.19011,thousand tons,2012
+Louisiana,Other ag prods.,tons_out,12372.25024,thousand tons,2012
+Louisiana,Other ag prods.,tons_in,12168.3847,thousand tons,2012
+Louisiana,Cereal grains,tons_within,28951.0096,thousand tons,2012
+Louisiana,Cereal grains,tons_out,8337.28847,thousand tons,2012
+Louisiana,Cereal grains,tons_in,7948.494097,thousand tons,2012
+Louisiana,Logs,tons_within,20144.31028,thousand tons,2012
+Louisiana,Logs,tons_out,7711.652,thousand tons,2012
+Louisiana,Logs,tons_in,4303.908807,thousand tons,2012
+Louisiana,Gravel,tons_within,17379.5601,thousand tons,2012
+Louisiana,Gravel,tons_out,7012.543378,thousand tons,2012
+Louisiana,Gravel,tons_in,3377.54584,thousand tons,2012
+Louisiana,Nonmetal min. prods.,tons_within,14330.3136,thousand tons,2012
+Louisiana,Nonmetal min. prods.,tons_out,6961.864953,thousand tons,2012
+Louisiana,Nonmetal min. prods.,tons_in,3292.474239,thousand tons,2012
+Maine,Logs,tons_within,16744.19061,thousand tons,2012
+Maine,Logs,tons_out,7588.3078,thousand tons,2012
+Maine,Logs,tons_in,2767.570187,thousand tons,2012
+Maine,Misc. mfg. prods.,tons_within,6553.295705,thousand tons,2012
+Maine,Misc. mfg. prods.,tons_out,3870.864999,thousand tons,2012
+Maine,Misc. mfg. prods.,tons_in,1449.575398,thousand tons,2012
+Maine,Coal-n.e.c.,tons_within,3596.068,thousand tons,2012
+Maine,Coal-n.e.c.,tons_out,2425.1157,thousand tons,2012
+Maine,Coal-n.e.c.,tons_in,1320.146391,thousand tons,2012
+Maine,Fuel oils,tons_within,3447.7176,thousand tons,2012
+Maine,Fuel oils,tons_out,1506.3945,thousand tons,2012
+Maine,Fuel oils,tons_in,1151.6786,thousand tons,2012
+Maine,Wood prods.,tons_within,3220.0005,thousand tons,2012
+Maine,Wood prods.,tons_out,1436.0359,thousand tons,2012
+Maine,Wood prods.,tons_in,519.688894,thousand tons,2012
+Maine,Gasoline,tons_within,2867.2605,thousand tons,2012
+Maine,Gasoline,tons_out,1389.7502,thousand tons,2012
+Maine,Gasoline,tons_in,519.094298,thousand tons,2012
+Maine,Gravel,tons_within,2704.3671,thousand tons,2012
+Maine,Gravel,tons_out,1323.1795,thousand tons,2012
+Maine,Gravel,tons_in,475.373895,thousand tons,2012
+Maine,Nonmetal min. prods.,tons_within,2539.5755,thousand tons,2012
+Maine,Nonmetal min. prods.,tons_out,925.093958,thousand tons,2012
+Maine,Nonmetal min. prods.,tons_in,464.8379,thousand tons,2012
+Maine,Nonmetallic minerals,tons_within,2229.1403,thousand tons,2012
+Maine,Nonmetallic minerals,tons_out,900.8615,thousand tons,2012
+Maine,Nonmetallic minerals,tons_in,411.893105,thousand tons,2012
+Maine,Waste/scrap,tons_within,1919.3082,thousand tons,2012
+Maine,Waste/scrap,tons_out,401.680924,thousand tons,2012
+Maine,Waste/scrap,tons_in,399.8137,thousand tons,2012
+Maryland,Gravel,tons_within,26340.8225,thousand tons,2012
+Maryland,Gravel,tons_out,11825.01287,thousand tons,2012
+Maryland,Gravel,tons_in,28207.3247,thousand tons,2012
+Maryland,Nonmetal min. prods.,tons_within,9928.900963,thousand tons,2012
+Maryland,Nonmetal min. prods.,tons_out,6378.868218,thousand tons,2012
+Maryland,Nonmetal min. prods.,tons_in,15896.96296,thousand tons,2012
+Maryland,Gasoline,tons_within,8303.8958,thousand tons,2012
+Maryland,Gasoline,tons_out,5123.943586,thousand tons,2012
+Maryland,Gasoline,tons_in,4786.384676,thousand tons,2012
+Maryland,Waste/scrap,tons_within,7716.791932,thousand tons,2012
+Maryland,Waste/scrap,tons_out,4430.298673,thousand tons,2012
+Maryland,Waste/scrap,tons_in,4522.1038,thousand tons,2012
+Maryland,Natural sands,tons_within,6502.9592,thousand tons,2012
+Maryland,Natural sands,tons_out,3900.118,thousand tons,2012
+Maryland,Natural sands,tons_in,3484.250055,thousand tons,2012
+Maryland,Coal-n.e.c.,tons_within,5070.965178,thousand tons,2012
+Maryland,Coal-n.e.c.,tons_out,3130.050496,thousand tons,2012
+Maryland,Coal-n.e.c.,tons_in,3218.787226,thousand tons,2012
+Maryland,Other foodstuffs,tons_within,4858.68226,thousand tons,2012
+Maryland,Other foodstuffs,tons_out,2475.181701,thousand tons,2012
+Maryland,Other foodstuffs,tons_in,3211.528487,thousand tons,2012
+Maryland,Nonmetallic minerals,tons_within,3623.9192,thousand tons,2012
+Maryland,Nonmetallic minerals,tons_out,2468.905061,thousand tons,2012
+Maryland,Nonmetallic minerals,tons_in,2662.6795,thousand tons,2012
+Maryland,Wood prods.,tons_within,3610.948209,thousand tons,2012
+Maryland,Wood prods.,tons_out,2005.0103,thousand tons,2012
+Maryland,Wood prods.,tons_in,2046.734458,thousand tons,2012
+Maryland,Coal,tons_within,2632.6093,thousand tons,2012
+Maryland,Coal,tons_out,1979.037801,thousand tons,2012
+Maryland,Coal,tons_in,2023.8203,thousand tons,2012
+Massachusetts,Gravel,tons_within,23782.5599,thousand tons,2012
+Massachusetts,Gravel,tons_out,7557.7069,thousand tons,2012
+Massachusetts,Gravel,tons_in,11050.03043,thousand tons,2012
+Massachusetts,Gasoline,tons_within,22974.3744,thousand tons,2012
+Massachusetts,Gasoline,tons_out,6268.500021,thousand tons,2012
+Massachusetts,Gasoline,tons_in,7305.5001,thousand tons,2012
+Massachusetts,Waste/scrap,tons_within,13093.7409,thousand tons,2012
+Massachusetts,Waste/scrap,tons_out,3962.75664,thousand tons,2012
+Massachusetts,Waste/scrap,tons_in,5476.298753,thousand tons,2012
+Massachusetts,Nonmetal min. prods.,tons_within,11729.1961,thousand tons,2012
+Massachusetts,Nonmetal min. prods.,tons_out,3152.10737,thousand tons,2012
+Massachusetts,Nonmetal min. prods.,tons_in,5238.031597,thousand tons,2012
+Massachusetts,Fuel oils,tons_within,8250.427,thousand tons,2012
+Massachusetts,Fuel oils,tons_out,2304.204853,thousand tons,2012
+Massachusetts,Fuel oils,tons_in,2658.001096,thousand tons,2012
+Massachusetts,Natural sands,tons_within,6097.1982,thousand tons,2012
+Massachusetts,Natural sands,tons_out,2077.285898,thousand tons,2012
+Massachusetts,Natural sands,tons_in,2353.202357,thousand tons,2012
+Massachusetts,Coal-n.e.c.,tons_within,5317.741407,thousand tons,2012
+Massachusetts,Coal-n.e.c.,tons_out,2052.678399,thousand tons,2012
+Massachusetts,Coal-n.e.c.,tons_in,2230.881001,thousand tons,2012
+Massachusetts,Mixed freight,tons_within,3966.867689,thousand tons,2012
+Massachusetts,Mixed freight,tons_out,1833.391498,thousand tons,2012
+Massachusetts,Mixed freight,tons_in,1854.608582,thousand tons,2012
+Massachusetts,Wood prods.,tons_within,3229.3427,thousand tons,2012
+Massachusetts,Wood prods.,tons_out,1460.1907,thousand tons,2012
+Massachusetts,Wood prods.,tons_in,1668.288,thousand tons,2012
+Massachusetts,Other foodstuffs,tons_within,2399.0486,thousand tons,2012
+Massachusetts,Other foodstuffs,tons_out,1401.897202,thousand tons,2012
+Massachusetts,Other foodstuffs,tons_in,1623.056495,thousand tons,2012
+Michigan,Gravel,tons_within,30848.7195,thousand tons,2012
+Michigan,Gravel,tons_out,19834.6153,thousand tons,2012
+Michigan,Gravel,tons_in,59013.97686,thousand tons,2012
+Michigan,Coal-n.e.c.,tons_within,20097.7067,thousand tons,2012
+Michigan,Coal-n.e.c.,tons_out,12909.36724,thousand tons,2012
+Michigan,Coal-n.e.c.,tons_in,26576.7443,thousand tons,2012
+Michigan,Nonmetal min. prods.,tons_within,15193.6242,thousand tons,2012
+Michigan,Nonmetal min. prods.,tons_out,11809.23402,thousand tons,2012
+Michigan,Nonmetal min. prods.,tons_in,13234.37047,thousand tons,2012
+Michigan,Gasoline,tons_within,14600.60032,thousand tons,2012
+Michigan,Gasoline,tons_out,11428.38258,thousand tons,2012
+Michigan,Gasoline,tons_in,10855.25579,thousand tons,2012
+Michigan,Motorized vehicles,tons_within,14508.18741,thousand tons,2012
+Michigan,Motorized vehicles,tons_out,9026.094807,thousand tons,2012
+Michigan,Motorized vehicles,tons_in,7266.8679,thousand tons,2012
+Michigan,Metallic ores,tons_within,13295.2235,thousand tons,2012
+Michigan,Metallic ores,tons_out,7536.317913,thousand tons,2012
+Michigan,Metallic ores,tons_in,7070.394018,thousand tons,2012
+Michigan,Cereal grains,tons_within,13144.9673,thousand tons,2012
+Michigan,Cereal grains,tons_out,7516.115,thousand tons,2012
+Michigan,Cereal grains,tons_in,6506.57287,thousand tons,2012
+Michigan,Logs,tons_within,12658.18157,thousand tons,2012
+Michigan,Logs,tons_out,7374.9809,thousand tons,2012
+Michigan,Logs,tons_in,5640.78296,thousand tons,2012
+Michigan,Natural sands,tons_within,11470.47956,thousand tons,2012
+Michigan,Natural sands,tons_out,6617.606928,thousand tons,2012
+Michigan,Natural sands,tons_in,5032.221551,thousand tons,2012
+Michigan,Other foodstuffs,tons_within,10571.09731,thousand tons,2012
+Michigan,Other foodstuffs,tons_out,5334.682,thousand tons,2012
+Michigan,Other foodstuffs,tons_in,4905.239136,thousand tons,2012
+Minnesota,Cereal grains,tons_within,61165.5559,thousand tons,2012
+Minnesota,Cereal grains,tons_out,55005.5518,thousand tons,2012
+Minnesota,Cereal grains,tons_in,33471.27086,thousand tons,2012
+Minnesota,Other ag prods.,tons_within,31087.24659,thousand tons,2012
+Minnesota,Other ag prods.,tons_out,30802.42244,thousand tons,2012
+Minnesota,Other ag prods.,tons_in,28293.51835,thousand tons,2012
+Minnesota,Gravel,tons_within,30130.3426,thousand tons,2012
+Minnesota,Gravel,tons_out,28957.32041,thousand tons,2012
+Minnesota,Gravel,tons_in,23510.63523,thousand tons,2012
+Minnesota,Nonmetal min. prods.,tons_within,16875.561,thousand tons,2012
+Minnesota,Nonmetal min. prods.,tons_out,17216.8186,thousand tons,2012
+Minnesota,Nonmetal min. prods.,tons_in,14874.36495,thousand tons,2012
+Minnesota,Other foodstuffs,tons_within,13159.9722,thousand tons,2012
+Minnesota,Other foodstuffs,tons_out,9852.47971,thousand tons,2012
+Minnesota,Other foodstuffs,tons_in,13561.83471,thousand tons,2012
+Minnesota,Animal feed,tons_within,10133.4923,thousand tons,2012
+Minnesota,Animal feed,tons_out,5135.30352,thousand tons,2012
+Minnesota,Animal feed,tons_in,7615.56104,thousand tons,2012
+Minnesota,Gasoline,tons_within,9373.8521,thousand tons,2012
+Minnesota,Gasoline,tons_out,4581.626473,thousand tons,2012
+Minnesota,Gasoline,tons_in,6858.610824,thousand tons,2012
+Minnesota,Coal-n.e.c.,tons_within,9240.183593,thousand tons,2012
+Minnesota,Coal-n.e.c.,tons_out,3771.7707,thousand tons,2012
+Minnesota,Coal-n.e.c.,tons_in,6267.265783,thousand tons,2012
+Minnesota,Metallic ores,tons_within,6550.8242,thousand tons,2012
+Minnesota,Metallic ores,tons_out,2938.6909,thousand tons,2012
+Minnesota,Metallic ores,tons_in,6088.741605,thousand tons,2012
+Minnesota,Waste/scrap,tons_within,6186.8493,thousand tons,2012
+Minnesota,Waste/scrap,tons_out,2791.1791,thousand tons,2012
+Minnesota,Waste/scrap,tons_in,5664.082914,thousand tons,2012
+Mississippi,Coal-n.e.c.,tons_within,42980.00684,thousand tons,2012
+Mississippi,Coal-n.e.c.,tons_out,110330.9388,thousand tons,2012
+Mississippi,Coal-n.e.c.,tons_in,114612.6515,thousand tons,2012
+Mississippi,Logs,tons_within,25822.53133,thousand tons,2012
+Mississippi,Logs,tons_out,6084.4897,thousand tons,2012
+Mississippi,Logs,tons_in,12068.8189,thousand tons,2012
+Mississippi,Crude petroleum,tons_within,15783.6009,thousand tons,2012
+Mississippi,Crude petroleum,tons_out,3684.710902,thousand tons,2012
+Mississippi,Crude petroleum,tons_in,10625.62276,thousand tons,2012
+Mississippi,Wood prods.,tons_within,8488.8201,thousand tons,2012
+Mississippi,Wood prods.,tons_out,3605.881335,thousand tons,2012
+Mississippi,Wood prods.,tons_in,6267.2394,thousand tons,2012
+Mississippi,Gravel,tons_within,7101.3696,thousand tons,2012
+Mississippi,Gravel,tons_out,3572.0302,thousand tons,2012
+Mississippi,Gravel,tons_in,6217.3534,thousand tons,2012
+Mississippi,Gasoline,tons_within,6723.5511,thousand tons,2012
+Mississippi,Gasoline,tons_out,2845.8197,thousand tons,2012
+Mississippi,Gasoline,tons_in,5359.5833,thousand tons,2012
+Mississippi,Cereal grains,tons_within,6176.6946,thousand tons,2012
+Mississippi,Cereal grains,tons_out,2398.288614,thousand tons,2012
+Mississippi,Cereal grains,tons_in,5124.8346,thousand tons,2012
+Mississippi,Fuel oils,tons_within,4843.5676,thousand tons,2012
+Mississippi,Fuel oils,tons_out,2373.484714,thousand tons,2012
+Mississippi,Fuel oils,tons_in,4111.7064,thousand tons,2012
+Mississippi,Nonmetal min. prods.,tons_within,3924.9792,thousand tons,2012
+Mississippi,Nonmetal min. prods.,tons_out,2210.5198,thousand tons,2012
+Mississippi,Nonmetal min. prods.,tons_in,3874.7207,thousand tons,2012
+Mississippi,Waste/scrap,tons_within,3746.4424,thousand tons,2012
+Mississippi,Waste/scrap,tons_out,1808.7385,thousand tons,2012
+Mississippi,Waste/scrap,tons_in,2912.280451,thousand tons,2012
+Missouri,Gravel,tons_within,39123.98692,thousand tons,2012
+Missouri,Gravel,tons_out,32843.74913,thousand tons,2012
+Missouri,Gravel,tons_in,42887.3415,thousand tons,2012
+Missouri,Nonmetal min. prods.,tons_within,16506.44317,thousand tons,2012
+Missouri,Nonmetal min. prods.,tons_out,11242.6234,thousand tons,2012
+Missouri,Nonmetal min. prods.,tons_in,40854.92544,thousand tons,2012
+Missouri,Cereal grains,tons_within,14347.03551,thousand tons,2012
+Missouri,Cereal grains,tons_out,8332.6643,thousand tons,2012
+Missouri,Cereal grains,tons_in,11485.45146,thousand tons,2012
+Missouri,Coal-n.e.c.,tons_within,8665.494767,thousand tons,2012
+Missouri,Coal-n.e.c.,tons_out,8199.728403,thousand tons,2012
+Missouri,Coal-n.e.c.,tons_in,7562.761727,thousand tons,2012
+Missouri,Other ag prods.,tons_within,8010.983188,thousand tons,2012
+Missouri,Other ag prods.,tons_out,6663.6924,thousand tons,2012
+Missouri,Other ag prods.,tons_in,7288.7754,thousand tons,2012
+Missouri,Animal feed,tons_within,5810.579584,thousand tons,2012
+Missouri,Animal feed,tons_out,6623.966599,thousand tons,2012
+Missouri,Animal feed,tons_in,5526.9636,thousand tons,2012
+Missouri,Other foodstuffs,tons_within,5548.656024,thousand tons,2012
+Missouri,Other foodstuffs,tons_out,4859.838404,thousand tons,2012
+Missouri,Other foodstuffs,tons_in,5493.4954,thousand tons,2012
+Missouri,Natural sands,tons_within,5375.545382,thousand tons,2012
+Missouri,Natural sands,tons_out,4417.430601,thousand tons,2012
+Missouri,Natural sands,tons_in,5315.164596,thousand tons,2012
+Missouri,Logs,tons_within,5201.675697,thousand tons,2012
+Missouri,Logs,tons_out,4234.226503,thousand tons,2012
+Missouri,Logs,tons_in,5310.795262,thousand tons,2012
+Missouri,Waste/scrap,tons_within,4453.140755,thousand tons,2012
+Missouri,Waste/scrap,tons_out,3497.511702,thousand tons,2012
+Missouri,Waste/scrap,tons_in,3966.974609,thousand tons,2012
+Montana,Coal-n.e.c.,tons_within,19795.591,thousand tons,2012
+Montana,Coal-n.e.c.,tons_out,36947.9325,thousand tons,2012
+Montana,Coal-n.e.c.,tons_in,4190.8257,thousand tons,2012
+Montana,Crude petroleum,tons_within,10446.2896,thousand tons,2012
+Montana,Crude petroleum,tons_out,17253.5774,thousand tons,2012
+Montana,Crude petroleum,tons_in,3831.151077,thousand tons,2012
+Montana,Cereal grains,tons_within,8586.9549,thousand tons,2012
+Montana,Cereal grains,tons_out,12572.0563,thousand tons,2012
+Montana,Cereal grains,tons_in,2700.2516,thousand tons,2012
+Montana,Fuel oils,tons_within,5159.4678,thousand tons,2012
+Montana,Fuel oils,tons_out,6688.7473,thousand tons,2012
+Montana,Fuel oils,tons_in,2239.671917,thousand tons,2012
+Montana,Gasoline,tons_within,4596.8468,thousand tons,2012
+Montana,Gasoline,tons_out,4915.6809,thousand tons,2012
+Montana,Gasoline,tons_in,1778.0078,thousand tons,2012
+Montana,Gravel,tons_within,4282.2699,thousand tons,2012
+Montana,Gravel,tons_out,2433.308703,thousand tons,2012
+Montana,Gravel,tons_in,1305.9,thousand tons,2012
+Montana,Nonmetal min. prods.,tons_within,2725.2943,thousand tons,2012
+Montana,Nonmetal min. prods.,tons_out,2173.296,thousand tons,2012
+Montana,Nonmetal min. prods.,tons_in,1256.500102,thousand tons,2012
+Montana,Logs,tons_within,2496.879134,thousand tons,2012
+Montana,Logs,tons_out,1395.0652,thousand tons,2012
+Montana,Logs,tons_in,1054.6508,thousand tons,2012
+Montana,Waste/scrap,tons_within,1712.6681,thousand tons,2012
+Montana,Waste/scrap,tons_out,1219.9138,thousand tons,2012
+Montana,Waste/scrap,tons_in,884.362063,thousand tons,2012
+Montana,Fertilizers,tons_within,1234.8334,thousand tons,2012
+Montana,Fertilizers,tons_out,1165.4026,thousand tons,2012
+Montana,Fertilizers,tons_in,748.967304,thousand tons,2012
+Nebraska,Cereal grains,tons_within,74236.7312,thousand tons,2012
+Nebraska,Cereal grains,tons_out,43998.57656,thousand tons,2012
+Nebraska,Cereal grains,tons_in,46537.16379,thousand tons,2012
+Nebraska,Animal feed,tons_within,14023.6922,thousand tons,2012
+Nebraska,Animal feed,tons_out,22760.4499,thousand tons,2012
+Nebraska,Animal feed,tons_in,16192.1213,thousand tons,2012
+Nebraska,Other ag prods.,tons_within,10540.23592,thousand tons,2012
+Nebraska,Other ag prods.,tons_out,10700.3376,thousand tons,2012
+Nebraska,Other ag prods.,tons_in,14871.8061,thousand tons,2012
+Nebraska,Gravel,tons_within,9473.5265,thousand tons,2012
+Nebraska,Gravel,tons_out,5154.2372,thousand tons,2012
+Nebraska,Gravel,tons_in,5932.0711,thousand tons,2012
+Nebraska,Nonmetal min. prods.,tons_within,7449.0719,thousand tons,2012
+Nebraska,Nonmetal min. prods.,tons_out,4443.7423,thousand tons,2012
+Nebraska,Nonmetal min. prods.,tons_in,3843.951,thousand tons,2012
+Nebraska,Live animals/fish,tons_within,4698.374,thousand tons,2012
+Nebraska,Live animals/fish,tons_out,4063.2133,thousand tons,2012
+Nebraska,Live animals/fish,tons_in,3180.8219,thousand tons,2012
+Nebraska,Milled grain prods.,tons_within,3741.8565,thousand tons,2012
+Nebraska,Milled grain prods.,tons_out,3866.9867,thousand tons,2012
+Nebraska,Milled grain prods.,tons_in,2546.942101,thousand tons,2012
+Nebraska,Waste/scrap,tons_within,3561.0524,thousand tons,2012
+Nebraska,Waste/scrap,tons_out,3341.706315,thousand tons,2012
+Nebraska,Waste/scrap,tons_in,2448.9167,thousand tons,2012
+Nebraska,Fertilizers,tons_within,3531.89,thousand tons,2012
+Nebraska,Fertilizers,tons_out,2676.3167,thousand tons,2012
+Nebraska,Fertilizers,tons_in,2244.2766,thousand tons,2012
+Nebraska,Other foodstuffs,tons_within,3079.0045,thousand tons,2012
+Nebraska,Other foodstuffs,tons_out,1251.7632,thousand tons,2012
+Nebraska,Other foodstuffs,tons_in,1979.489784,thousand tons,2012
+Nevada,Gravel,tons_within,13189.2603,thousand tons,2012
+Nevada,Gravel,tons_out,20391.65012,thousand tons,2012
+Nevada,Gravel,tons_in,23994.62578,thousand tons,2012
+Nevada,Nonmetal min. prods.,tons_within,7807.3407,thousand tons,2012
+Nevada,Nonmetal min. prods.,tons_out,3524.4417,thousand tons,2012
+Nevada,Nonmetal min. prods.,tons_in,3041.255289,thousand tons,2012
+Nevada,Waste/scrap,tons_within,4167.7845,thousand tons,2012
+Nevada,Waste/scrap,tons_out,1733.8513,thousand tons,2012
+Nevada,Waste/scrap,tons_in,2299.0996,thousand tons,2012
+Nevada,Natural sands,tons_within,2773.5315,thousand tons,2012
+Nevada,Natural sands,tons_out,1713.182202,thousand tons,2012
+Nevada,Natural sands,tons_in,2256.701,thousand tons,2012
+Nevada,Other foodstuffs,tons_within,1596.8901,thousand tons,2012
+Nevada,Other foodstuffs,tons_out,1616.788779,thousand tons,2012
+Nevada,Other foodstuffs,tons_in,1950.814854,thousand tons,2012
+Nevada,Fuel oils,tons_within,1033.7316,thousand tons,2012
+Nevada,Fuel oils,tons_out,1004.8079,thousand tons,2012
+Nevada,Fuel oils,tons_in,1591.311824,thousand tons,2012
+Nevada,Mixed freight,tons_within,1008.768511,thousand tons,2012
+Nevada,Mixed freight,tons_out,904.317044,thousand tons,2012
+Nevada,Mixed freight,tons_in,1303.598755,thousand tons,2012
+Nevada,Coal-n.e.c.,tons_within,992.6645,thousand tons,2012
+Nevada,Coal-n.e.c.,tons_out,819.0325,thousand tons,2012
+Nevada,Coal-n.e.c.,tons_in,1303.5192,thousand tons,2012
+Nevada,Animal feed,tons_within,959.8418,thousand tons,2012
+Nevada,Animal feed,tons_out,621.603002,thousand tons,2012
+Nevada,Animal feed,tons_in,689.72516,thousand tons,2012
+Nevada,Gasoline,tons_within,684.9983,thousand tons,2012
+Nevada,Gasoline,tons_out,571.1497,thousand tons,2012
+Nevada,Gasoline,tons_in,682.2545,thousand tons,2012
+New Hampshire,Gravel,tons_within,4733.6794,thousand tons,2012
+New Hampshire,Gravel,tons_out,2028.601354,thousand tons,2012
+New Hampshire,Gravel,tons_in,9874.4678,thousand tons,2012
+New Hampshire,Fuel oils,tons_within,4359.468,thousand tons,2012
+New Hampshire,Fuel oils,tons_out,1642.2255,thousand tons,2012
+New Hampshire,Fuel oils,tons_in,4542.351699,thousand tons,2012
+New Hampshire,Logs,tons_within,3041.739249,thousand tons,2012
+New Hampshire,Logs,tons_out,1369.883746,thousand tons,2012
+New Hampshire,Logs,tons_in,3094.272953,thousand tons,2012
+New Hampshire,Nonmetal min. prods.,tons_within,2381.9728,thousand tons,2012
+New Hampshire,Nonmetal min. prods.,tons_out,966.3048,thousand tons,2012
+New Hampshire,Nonmetal min. prods.,tons_in,2143.550696,thousand tons,2012
+New Hampshire,Natural sands,tons_within,1710.3933,thousand tons,2012
+New Hampshire,Natural sands,tons_out,923.868081,thousand tons,2012
+New Hampshire,Natural sands,tons_in,1577.084019,thousand tons,2012
+New Hampshire,Waste/scrap,tons_within,1372.2935,thousand tons,2012
+New Hampshire,Waste/scrap,tons_out,876.6098,thousand tons,2012
+New Hampshire,Waste/scrap,tons_in,1154.525804,thousand tons,2012
+New Hampshire,Nonmetallic minerals,tons_within,1220.4933,thousand tons,2012
+New Hampshire,Nonmetallic minerals,tons_out,788.088801,thousand tons,2012
+New Hampshire,Nonmetallic minerals,tons_in,956.812865,thousand tons,2012
+New Hampshire,Other foodstuffs,tons_within,1186.5246,thousand tons,2012
+New Hampshire,Other foodstuffs,tons_out,568.013798,thousand tons,2012
+New Hampshire,Other foodstuffs,tons_in,847.708961,thousand tons,2012
+New Hampshire,Wood prods.,tons_within,1069.8714,thousand tons,2012
+New Hampshire,Wood prods.,tons_out,499.942703,thousand tons,2012
+New Hampshire,Wood prods.,tons_in,600.4253,thousand tons,2012
+New Hampshire,Coal-n.e.c.,tons_within,920.462361,thousand tons,2012
+New Hampshire,Coal-n.e.c.,tons_out,326.6781,thousand tons,2012
+New Hampshire,Coal-n.e.c.,tons_in,540.745114,thousand tons,2012
+New Jersey,Fuel oils,tons_within,41576.243,thousand tons,2012
+New Jersey,Fuel oils,tons_out,20812.41529,thousand tons,2012
+New Jersey,Fuel oils,tons_in,30895.60179,thousand tons,2012
+New Jersey,Gravel,tons_within,35674.6672,thousand tons,2012
+New Jersey,Gravel,tons_out,13830.39161,thousand tons,2012
+New Jersey,Gravel,tons_in,10536.88258,thousand tons,2012
+New Jersey,Gasoline,tons_within,27649.0334,thousand tons,2012
+New Jersey,Gasoline,tons_out,7483.850386,thousand tons,2012
+New Jersey,Gasoline,tons_in,9645.1357,thousand tons,2012
+New Jersey,Nonmetal min. prods.,tons_within,16838.6704,thousand tons,2012
+New Jersey,Nonmetal min. prods.,tons_out,6249.619816,thousand tons,2012
+New Jersey,Nonmetal min. prods.,tons_in,7174.658934,thousand tons,2012
+New Jersey,Crude petroleum,tons_within,14280.5675,thousand tons,2012
+New Jersey,Crude petroleum,tons_out,6066.682401,thousand tons,2012
+New Jersey,Crude petroleum,tons_in,6859.406142,thousand tons,2012
+New Jersey,Coal-n.e.c.,tons_within,10031.70134,thousand tons,2012
+New Jersey,Coal-n.e.c.,tons_out,5981.806158,thousand tons,2012
+New Jersey,Coal-n.e.c.,tons_in,6647.046599,thousand tons,2012
+New Jersey,Waste/scrap,tons_within,9460.7964,thousand tons,2012
+New Jersey,Waste/scrap,tons_out,5834.837428,thousand tons,2012
+New Jersey,Waste/scrap,tons_in,5910.9631,thousand tons,2012
+New Jersey,Other foodstuffs,tons_within,9082.199913,thousand tons,2012
+New Jersey,Other foodstuffs,tons_out,5769.5968,thousand tons,2012
+New Jersey,Other foodstuffs,tons_in,5511.1026,thousand tons,2012
+New Jersey,Natural sands,tons_within,8686.5267,thousand tons,2012
+New Jersey,Natural sands,tons_out,5644.801799,thousand tons,2012
+New Jersey,Natural sands,tons_in,4571.3892,thousand tons,2012
+New Jersey,Wood prods.,tons_within,6331.021241,thousand tons,2012
+New Jersey,Wood prods.,tons_out,5246.835901,thousand tons,2012
+New Jersey,Wood prods.,tons_in,4459.853955,thousand tons,2012
+New Mexico,Coal-n.e.c.,tons_within,22116.61304,thousand tons,2012
+New Mexico,Coal-n.e.c.,tons_out,30123.72931,thousand tons,2012
+New Mexico,Coal-n.e.c.,tons_in,12439.59081,thousand tons,2012
+New Mexico,Coal,tons_within,18895.2647,thousand tons,2012
+New Mexico,Coal,tons_out,12222.8231,thousand tons,2012
+New Mexico,Coal,tons_in,4306.6966,thousand tons,2012
+New Mexico,Gasoline,tons_within,6134,thousand tons,2012
+New Mexico,Gasoline,tons_out,2011.7712,thousand tons,2012
+New Mexico,Gasoline,tons_in,2185.4415,thousand tons,2012
+New Mexico,Nonmetal min. prods.,tons_within,4824.2321,thousand tons,2012
+New Mexico,Nonmetal min. prods.,tons_out,1158.762,thousand tons,2012
+New Mexico,Nonmetal min. prods.,tons_in,1783.1515,thousand tons,2012
+New Mexico,Gravel,tons_within,4641.9932,thousand tons,2012
+New Mexico,Gravel,tons_out,1153.6418,thousand tons,2012
+New Mexico,Gravel,tons_in,1426.473498,thousand tons,2012
+New Mexico,Other foodstuffs,tons_within,4497.9333,thousand tons,2012
+New Mexico,Other foodstuffs,tons_out,834.8989,thousand tons,2012
+New Mexico,Other foodstuffs,tons_in,1193.0536,thousand tons,2012
+New Mexico,Waste/scrap,tons_within,2655.5121,thousand tons,2012
+New Mexico,Waste/scrap,tons_out,620.6399,thousand tons,2012
+New Mexico,Waste/scrap,tons_in,1127.0041,thousand tons,2012
+New Mexico,Fuel oils,tons_within,2579,thousand tons,2012
+New Mexico,Fuel oils,tons_out,588.6416,thousand tons,2012
+New Mexico,Fuel oils,tons_in,1087.1489,thousand tons,2012
+New Mexico,Crude petroleum,tons_within,2310.3136,thousand tons,2012
+New Mexico,Crude petroleum,tons_out,460.0292,thousand tons,2012
+New Mexico,Crude petroleum,tons_in,904.2699,thousand tons,2012
+New Mexico,Natural sands,tons_within,1137.8207,thousand tons,2012
+New Mexico,Natural sands,tons_out,367.8859,thousand tons,2012
+New Mexico,Natural sands,tons_in,801.0045,thousand tons,2012
+New York,Gravel,tons_within,71988.79658,thousand tons,2012
+New York,Gravel,tons_out,22440.99435,thousand tons,2012
+New York,Gravel,tons_in,44312.99678,thousand tons,2012
+New York,Nonmetal min. prods.,tons_within,39525.93479,thousand tons,2012
+New York,Nonmetal min. prods.,tons_out,10231.15081,thousand tons,2012
+New York,Nonmetal min. prods.,tons_in,14430.90548,thousand tons,2012
+New York,Coal-n.e.c.,tons_within,26913.11639,thousand tons,2012
+New York,Coal-n.e.c.,tons_out,9268.60072,thousand tons,2012
+New York,Coal-n.e.c.,tons_in,10922.82682,thousand tons,2012
+New York,Waste/scrap,tons_within,22264.05981,thousand tons,2012
+New York,Waste/scrap,tons_out,7304.366094,thousand tons,2012
+New York,Waste/scrap,tons_in,10305.60653,thousand tons,2012
+New York,Other foodstuffs,tons_within,21067.66779,thousand tons,2012
+New York,Other foodstuffs,tons_out,5970.82241,thousand tons,2012
+New York,Other foodstuffs,tons_in,10074.28869,thousand tons,2012
+New York,Nonmetallic minerals,tons_within,20039.12707,thousand tons,2012
+New York,Nonmetallic minerals,tons_out,5752.040015,thousand tons,2012
+New York,Nonmetallic minerals,tons_in,7077.745005,thousand tons,2012
+New York,Fuel oils,tons_within,18025.2377,thousand tons,2012
+New York,Fuel oils,tons_out,5540.63709,thousand tons,2012
+New York,Fuel oils,tons_in,6935.94043,thousand tons,2012
+New York,Natural sands,tons_within,17768.91011,thousand tons,2012
+New York,Natural sands,tons_out,5356.222661,thousand tons,2012
+New York,Natural sands,tons_in,6599.21402,thousand tons,2012
+New York,Gasoline,tons_within,14360.2348,thousand tons,2012
+New York,Gasoline,tons_out,4637.13572,thousand tons,2012
+New York,Gasoline,tons_in,6572.088054,thousand tons,2012
+New York,Cereal grains,tons_within,13870.93721,thousand tons,2012
+New York,Cereal grains,tons_out,4541.6601,thousand tons,2012
+New York,Cereal grains,tons_in,6414.340296,thousand tons,2012
+North Carolina,Gravel,tons_within,46850.8361,thousand tons,2012
+North Carolina,Gravel,tons_out,11792.13462,thousand tons,2012
+North Carolina,Gravel,tons_in,33160.5461,thousand tons,2012
+North Carolina,Logs,tons_within,26704.11804,thousand tons,2012
+North Carolina,Logs,tons_out,9138.761903,thousand tons,2012
+North Carolina,Logs,tons_in,24973.20483,thousand tons,2012
+North Carolina,Nonmetal min. prods.,tons_within,25600.7099,thousand tons,2012
+North Carolina,Nonmetal min. prods.,tons_out,7602.137513,thousand tons,2012
+North Carolina,Nonmetal min. prods.,tons_in,6451.006707,thousand tons,2012
+North Carolina,Gasoline,tons_within,15140.0272,thousand tons,2012
+North Carolina,Gasoline,tons_out,6813.227278,thousand tons,2012
+North Carolina,Gasoline,tons_in,6017.0966,thousand tons,2012
+North Carolina,Waste/scrap,tons_within,11518.1985,thousand tons,2012
+North Carolina,Waste/scrap,tons_out,5165.927068,thousand tons,2012
+North Carolina,Waste/scrap,tons_in,6006.453362,thousand tons,2012
+North Carolina,Wood prods.,tons_within,11337.9134,thousand tons,2012
+North Carolina,Wood prods.,tons_out,4883.4331,thousand tons,2012
+North Carolina,Wood prods.,tons_in,5843.287591,thousand tons,2012
+North Carolina,Mixed freight,tons_within,8025.969892,thousand tons,2012
+North Carolina,Mixed freight,tons_out,3541.24697,thousand tons,2012
+North Carolina,Mixed freight,tons_in,5698.129936,thousand tons,2012
+North Carolina,Other ag prods.,tons_within,7961.485344,thousand tons,2012
+North Carolina,Other ag prods.,tons_out,3529.902977,thousand tons,2012
+North Carolina,Other ag prods.,tons_in,4484.316,thousand tons,2012
+North Carolina,Other foodstuffs,tons_within,7764.2318,thousand tons,2012
+North Carolina,Other foodstuffs,tons_out,3386.768702,thousand tons,2012
+North Carolina,Other foodstuffs,tons_in,4287.904042,thousand tons,2012
+North Carolina,Natural sands,tons_within,7079.4993,thousand tons,2012
+North Carolina,Natural sands,tons_out,3355.3872,thousand tons,2012
+North Carolina,Natural sands,tons_in,3824.509658,thousand tons,2012
+North Dakota,Cereal grains,tons_within,29535.5909,thousand tons,2012
+North Dakota,Cereal grains,tons_out,124173.7603,thousand tons,2012
+North Dakota,Cereal grains,tons_in,16118.829,thousand tons,2012
+North Dakota,Coal,tons_within,21700.0734,thousand tons,2012
+North Dakota,Coal,tons_out,36888.92237,thousand tons,2012
+North Dakota,Coal,tons_in,6119.058305,thousand tons,2012
+North Dakota,Other ag prods.,tons_within,19954.67321,thousand tons,2012
+North Dakota,Other ag prods.,tons_out,15556.54743,thousand tons,2012
+North Dakota,Other ag prods.,tons_in,4474.6289,thousand tons,2012
+North Dakota,Coal-n.e.c.,tons_within,14825.0239,thousand tons,2012
+North Dakota,Coal-n.e.c.,tons_out,7539.892372,thousand tons,2012
+North Dakota,Coal-n.e.c.,tons_in,4328.942932,thousand tons,2012
+North Dakota,Gravel,tons_within,12931.7053,thousand tons,2012
+North Dakota,Gravel,tons_out,7157.2933,thousand tons,2012
+North Dakota,Gravel,tons_in,3434.052009,thousand tons,2012
+North Dakota,Nonmetal min. prods.,tons_within,3167.667,thousand tons,2012
+North Dakota,Nonmetal min. prods.,tons_out,4484.2663,thousand tons,2012
+North Dakota,Nonmetal min. prods.,tons_in,2231.857055,thousand tons,2012
+North Dakota,Crude petroleum,tons_within,3151.5829,thousand tons,2012
+North Dakota,Crude petroleum,tons_out,4273.619182,thousand tons,2012
+North Dakota,Crude petroleum,tons_in,2147.3511,thousand tons,2012
+North Dakota,Gasoline,tons_within,3102.165,thousand tons,2012
+North Dakota,Gasoline,tons_out,3471.132933,thousand tons,2012
+North Dakota,Gasoline,tons_in,1719.484433,thousand tons,2012
+North Dakota,Fuel oils,tons_within,3099.9565,thousand tons,2012
+North Dakota,Fuel oils,tons_out,2414.8939,thousand tons,2012
+North Dakota,Fuel oils,tons_in,1710.313212,thousand tons,2012
+North Dakota,Natural sands,tons_within,2815.1552,thousand tons,2012
+North Dakota,Natural sands,tons_out,2025.521104,thousand tons,2012
+North Dakota,Natural sands,tons_in,1344.933468,thousand tons,2012
+Ohio,Gravel,tons_within,78606.6745,thousand tons,2012
+Ohio,Gravel,tons_out,42435.86932,thousand tons,2012
+Ohio,Gravel,tons_in,41980.82311,thousand tons,2012
+Ohio,Nonmetal min. prods.,tons_within,40173.1586,thousand tons,2012
+Ohio,Nonmetal min. prods.,tons_out,24083.78209,thousand tons,2012
+Ohio,Nonmetal min. prods.,tons_in,38189.9788,thousand tons,2012
+Ohio,Coal,tons_within,27784.8698,thousand tons,2012
+Ohio,Coal,tons_out,11509.89003,thousand tons,2012
+Ohio,Coal,tons_in,24509.3674,thousand tons,2012
+Ohio,Gasoline,tons_within,24426.3818,thousand tons,2012
+Ohio,Gasoline,tons_out,11000.46655,thousand tons,2012
+Ohio,Gasoline,tons_in,23113.97559,thousand tons,2012
+Ohio,Waste/scrap,tons_within,23109.4452,thousand tons,2012
+Ohio,Waste/scrap,tons_out,9507.7863,thousand tons,2012
+Ohio,Waste/scrap,tons_in,13327.1043,thousand tons,2012
+Ohio,Cereal grains,tons_within,18417.654,thousand tons,2012
+Ohio,Cereal grains,tons_out,9429.448892,thousand tons,2012
+Ohio,Cereal grains,tons_in,11493.63833,thousand tons,2012
+Ohio,Base metals,tons_within,14144.6301,thousand tons,2012
+Ohio,Base metals,tons_out,8970.814217,thousand tons,2012
+Ohio,Base metals,tons_in,9655.002049,thousand tons,2012
+Ohio,Other foodstuffs,tons_within,13009.9382,thousand tons,2012
+Ohio,Other foodstuffs,tons_out,7889.788473,thousand tons,2012
+Ohio,Other foodstuffs,tons_in,8942.88331,thousand tons,2012
+Ohio,Fuel oils,tons_within,12868.5638,thousand tons,2012
+Ohio,Fuel oils,tons_out,6905.74617,thousand tons,2012
+Ohio,Fuel oils,tons_in,7850.2935,thousand tons,2012
+Ohio,Mixed freight,tons_within,12353.85327,thousand tons,2012
+Ohio,Mixed freight,tons_out,6796.133589,thousand tons,2012
+Ohio,Mixed freight,tons_in,7166.72567,thousand tons,2012
+Oklahoma,Coal-n.e.c.,tons_within,46342.23705,thousand tons,2012
+Oklahoma,Coal-n.e.c.,tons_out,72947.90158,thousand tons,2012
+Oklahoma,Coal-n.e.c.,tons_in,20034.32343,thousand tons,2012
+Oklahoma,Gravel,tons_within,42895.89922,thousand tons,2012
+Oklahoma,Gravel,tons_out,16805.1719,thousand tons,2012
+Oklahoma,Gravel,tons_in,19638.1211,thousand tons,2012
+Oklahoma,Gasoline,tons_within,20901.508,thousand tons,2012
+Oklahoma,Gasoline,tons_out,9523.0292,thousand tons,2012
+Oklahoma,Gasoline,tons_in,12696.6928,thousand tons,2012
+Oklahoma,Fuel oils,tons_within,17811.191,thousand tons,2012
+Oklahoma,Fuel oils,tons_out,7660.3536,thousand tons,2012
+Oklahoma,Fuel oils,tons_in,4886.927,thousand tons,2012
+Oklahoma,Natural sands,tons_within,13987.09948,thousand tons,2012
+Oklahoma,Natural sands,tons_out,6905.714601,thousand tons,2012
+Oklahoma,Natural sands,tons_in,3728.2167,thousand tons,2012
+Oklahoma,Nonmetal min. prods.,tons_within,10928.6974,thousand tons,2012
+Oklahoma,Nonmetal min. prods.,tons_out,5662.416,thousand tons,2012
+Oklahoma,Nonmetal min. prods.,tons_in,3685.1449,thousand tons,2012
+Oklahoma,Cereal grains,tons_within,5227.2057,thousand tons,2012
+Oklahoma,Cereal grains,tons_out,3688.7916,thousand tons,2012
+Oklahoma,Cereal grains,tons_in,3587.3397,thousand tons,2012
+Oklahoma,Waste/scrap,tons_within,4895.0454,thousand tons,2012
+Oklahoma,Waste/scrap,tons_out,2763.684197,thousand tons,2012
+Oklahoma,Waste/scrap,tons_in,3393.280004,thousand tons,2012
+Oklahoma,Crude petroleum,tons_within,4482.2682,thousand tons,2012
+Oklahoma,Crude petroleum,tons_out,2720.0824,thousand tons,2012
+Oklahoma,Crude petroleum,tons_in,3068.650237,thousand tons,2012
+Oklahoma,Animal feed,tons_within,3316.2219,thousand tons,2012
+Oklahoma,Animal feed,tons_out,2266.1445,thousand tons,2012
+Oklahoma,Animal feed,tons_in,2895.350901,thousand tons,2012
+Oregon,Logs,tons_within,28470.80207,thousand tons,2012
+Oregon,Logs,tons_out,14506.24189,thousand tons,2012
+Oregon,Logs,tons_in,19674.75138,thousand tons,2012
+Oregon,Gravel,tons_within,22439.2747,thousand tons,2012
+Oregon,Gravel,tons_out,11152.28801,thousand tons,2012
+Oregon,Gravel,tons_in,5987.061503,thousand tons,2012
+Oregon,Wood prods.,tons_within,17190.2265,thousand tons,2012
+Oregon,Wood prods.,tons_out,3093.906657,thousand tons,2012
+Oregon,Wood prods.,tons_in,4414.414021,thousand tons,2012
+Oregon,Nonmetal min. prods.,tons_within,8733.67564,thousand tons,2012
+Oregon,Nonmetal min. prods.,tons_out,2926.876069,thousand tons,2012
+Oregon,Nonmetal min. prods.,tons_in,3722.675,thousand tons,2012
+Oregon,Other ag prods.,tons_within,6801.453819,thousand tons,2012
+Oregon,Other ag prods.,tons_out,2179.7528,thousand tons,2012
+Oregon,Other ag prods.,tons_in,3438.811175,thousand tons,2012
+Oregon,Cereal grains,tons_within,6607.6966,thousand tons,2012
+Oregon,Cereal grains,tons_out,2089.030422,thousand tons,2012
+Oregon,Cereal grains,tons_in,2590.993471,thousand tons,2012
+Oregon,Waste/scrap,tons_within,4433.180601,thousand tons,2012
+Oregon,Waste/scrap,tons_out,1880.519103,thousand tons,2012
+Oregon,Waste/scrap,tons_in,2239.059,thousand tons,2012
+Oregon,Other foodstuffs,tons_within,4081.8723,thousand tons,2012
+Oregon,Other foodstuffs,tons_out,1858.017652,thousand tons,2012
+Oregon,Other foodstuffs,tons_in,2150.192183,thousand tons,2012
+Oregon,Fertilizers,tons_within,2931.481,thousand tons,2012
+Oregon,Fertilizers,tons_out,1306.821099,thousand tons,2012
+Oregon,Fertilizers,tons_in,1752.953625,thousand tons,2012
+Oregon,Fuel oils,tons_within,2645.9501,thousand tons,2012
+Oregon,Fuel oils,tons_out,1156.815584,thousand tons,2012
+Oregon,Fuel oils,tons_in,1293.137603,thousand tons,2012
+Pennsylvania,Coal-n.e.c.,tons_within,78067.68704,thousand tons,2012
+Pennsylvania,Coal-n.e.c.,tons_out,50426.61165,thousand tons,2012
+Pennsylvania,Coal-n.e.c.,tons_in,27039.69032,thousand tons,2012
+Pennsylvania,Gravel,tons_within,62722.2327,thousand tons,2012
+Pennsylvania,Gravel,tons_out,35897.94154,thousand tons,2012
+Pennsylvania,Gravel,tons_in,26114.7599,thousand tons,2012
+Pennsylvania,Coal,tons_within,33525.8557,thousand tons,2012
+Pennsylvania,Coal,tons_out,16831.17732,thousand tons,2012
+Pennsylvania,Coal,tons_in,18370.31286,thousand tons,2012
+Pennsylvania,Waste/scrap,tons_within,24968.22459,thousand tons,2012
+Pennsylvania,Waste/scrap,tons_out,14500.2276,thousand tons,2012
+Pennsylvania,Waste/scrap,tons_in,11837.80565,thousand tons,2012
+Pennsylvania,Nonmetal min. prods.,tons_within,23919.47863,thousand tons,2012
+Pennsylvania,Nonmetal min. prods.,tons_out,14021.66347,thousand tons,2012
+Pennsylvania,Nonmetal min. prods.,tons_in,9801.509731,thousand tons,2012
+Pennsylvania,Other foodstuffs,tons_within,19719.34069,thousand tons,2012
+Pennsylvania,Other foodstuffs,tons_out,13504.07227,thousand tons,2012
+Pennsylvania,Other foodstuffs,tons_in,9021.771638,thousand tons,2012
+Pennsylvania,Crude petroleum,tons_within,16693.0769,thousand tons,2012
+Pennsylvania,Crude petroleum,tons_out,10735.14742,thousand tons,2012
+Pennsylvania,Crude petroleum,tons_in,6882.786499,thousand tons,2012
+Pennsylvania,Gasoline,tons_within,14181.8777,thousand tons,2012
+Pennsylvania,Gasoline,tons_out,8139.7325,thousand tons,2012
+Pennsylvania,Gasoline,tons_in,6608.028528,thousand tons,2012
+Pennsylvania,Fuel oils,tons_within,14093.2223,thousand tons,2012
+Pennsylvania,Fuel oils,tons_out,5113.991896,thousand tons,2012
+Pennsylvania,Fuel oils,tons_in,6427.508306,thousand tons,2012
+Pennsylvania,Nonmetallic minerals,tons_within,14082.6309,thousand tons,2012
+Pennsylvania,Nonmetallic minerals,tons_out,5023.256581,thousand tons,2012
+Pennsylvania,Nonmetallic minerals,tons_in,6135.1618,thousand tons,2012
+Rhode Island,Gasoline,tons_within,6677.5135,thousand tons,2012
+Rhode Island,Gasoline,tons_out,7185.7643,thousand tons,2012
+Rhode Island,Gasoline,tons_in,4282.964422,thousand tons,2012
+Rhode Island,Fuel oils,tons_within,3984.0236,thousand tons,2012
+Rhode Island,Fuel oils,tons_out,2824.004771,thousand tons,2012
+Rhode Island,Fuel oils,tons_in,2399.76,thousand tons,2012
+Rhode Island,Gravel,tons_within,2828.2503,thousand tons,2012
+Rhode Island,Gravel,tons_out,1462.767801,thousand tons,2012
+Rhode Island,Gravel,tons_in,762.959925,thousand tons,2012
+Rhode Island,Waste/scrap,tons_within,1832.2742,thousand tons,2012
+Rhode Island,Waste/scrap,tons_out,1122.0367,thousand tons,2012
+Rhode Island,Waste/scrap,tons_in,514.293163,thousand tons,2012
+Rhode Island,Nonmetal min. prods.,tons_within,1343.277,thousand tons,2012
+Rhode Island,Nonmetal min. prods.,tons_out,1103.1862,thousand tons,2012
+Rhode Island,Nonmetal min. prods.,tons_in,470.6793,thousand tons,2012
+Rhode Island,Coal-n.e.c.,tons_within,891.2396,thousand tons,2012
+Rhode Island,Coal-n.e.c.,tons_out,535.90116,thousand tons,2012
+Rhode Island,Coal-n.e.c.,tons_in,465.761902,thousand tons,2012
+Rhode Island,Natural sands,tons_within,538.4719,thousand tons,2012
+Rhode Island,Natural sands,tons_out,312.997901,thousand tons,2012
+Rhode Island,Natural sands,tons_in,424.281327,thousand tons,2012
+Rhode Island,Other foodstuffs,tons_within,400.8737,thousand tons,2012
+Rhode Island,Other foodstuffs,tons_out,268.633097,thousand tons,2012
+Rhode Island,Other foodstuffs,tons_in,406.13604,thousand tons,2012
+Rhode Island,Motorized vehicles,tons_within,336.358456,thousand tons,2012
+Rhode Island,Motorized vehicles,tons_out,230.336803,thousand tons,2012
+Rhode Island,Motorized vehicles,tons_in,249.7932,thousand tons,2012
+Rhode Island,Wood prods.,tons_within,222.177,thousand tons,2012
+Rhode Island,Wood prods.,tons_out,226.237954,thousand tons,2012
+Rhode Island,Wood prods.,tons_in,219.467588,thousand tons,2012
+South Carolina,Logs,tons_within,20423.42446,thousand tons,2012
+South Carolina,Logs,tons_out,17094.57576,thousand tons,2012
+South Carolina,Logs,tons_in,22562.19071,thousand tons,2012
+South Carolina,Gravel,tons_within,19345.9931,thousand tons,2012
+South Carolina,Gravel,tons_out,6304.043307,thousand tons,2012
+South Carolina,Gravel,tons_in,16114.0858,thousand tons,2012
+South Carolina,Natural sands,tons_within,10989.2736,thousand tons,2012
+South Carolina,Natural sands,tons_out,5857.429288,thousand tons,2012
+South Carolina,Natural sands,tons_in,6277.468777,thousand tons,2012
+South Carolina,Waste/scrap,tons_within,10951.22678,thousand tons,2012
+South Carolina,Waste/scrap,tons_out,5574.225099,thousand tons,2012
+South Carolina,Waste/scrap,tons_in,6137.540513,thousand tons,2012
+South Carolina,Nonmetal min. prods.,tons_within,9492.658155,thousand tons,2012
+South Carolina,Nonmetal min. prods.,tons_out,3616.145005,thousand tons,2012
+South Carolina,Nonmetal min. prods.,tons_in,5219.657903,thousand tons,2012
+South Carolina,Gasoline,tons_within,4062.0852,thousand tons,2012
+South Carolina,Gasoline,tons_out,3291.887358,thousand tons,2012
+South Carolina,Gasoline,tons_in,4224.5837,thousand tons,2012
+South Carolina,Other ag prods.,tons_within,3919.317758,thousand tons,2012
+South Carolina,Other ag prods.,tons_out,3232.269591,thousand tons,2012
+South Carolina,Other ag prods.,tons_in,3874.079585,thousand tons,2012
+South Carolina,Wood prods.,tons_within,3062.452391,thousand tons,2012
+South Carolina,Wood prods.,tons_out,2224.053769,thousand tons,2012
+South Carolina,Wood prods.,tons_in,3219.1683,thousand tons,2012
+South Carolina,Basic chemicals,tons_within,2850.855981,thousand tons,2012
+South Carolina,Basic chemicals,tons_out,1846.0199,thousand tons,2012
+South Carolina,Basic chemicals,tons_in,3152.012595,thousand tons,2012
+South Carolina,Plastics/rubber,tons_within,2630.659926,thousand tons,2012
+South Carolina,Plastics/rubber,tons_out,1702.4137,thousand tons,2012
+South Carolina,Plastics/rubber,tons_in,2525.610857,thousand tons,2012
+South Dakota,Cereal grains,tons_within,31173.623,thousand tons,2012
+South Dakota,Cereal grains,tons_out,15394.85847,thousand tons,2012
+South Dakota,Cereal grains,tons_in,17035.1645,thousand tons,2012
+South Dakota,Gravel,tons_within,5867.334,thousand tons,2012
+South Dakota,Gravel,tons_out,12132.175,thousand tons,2012
+South Dakota,Gravel,tons_in,2634.5782,thousand tons,2012
+South Dakota,Animal feed,tons_within,5711.5288,thousand tons,2012
+South Dakota,Animal feed,tons_out,2857.824762,thousand tons,2012
+South Dakota,Animal feed,tons_in,2095.1992,thousand tons,2012
+South Dakota,Other ag prods.,tons_within,5580.278972,thousand tons,2012
+South Dakota,Other ag prods.,tons_out,2720.9895,thousand tons,2012
+South Dakota,Other ag prods.,tons_in,1554.4586,thousand tons,2012
+South Dakota,Nonmetal min. prods.,tons_within,4646.3912,thousand tons,2012
+South Dakota,Nonmetal min. prods.,tons_out,2311.4185,thousand tons,2012
+South Dakota,Nonmetal min. prods.,tons_in,1455.2752,thousand tons,2012
+South Dakota,Fertilizers,tons_within,3302.2249,thousand tons,2012
+South Dakota,Fertilizers,tons_out,2187.7098,thousand tons,2012
+South Dakota,Fertilizers,tons_in,1031.0653,thousand tons,2012
+South Dakota,Natural sands,tons_within,2249.2703,thousand tons,2012
+South Dakota,Natural sands,tons_out,1623.5781,thousand tons,2012
+South Dakota,Natural sands,tons_in,879.5833,thousand tons,2012
+South Dakota,Live animals/fish,tons_within,1740.675,thousand tons,2012
+South Dakota,Live animals/fish,tons_out,746.0683,thousand tons,2012
+South Dakota,Live animals/fish,tons_in,869.9176,thousand tons,2012
+South Dakota,Fuel oils,tons_within,1537.149,thousand tons,2012
+South Dakota,Fuel oils,tons_out,674.7596,thousand tons,2012
+South Dakota,Fuel oils,tons_in,865.0944,thousand tons,2012
+South Dakota,Other foodstuffs,tons_within,1329.2046,thousand tons,2012
+South Dakota,Other foodstuffs,tons_out,585.6165,thousand tons,2012
+South Dakota,Other foodstuffs,tons_in,831.992814,thousand tons,2012
+Tennessee,Gravel,tons_within,37837.0902,thousand tons,2012
+Tennessee,Gravel,tons_out,37696.11505,thousand tons,2012
+Tennessee,Gravel,tons_in,45339.52028,thousand tons,2012
+Tennessee,Nonmetal min. prods.,tons_within,13208.6649,thousand tons,2012
+Tennessee,Nonmetal min. prods.,tons_out,10483.7415,thousand tons,2012
+Tennessee,Nonmetal min. prods.,tons_in,10157.911,thousand tons,2012
+Tennessee,Logs,tons_within,12231.50247,thousand tons,2012
+Tennessee,Logs,tons_out,6769.466183,thousand tons,2012
+Tennessee,Logs,tons_in,7904.564514,thousand tons,2012
+Tennessee,Gasoline,tons_within,10396.801,thousand tons,2012
+Tennessee,Gasoline,tons_out,5771.407739,thousand tons,2012
+Tennessee,Gasoline,tons_in,7308.3569,thousand tons,2012
+Tennessee,Waste/scrap,tons_within,9500.0331,thousand tons,2012
+Tennessee,Waste/scrap,tons_out,4821.472905,thousand tons,2012
+Tennessee,Waste/scrap,tons_in,6915.066103,thousand tons,2012
+Tennessee,Wood prods.,tons_within,5286.7666,thousand tons,2012
+Tennessee,Wood prods.,tons_out,4717.589104,thousand tons,2012
+Tennessee,Wood prods.,tons_in,4698.93268,thousand tons,2012
+Tennessee,Other foodstuffs,tons_within,5276.8772,thousand tons,2012
+Tennessee,Other foodstuffs,tons_out,4314.128704,thousand tons,2012
+Tennessee,Other foodstuffs,tons_in,4662.6408,thousand tons,2012
+Tennessee,Cereal grains,tons_within,4624.1232,thousand tons,2012
+Tennessee,Cereal grains,tons_out,4031.862642,thousand tons,2012
+Tennessee,Cereal grains,tons_in,4622.727257,thousand tons,2012
+Tennessee,Fuel oils,tons_within,4197.3117,thousand tons,2012
+Tennessee,Fuel oils,tons_out,3915.738198,thousand tons,2012
+Tennessee,Fuel oils,tons_in,3912.770415,thousand tons,2012
+Tennessee,Basic chemicals,tons_within,3995.689499,thousand tons,2012
+Tennessee,Basic chemicals,tons_out,3864.403805,thousand tons,2012
+Tennessee,Basic chemicals,tons_in,3599.550392,thousand tons,2012
+Texas,Gasoline,tons_within,429322.299,thousand tons,2012
+Texas,Gasoline,tons_out,96552.6054,thousand tons,2012
+Texas,Gasoline,tons_in,63919.9459,thousand tons,2012
+Texas,Fuel oils,tons_within,397078.4972,thousand tons,2012
+Texas,Fuel oils,tons_out,86835.12509,thousand tons,2012
+Texas,Fuel oils,tons_in,50622.37746,thousand tons,2012
+Texas,Crude petroleum,tons_within,246376.748,thousand tons,2012
+Texas,Crude petroleum,tons_out,28426.87724,thousand tons,2012
+Texas,Crude petroleum,tons_in,41486.6995,thousand tons,2012
+Texas,Coal-n.e.c.,tons_within,241272.4384,thousand tons,2012
+Texas,Coal-n.e.c.,tons_out,25425.4474,thousand tons,2012
+Texas,Coal-n.e.c.,tons_in,28096.0395,thousand tons,2012
+Texas,Gravel,tons_within,140689.3025,thousand tons,2012
+Texas,Gravel,tons_out,14168.5598,thousand tons,2012
+Texas,Gravel,tons_in,19661.00498,thousand tons,2012
+Texas,Nonmetal min. prods.,tons_within,115943.3779,thousand tons,2012
+Texas,Nonmetal min. prods.,tons_out,13444.97362,thousand tons,2012
+Texas,Nonmetal min. prods.,tons_in,19598.9924,thousand tons,2012
+Texas,Basic chemicals,tons_within,89629.15971,thousand tons,2012
+Texas,Basic chemicals,tons_out,11143.44783,thousand tons,2012
+Texas,Basic chemicals,tons_in,18118.9982,thousand tons,2012
+Texas,Natural sands,tons_within,87557.7719,thousand tons,2012
+Texas,Natural sands,tons_out,8909.993116,thousand tons,2012
+Texas,Natural sands,tons_in,14699.464,thousand tons,2012
+Texas,Coal,tons_within,46877.11199,thousand tons,2012
+Texas,Coal,tons_out,8814.664107,thousand tons,2012
+Texas,Coal,tons_in,13638.74962,thousand tons,2012
+Texas,Waste/scrap,tons_within,38640.72719,thousand tons,2012
+Texas,Waste/scrap,tons_out,7987.987721,thousand tons,2012
+Texas,Waste/scrap,tons_in,10873.11014,thousand tons,2012
+Utah,Coal,tons_within,14603.8334,thousand tons,2012
+Utah,Coal,tons_out,29778.19679,thousand tons,2012
+Utah,Coal,tons_in,26461.85921,thousand tons,2012
+Utah,Coal-n.e.c.,tons_within,10116.43832,thousand tons,2012
+Utah,Coal-n.e.c.,tons_out,4194.0592,thousand tons,2012
+Utah,Coal-n.e.c.,tons_in,3611.244,thousand tons,2012
+Utah,Gasoline,tons_within,7094.5239,thousand tons,2012
+Utah,Gasoline,tons_out,3873.329801,thousand tons,2012
+Utah,Gasoline,tons_in,3242.2357,thousand tons,2012
+Utah,Nonmetal min. prods.,tons_within,6780.8871,thousand tons,2012
+Utah,Nonmetal min. prods.,tons_out,2943.1789,thousand tons,2012
+Utah,Nonmetal min. prods.,tons_in,1923.8399,thousand tons,2012
+Utah,Gravel,tons_within,4882.2882,thousand tons,2012
+Utah,Gravel,tons_out,2924.4973,thousand tons,2012
+Utah,Gravel,tons_in,1465.4254,thousand tons,2012
+Utah,Fuel oils,tons_within,4477.1872,thousand tons,2012
+Utah,Fuel oils,tons_out,2158.9478,thousand tons,2012
+Utah,Fuel oils,tons_in,1223.846501,thousand tons,2012
+Utah,Waste/scrap,tons_within,3740.2955,thousand tons,2012
+Utah,Waste/scrap,tons_out,2080.704001,thousand tons,2012
+Utah,Waste/scrap,tons_in,1169.5012,thousand tons,2012
+Utah,Mixed freight,tons_within,2296.727362,thousand tons,2012
+Utah,Mixed freight,tons_out,1840.146301,thousand tons,2012
+Utah,Mixed freight,tons_in,1067.4707,thousand tons,2012
+Utah,Crude petroleum,tons_within,2092.7888,thousand tons,2012
+Utah,Crude petroleum,tons_out,1679.986101,thousand tons,2012
+Utah,Crude petroleum,tons_in,933.27963,thousand tons,2012
+Utah,Wood prods.,tons_within,1891.6325,thousand tons,2012
+Utah,Wood prods.,tons_out,1558.6793,thousand tons,2012
+Utah,Wood prods.,tons_in,892.7817,thousand tons,2012
+Vermont,Gravel,tons_within,5909.8327,thousand tons,2012
+Vermont,Gravel,tons_out,1830.466995,thousand tons,2012
+Vermont,Gravel,tons_in,2770.5982,thousand tons,2012
+Vermont,Logs,tons_within,2296.776055,thousand tons,2012
+Vermont,Logs,tons_out,1731.851463,thousand tons,2012
+Vermont,Logs,tons_in,1359.288,thousand tons,2012
+Vermont,Other foodstuffs,tons_within,2051.9028,thousand tons,2012
+Vermont,Other foodstuffs,tons_out,1606.1864,thousand tons,2012
+Vermont,Other foodstuffs,tons_in,1008.4665,thousand tons,2012
+Vermont,Nonmetallic minerals,tons_within,1294.5307,thousand tons,2012
+Vermont,Nonmetallic minerals,tons_out,1062.1765,thousand tons,2012
+Vermont,Nonmetallic minerals,tons_in,886.906313,thousand tons,2012
+Vermont,Natural sands,tons_within,911.1311,thousand tons,2012
+Vermont,Natural sands,tons_out,986.646905,thousand tons,2012
+Vermont,Natural sands,tons_in,744.990801,thousand tons,2012
+Vermont,Animal feed,tons_within,888.3877,thousand tons,2012
+Vermont,Animal feed,tons_out,572.916799,thousand tons,2012
+Vermont,Animal feed,tons_in,481.8809,thousand tons,2012
+Vermont,Gasoline,tons_within,851.285,thousand tons,2012
+Vermont,Gasoline,tons_out,335.7577,thousand tons,2012
+Vermont,Gasoline,tons_in,418.7648,thousand tons,2012
+Vermont,Waste/scrap,tons_within,795.1715,thousand tons,2012
+Vermont,Waste/scrap,tons_out,289.9213,thousand tons,2012
+Vermont,Waste/scrap,tons_in,384.992598,thousand tons,2012
+Vermont,Coal-n.e.c.,tons_within,775.557424,thousand tons,2012
+Vermont,Coal-n.e.c.,tons_out,242.0103,thousand tons,2012
+Vermont,Coal-n.e.c.,tons_in,371.329802,thousand tons,2012
+Vermont,Fuel oils,tons_within,771.2443,thousand tons,2012
+Vermont,Fuel oils,tons_out,208.587901,thousand tons,2012
+Vermont,Fuel oils,tons_in,335.255157,thousand tons,2012
+Virginia,Gravel,tons_within,40599.9551,thousand tons,2012
+Virginia,Gravel,tons_out,15529.40804,thousand tons,2012
+Virginia,Gravel,tons_in,63183.3524,thousand tons,2012
+Virginia,Logs,tons_within,18765.67166,thousand tons,2012
+Virginia,Logs,tons_out,14790.8969,thousand tons,2012
+Virginia,Logs,tons_in,22130.40588,thousand tons,2012
+Virginia,Nonmetal min. prods.,tons_within,18448.21969,thousand tons,2012
+Virginia,Nonmetal min. prods.,tons_out,4934.536511,thousand tons,2012
+Virginia,Nonmetal min. prods.,tons_in,20293.0046,thousand tons,2012
+Virginia,Waste/scrap,tons_within,14243.28356,thousand tons,2012
+Virginia,Waste/scrap,tons_out,4257.198298,thousand tons,2012
+Virginia,Waste/scrap,tons_in,7312.645707,thousand tons,2012
+Virginia,Coal,tons_within,12600.2836,thousand tons,2012
+Virginia,Coal,tons_out,3485.85913,thousand tons,2012
+Virginia,Coal,tons_in,6768.996103,thousand tons,2012
+Virginia,Wood prods.,tons_within,9021.95029,thousand tons,2012
+Virginia,Wood prods.,tons_out,3377.21211,thousand tons,2012
+Virginia,Wood prods.,tons_in,5292.166504,thousand tons,2012
+Virginia,Natural sands,tons_within,7630.6987,thousand tons,2012
+Virginia,Natural sands,tons_out,2942.4173,thousand tons,2012
+Virginia,Natural sands,tons_in,4604.85397,thousand tons,2012
+Virginia,Other foodstuffs,tons_within,7104.428501,thousand tons,2012
+Virginia,Other foodstuffs,tons_out,2432.670225,thousand tons,2012
+Virginia,Other foodstuffs,tons_in,4581.112154,thousand tons,2012
+Virginia,Gasoline,tons_within,6941.7312,thousand tons,2012
+Virginia,Gasoline,tons_out,2345.809794,thousand tons,2012
+Virginia,Gasoline,tons_in,4421.21092,thousand tons,2012
+Virginia,Other ag prods.,tons_within,5391.119861,thousand tons,2012
+Virginia,Other ag prods.,tons_out,2199.664,thousand tons,2012
+Virginia,Other ag prods.,tons_in,3601.393857,thousand tons,2012
+Washington,Gasoline,tons_within,35051.1784,thousand tons,2012
+Washington,Gasoline,tons_out,12466.5005,thousand tons,2012
+Washington,Gasoline,tons_in,12597.25331,thousand tons,2012
+Washington,Gravel,tons_within,31405.9122,thousand tons,2012
+Washington,Gravel,tons_out,7204.776374,thousand tons,2012
+Washington,Gravel,tons_in,10657.29542,thousand tons,2012
+Washington,Other ag prods.,tons_within,24571.90274,thousand tons,2012
+Washington,Other ag prods.,tons_out,4655.081522,thousand tons,2012
+Washington,Other ag prods.,tons_in,9524.916733,thousand tons,2012
+Washington,Cereal grains,tons_within,23536.8443,thousand tons,2012
+Washington,Cereal grains,tons_out,3320.104304,thousand tons,2012
+Washington,Cereal grains,tons_in,7207.6003,thousand tons,2012
+Washington,Logs,tons_within,22511.29723,thousand tons,2012
+Washington,Logs,tons_out,3183.106921,thousand tons,2012
+Washington,Logs,tons_in,6897.0361,thousand tons,2012
+Washington,Waste/scrap,tons_within,14567.00859,thousand tons,2012
+Washington,Waste/scrap,tons_out,3040.8322,thousand tons,2012
+Washington,Waste/scrap,tons_in,5253.724681,thousand tons,2012
+Washington,Fuel oils,tons_within,14212.6203,thousand tons,2012
+Washington,Fuel oils,tons_out,2728.21573,thousand tons,2012
+Washington,Fuel oils,tons_in,3833.600121,thousand tons,2012
+Washington,Coal-n.e.c.,tons_within,14059.55693,thousand tons,2012
+Washington,Coal-n.e.c.,tons_out,2297.295407,thousand tons,2012
+Washington,Coal-n.e.c.,tons_in,3405.844103,thousand tons,2012
+Washington,Nonmetal min. prods.,tons_within,13724.49575,thousand tons,2012
+Washington,Nonmetal min. prods.,tons_out,2217.284202,thousand tons,2012
+Washington,Nonmetal min. prods.,tons_in,2698.876193,thousand tons,2012
+Washington,Crude petroleum,tons_within,13708.1497,thousand tons,2012
+Washington,Crude petroleum,tons_out,2111.023272,thousand tons,2012
+Washington,Crude petroleum,tons_in,2275.699657,thousand tons,2012
+Washington DC,Nonmetal min. prods.,tons_within,1113.6617,thousand tons,2012
+Washington DC,Nonmetal min. prods.,tons_out,2291.2969,thousand tons,2012
+Washington DC,Nonmetal min. prods.,tons_in,555.5301,thousand tons,2012
+Washington DC,Alcoholic beverages,tons_within,157.7083,thousand tons,2012
+Washington DC,Alcoholic beverages,tons_out,507.2796,thousand tons,2012
+Washington DC,Alcoholic beverages,tons_in,528.152814,thousand tons,2012
+Washington DC,Textiles/leather,tons_within,144.4782,thousand tons,2012
+Washington DC,Textiles/leather,tons_out,246.9732,thousand tons,2012
+Washington DC,Textiles/leather,tons_in,516.3219,thousand tons,2012
+Washington DC,Machinery,tons_within,86.2212,thousand tons,2012
+Washington DC,Machinery,tons_out,110.2923,thousand tons,2012
+Washington DC,Machinery,tons_in,427,thousand tons,2012
+Washington DC,Furniture,tons_within,76.1237,thousand tons,2012
+Washington DC,Furniture,tons_out,64.2183,thousand tons,2012
+Washington DC,Furniture,tons_in,158.33689,thousand tons,2012
+Washington DC,Other foodstuffs,tons_within,75.2491,thousand tons,2012
+Washington DC,Other foodstuffs,tons_out,61.4611,thousand tons,2012
+Washington DC,Other foodstuffs,tons_in,151.6096,thousand tons,2012
+Washington DC,Other ag prods.,tons_within,60.0478,thousand tons,2012
+Washington DC,Other ag prods.,tons_out,47.6021,thousand tons,2012
+Washington DC,Other ag prods.,tons_in,139.3253,thousand tons,2012
+Washington DC,Wood prods.,tons_within,55.5019,thousand tons,2012
+Washington DC,Wood prods.,tons_out,42.3278,thousand tons,2012
+Washington DC,Wood prods.,tons_in,126.009,thousand tons,2012
+Washington DC,Plastics/rubber,tons_within,35.0498,thousand tons,2012
+Washington DC,Plastics/rubber,tons_out,38.5027,thousand tons,2012
+Washington DC,Plastics/rubber,tons_in,110.0851,thousand tons,2012
+West Virginia,Coal,tons_within,27956.2199,thousand tons,2012
+West Virginia,Coal,tons_out,132287.851,thousand tons,2012
+West Virginia,Coal,tons_in,17011.45036,thousand tons,2012
+West Virginia,Coal-n.e.c.,tons_within,13670.2248,thousand tons,2012
+West Virginia,Coal-n.e.c.,tons_out,27480.22353,thousand tons,2012
+West Virginia,Coal-n.e.c.,tons_in,15333.0619,thousand tons,2012
+West Virginia,Gravel,tons_within,10827.3477,thousand tons,2012
+West Virginia,Gravel,tons_out,15728.544,thousand tons,2012
+West Virginia,Gravel,tons_in,5925.4021,thousand tons,2012
+West Virginia,Logs,tons_within,7708.6585,thousand tons,2012
+West Virginia,Logs,tons_out,3215.5568,thousand tons,2012
+West Virginia,Logs,tons_in,5287.8248,thousand tons,2012
+West Virginia,Nonmetal min. prods.,tons_within,3854.4006,thousand tons,2012
+West Virginia,Nonmetal min. prods.,tons_out,2954.5695,thousand tons,2012
+West Virginia,Nonmetal min. prods.,tons_in,2606.2928,thousand tons,2012
+West Virginia,Waste/scrap,tons_within,2244.5935,thousand tons,2012
+West Virginia,Waste/scrap,tons_out,2645.5203,thousand tons,2012
+West Virginia,Waste/scrap,tons_in,2170.15917,thousand tons,2012
+West Virginia,Wood prods.,tons_within,1683.4209,thousand tons,2012
+West Virginia,Wood prods.,tons_out,2325.615202,thousand tons,2012
+West Virginia,Wood prods.,tons_in,2072.050297,thousand tons,2012
+West Virginia,Base metals,tons_within,871.5602,thousand tons,2012
+West Virginia,Base metals,tons_out,1343.832809,thousand tons,2012
+West Virginia,Base metals,tons_in,1869.4595,thousand tons,2012
+West Virginia,Basic chemicals,tons_within,776.6449,thousand tons,2012
+West Virginia,Basic chemicals,tons_out,1073.4531,thousand tons,2012
+West Virginia,Basic chemicals,tons_in,1859.2494,thousand tons,2012
+West Virginia,Natural sands,tons_within,721.2494,thousand tons,2012
+West Virginia,Natural sands,tons_out,838.6185,thousand tons,2012
+West Virginia,Natural sands,tons_in,1260.972003,thousand tons,2012
+Wisconsin,Gravel,tons_within,49581.9901,thousand tons,2012
+Wisconsin,Gravel,tons_out,10477.09131,thousand tons,2012
+Wisconsin,Gravel,tons_in,25663.4413,thousand tons,2012
+Wisconsin,Other foodstuffs,tons_within,21812.39221,thousand tons,2012
+Wisconsin,Other foodstuffs,tons_out,7811.909201,thousand tons,2012
+Wisconsin,Other foodstuffs,tons_in,15787.532,thousand tons,2012
+Wisconsin,Cereal grains,tons_within,16022.6875,thousand tons,2012
+Wisconsin,Cereal grains,tons_out,7276.147124,thousand tons,2012
+Wisconsin,Cereal grains,tons_in,14653.67901,thousand tons,2012
+Wisconsin,Nonmetal min. prods.,tons_within,14086.1282,thousand tons,2012
+Wisconsin,Nonmetal min. prods.,tons_out,5486.295825,thousand tons,2012
+Wisconsin,Nonmetal min. prods.,tons_in,9889.029629,thousand tons,2012
+Wisconsin,Gasoline,tons_within,10699.4577,thousand tons,2012
+Wisconsin,Gasoline,tons_out,5440.679269,thousand tons,2012
+Wisconsin,Gasoline,tons_in,7188.681504,thousand tons,2012
+Wisconsin,Logs,tons_within,9740.614004,thousand tons,2012
+Wisconsin,Logs,tons_out,4938.690913,thousand tons,2012
+Wisconsin,Logs,tons_in,6264.631226,thousand tons,2012
+Wisconsin,Waste/scrap,tons_within,7859.1244,thousand tons,2012
+Wisconsin,Waste/scrap,tons_out,4749.444005,thousand tons,2012
+Wisconsin,Waste/scrap,tons_in,5687.2783,thousand tons,2012
+Wisconsin,Wood prods.,tons_within,7823.5669,thousand tons,2012
+Wisconsin,Wood prods.,tons_out,4650.124119,thousand tons,2012
+Wisconsin,Wood prods.,tons_in,4422.5029,thousand tons,2012
+Wisconsin,Fuel oils,tons_within,7637.6719,thousand tons,2012
+Wisconsin,Fuel oils,tons_out,4070.6553,thousand tons,2012
+Wisconsin,Fuel oils,tons_in,4294.459694,thousand tons,2012
+Wisconsin,Other ag prods.,tons_within,7503.445731,thousand tons,2012
+Wisconsin,Other ag prods.,tons_out,4034.74632,thousand tons,2012
+Wisconsin,Other ag prods.,tons_in,4172.502,thousand tons,2012
+Wyoming,Coal-n.e.c.,tons_within,34060.7264,thousand tons,2012
+Wyoming,Coal-n.e.c.,tons_out,356238.8696,thousand tons,2012
+Wyoming,Coal-n.e.c.,tons_in,28811.33557,thousand tons,2012
+Wyoming,Coal,tons_within,26911.8489,thousand tons,2012
+Wyoming,Coal,tons_out,61892.75206,thousand tons,2012
+Wyoming,Coal,tons_in,6445.8351,thousand tons,2012
+Wyoming,Fuel oils,tons_within,4846.8931,thousand tons,2012
+Wyoming,Fuel oils,tons_out,18917.6373,thousand tons,2012
+Wyoming,Fuel oils,tons_in,2037.219,thousand tons,2012
+Wyoming,Crude petroleum,tons_within,1954.4901,thousand tons,2012
+Wyoming,Crude petroleum,tons_out,7256.8492,thousand tons,2012
+Wyoming,Crude petroleum,tons_in,1580.427,thousand tons,2012
+Wyoming,Nonmetal min. prods.,tons_within,1667.3907,thousand tons,2012
+Wyoming,Nonmetal min. prods.,tons_out,2109.664689,thousand tons,2012
+Wyoming,Nonmetal min. prods.,tons_in,1332.5036,thousand tons,2012
+Wyoming,Basic chemicals,tons_within,1145.5126,thousand tons,2012
+Wyoming,Basic chemicals,tons_out,1469.3293,thousand tons,2012
+Wyoming,Basic chemicals,tons_in,1089.9484,thousand tons,2012
+Wyoming,Animal feed,tons_within,1000.9091,thousand tons,2012
+Wyoming,Animal feed,tons_out,1417.159501,thousand tons,2012
+Wyoming,Animal feed,tons_in,915.4182,thousand tons,2012
+Wyoming,Other ag prods.,tons_within,954.438725,thousand tons,2012
+Wyoming,Other ag prods.,tons_out,871.4152,thousand tons,2012
+Wyoming,Other ag prods.,tons_in,802.0653,thousand tons,2012
+Wyoming,Gasoline,tons_within,871,thousand tons,2012
+Wyoming,Gasoline,tons_out,602.3833,thousand tons,2012
+Wyoming,Gasoline,tons_in,663.4583,thousand tons,2012
+Wyoming,Waste/scrap,tons_within,742.2542,thousand tons,2012
+Wyoming,Waste/scrap,tons_out,536.4814,thousand tons,2012
+Wyoming,Waste/scrap,tons_in,642.4667,thousand tons,2012
+Alabama,Coal,tons_within,74148.56592,thousand tons,2022
+Alabama,Coal,tons_out,80836.59257,thousand tons,2022
+Alabama,Coal,tons_in,101339.6984,thousand tons,2022
+Alabama,Logs,tons_within,34503.46725,thousand tons,2022
+Alabama,Logs,tons_out,13706.41047,thousand tons,2022
+Alabama,Logs,tons_in,9032.219209,thousand tons,2022
+Alabama,Gravel,tons_within,23858.77868,thousand tons,2022
+Alabama,Gravel,tons_out,8276.344268,thousand tons,2022
+Alabama,Gravel,tons_in,8666.922236,thousand tons,2022
+Alabama,Coal-n.e.c.,tons_within,23659.29799,thousand tons,2022
+Alabama,Coal-n.e.c.,tons_out,7415.293575,thousand tons,2022
+Alabama,Coal-n.e.c.,tons_in,5804.141203,thousand tons,2022
+Alabama,Fuel oils,tons_within,11954.55712,thousand tons,2022
+Alabama,Fuel oils,tons_out,7407.012202,thousand tons,2022
+Alabama,Fuel oils,tons_in,5741.948544,thousand tons,2022
+Alabama,Nonmetal min. prods.,tons_within,10768.18864,thousand tons,2022
+Alabama,Nonmetal min. prods.,tons_out,7179.137961,thousand tons,2022
+Alabama,Nonmetal min. prods.,tons_in,5028.669514,thousand tons,2022
+Alabama,Gasoline,tons_within,10449.46304,thousand tons,2022
+Alabama,Gasoline,tons_out,7004.447035,thousand tons,2022
+Alabama,Gasoline,tons_in,4153.432256,thousand tons,2022
+Alabama,Natural sands,tons_within,9833.920624,thousand tons,2022
+Alabama,Natural sands,tons_out,6592.51087,thousand tons,2022
+Alabama,Natural sands,tons_in,4115.759835,thousand tons,2022
+Alabama,Base metals,tons_within,9677.623538,thousand tons,2022
+Alabama,Base metals,tons_out,6235.420975,thousand tons,2022
+Alabama,Base metals,tons_in,3828.878221,thousand tons,2022
+Alabama,Waste/scrap,tons_within,9117.007737,thousand tons,2022
+Alabama,Waste/scrap,tons_out,4444.288899,thousand tons,2022
+Alabama,Waste/scrap,tons_in,3195.381137,thousand tons,2022
+Alaska,Gasoline,tons_within,7299.865068,thousand tons,2022
+Alaska,Gasoline,tons_out,25852.38453,thousand tons,2022
+Alaska,Gasoline,tons_in,627.187212,thousand tons,2022
+Alaska,Gravel,tons_within,4462.748585,thousand tons,2022
+Alaska,Gravel,tons_out,444.319655,thousand tons,2022
+Alaska,Gravel,tons_in,593.261926,thousand tons,2022
+Alaska,Fuel oils,tons_within,4266.676497,thousand tons,2022
+Alaska,Fuel oils,tons_out,92.536667,thousand tons,2022
+Alaska,Fuel oils,tons_in,465.231722,thousand tons,2022
+Alaska,Crude petroleum,tons_within,4233.95169,thousand tons,2022
+Alaska,Crude petroleum,tons_out,58.479536,thousand tons,2022
+Alaska,Crude petroleum,tons_in,244.551773,thousand tons,2022
+Alaska,Live animals/fish,tons_within,3681.439554,thousand tons,2022
+Alaska,Live animals/fish,tons_out,44.552767,thousand tons,2022
+Alaska,Live animals/fish,tons_in,188.125916,thousand tons,2022
+Alaska,Metallic ores,tons_within,3529.281361,thousand tons,2022
+Alaska,Metallic ores,tons_out,33.435123,thousand tons,2022
+Alaska,Metallic ores,tons_in,107.218446,thousand tons,2022
+Alaska,Nonmetal min. prods.,tons_within,1995.853921,thousand tons,2022
+Alaska,Nonmetal min. prods.,tons_out,32.030171,thousand tons,2022
+Alaska,Nonmetal min. prods.,tons_in,98.042961,thousand tons,2022
+Alaska,Logs,tons_within,1393.404192,thousand tons,2022
+Alaska,Logs,tons_out,27.106282,thousand tons,2022
+Alaska,Logs,tons_in,83.04878,thousand tons,2022
+Alaska,Coal-n.e.c.,tons_within,858.486472,thousand tons,2022
+Alaska,Coal-n.e.c.,tons_out,22.352868,thousand tons,2022
+Alaska,Coal-n.e.c.,tons_in,67.540807,thousand tons,2022
+Alaska,Waste/scrap,tons_within,839.450722,thousand tons,2022
+Alaska,Waste/scrap,tons_out,12.256923,thousand tons,2022
+Alaska,Waste/scrap,tons_in,66.889939,thousand tons,2022
+Arizona,Nonmetal min. prods.,tons_within,25810.27696,thousand tons,2022
+Arizona,Nonmetal min. prods.,tons_out,21002.0472,thousand tons,2022
+Arizona,Nonmetal min. prods.,tons_in,34141.81472,thousand tons,2022
+Arizona,Gravel,tons_within,20920.43987,thousand tons,2022
+Arizona,Gravel,tons_out,3418.925183,thousand tons,2022
+Arizona,Gravel,tons_in,7899.939625,thousand tons,2022
+Arizona,Metallic ores,tons_within,9746.007635,thousand tons,2022
+Arizona,Metallic ores,tons_out,2787.29339,thousand tons,2022
+Arizona,Metallic ores,tons_in,4075.744267,thousand tons,2022
+Arizona,Waste/scrap,tons_within,9551.913744,thousand tons,2022
+Arizona,Waste/scrap,tons_out,2014.885521,thousand tons,2022
+Arizona,Waste/scrap,tons_in,2734.397129,thousand tons,2022
+Arizona,Coal-n.e.c.,tons_within,9036.977209,thousand tons,2022
+Arizona,Coal-n.e.c.,tons_out,1804.876407,thousand tons,2022
+Arizona,Coal-n.e.c.,tons_in,2658.847975,thousand tons,2022
+Arizona,Coal,tons_within,8603.355825,thousand tons,2022
+Arizona,Coal,tons_out,1781.826197,thousand tons,2022
+Arizona,Coal,tons_in,2367.564821,thousand tons,2022
+Arizona,Other foodstuffs,tons_within,6881.727867,thousand tons,2022
+Arizona,Other foodstuffs,tons_out,1494.720198,thousand tons,2022
+Arizona,Other foodstuffs,tons_in,2208.623869,thousand tons,2022
+Arizona,Other ag prods.,tons_within,6010.693915,thousand tons,2022
+Arizona,Other ag prods.,tons_out,1117.423111,thousand tons,2022
+Arizona,Other ag prods.,tons_in,2194.809111,thousand tons,2022
+Arizona,Mixed freight,tons_within,5574.558681,thousand tons,2022
+Arizona,Mixed freight,tons_out,938.189578,thousand tons,2022
+Arizona,Mixed freight,tons_in,2024.673093,thousand tons,2022
+Arizona,Cereal grains,tons_within,3836.195603,thousand tons,2022
+Arizona,Cereal grains,tons_out,922.894767,thousand tons,2022
+Arizona,Cereal grains,tons_in,1951.100444,thousand tons,2022
+Arkansas,Gravel,tons_within,24366.3125,thousand tons,2022
+Arkansas,Gravel,tons_out,34002.09141,thousand tons,2022
+Arkansas,Gravel,tons_in,27299.19816,thousand tons,2022
+Arkansas,Logs,tons_within,20797.14327,thousand tons,2022
+Arkansas,Logs,tons_out,6846.780808,thousand tons,2022
+Arkansas,Logs,tons_in,9634.791314,thousand tons,2022
+Arkansas,Natural sands,tons_within,13180.545,thousand tons,2022
+Arkansas,Natural sands,tons_out,5612.717533,thousand tons,2022
+Arkansas,Natural sands,tons_in,5322.276254,thousand tons,2022
+Arkansas,Cereal grains,tons_within,11189.747,thousand tons,2022
+Arkansas,Cereal grains,tons_out,3834.436575,thousand tons,2022
+Arkansas,Cereal grains,tons_in,4380.020251,thousand tons,2022
+Arkansas,Coal-n.e.c.,tons_within,11187.13165,thousand tons,2022
+Arkansas,Coal-n.e.c.,tons_out,3351.818243,thousand tons,2022
+Arkansas,Coal-n.e.c.,tons_in,4114.717304,thousand tons,2022
+Arkansas,Other ag prods.,tons_within,8829.2256,thousand tons,2022
+Arkansas,Other ag prods.,tons_out,3070.811821,thousand tons,2022
+Arkansas,Other ag prods.,tons_in,4056.789699,thousand tons,2022
+Arkansas,Nonmetal min. prods.,tons_within,8001.228453,thousand tons,2022
+Arkansas,Nonmetal min. prods.,tons_out,2952.267548,thousand tons,2022
+Arkansas,Nonmetal min. prods.,tons_in,2466.375648,thousand tons,2022
+Arkansas,Wood prods.,tons_within,6549.130796,thousand tons,2022
+Arkansas,Wood prods.,tons_out,2867.298959,thousand tons,2022
+Arkansas,Wood prods.,tons_in,2325.228451,thousand tons,2022
+Arkansas,Motorized vehicles,tons_within,6525.264286,thousand tons,2022
+Arkansas,Motorized vehicles,tons_out,2681.133089,thousand tons,2022
+Arkansas,Motorized vehicles,tons_in,1912.921745,thousand tons,2022
+Arkansas,Waste/scrap,tons_within,6170.594467,thousand tons,2022
+Arkansas,Waste/scrap,tons_out,2358.200994,thousand tons,2022
+Arkansas,Waste/scrap,tons_in,1894.4154,thousand tons,2022
+California,Gasoline,tons_within,109477.4163,thousand tons,2022
+California,Gasoline,tons_out,24447.87847,thousand tons,2022
+California,Gasoline,tons_in,52958.67138,thousand tons,2022
+California,Nonmetal min. prods.,tons_within,104122.7171,thousand tons,2022
+California,Nonmetal min. prods.,tons_out,10167.01693,thousand tons,2022
+California,Nonmetal min. prods.,tons_in,22740.47506,thousand tons,2022
+California,Gravel,tons_within,100066.653,thousand tons,2022
+California,Gravel,tons_out,9263.44126,thousand tons,2022
+California,Gravel,tons_in,15586.12256,thousand tons,2022
+California,Coal-n.e.c.,tons_within,92056.22777,thousand tons,2022
+California,Coal-n.e.c.,tons_out,7698.316777,thousand tons,2022
+California,Coal-n.e.c.,tons_in,11016.08328,thousand tons,2022
+California,Crude petroleum,tons_within,82848.60521,thousand tons,2022
+California,Crude petroleum,tons_out,7041.354354,thousand tons,2022
+California,Crude petroleum,tons_in,10081.52711,thousand tons,2022
+California,Other foodstuffs,tons_within,75445.22728,thousand tons,2022
+California,Other foodstuffs,tons_out,6894.509088,thousand tons,2022
+California,Other foodstuffs,tons_in,9675.596328,thousand tons,2022
+California,Waste/scrap,tons_within,54728.36414,thousand tons,2022
+California,Waste/scrap,tons_out,6738.875543,thousand tons,2022
+California,Waste/scrap,tons_in,8721.787667,thousand tons,2022
+California,Fuel oils,tons_within,53562.56385,thousand tons,2022
+California,Fuel oils,tons_out,5590.366998,thousand tons,2022
+California,Fuel oils,tons_in,8223.507038,thousand tons,2022
+California,Natural sands,tons_within,49128.70289,thousand tons,2022
+California,Natural sands,tons_out,5502.255287,thousand tons,2022
+California,Natural sands,tons_in,7752.311413,thousand tons,2022
+California,Other ag prods.,tons_within,47697.37862,thousand tons,2022
+California,Other ag prods.,tons_out,5392.635718,thousand tons,2022
+California,Other ag prods.,tons_in,7485.746939,thousand tons,2022
+Colorado,Gravel,tons_within,31678.66999,thousand tons,2022
+Colorado,Gravel,tons_out,65537.85489,thousand tons,2022
+Colorado,Gravel,tons_in,33668.64299,thousand tons,2022
+Colorado,Coal-n.e.c.,tons_within,27430.49684,thousand tons,2022
+Colorado,Coal-n.e.c.,tons_out,24689.4599,thousand tons,2022
+Colorado,Coal-n.e.c.,tons_in,5734.882357,thousand tons,2022
+Colorado,Cereal grains,tons_within,20315.53237,thousand tons,2022
+Colorado,Cereal grains,tons_out,7487.168156,thousand tons,2022
+Colorado,Cereal grains,tons_in,4628.659072,thousand tons,2022
+Colorado,Nonmetal min. prods.,tons_within,20151.44195,thousand tons,2022
+Colorado,Nonmetal min. prods.,tons_out,2888.017976,thousand tons,2022
+Colorado,Nonmetal min. prods.,tons_in,3425.994763,thousand tons,2022
+Colorado,Waste/scrap,tons_within,11497.07246,thousand tons,2022
+Colorado,Waste/scrap,tons_out,2539.880897,thousand tons,2022
+Colorado,Waste/scrap,tons_in,3203.18859,thousand tons,2022
+Colorado,Coal,tons_within,6270.048544,thousand tons,2022
+Colorado,Coal,tons_out,2491.819853,thousand tons,2022
+Colorado,Coal,tons_in,2912.275386,thousand tons,2022
+Colorado,Other foodstuffs,tons_within,5784.15514,thousand tons,2022
+Colorado,Other foodstuffs,tons_out,1966.338422,thousand tons,2022
+Colorado,Other foodstuffs,tons_in,2903.106144,thousand tons,2022
+Colorado,Motorized vehicles,tons_within,4840.015059,thousand tons,2022
+Colorado,Motorized vehicles,tons_out,1780.276587,thousand tons,2022
+Colorado,Motorized vehicles,tons_in,2475.543011,thousand tons,2022
+Colorado,Wood prods.,tons_within,4434.35207,thousand tons,2022
+Colorado,Wood prods.,tons_out,1375.176134,thousand tons,2022
+Colorado,Wood prods.,tons_in,2372.74232,thousand tons,2022
+Colorado,Other ag prods.,tons_within,4396.870678,thousand tons,2022
+Colorado,Other ag prods.,tons_out,1293.165377,thousand tons,2022
+Colorado,Other ag prods.,tons_in,1831.516005,thousand tons,2022
+Connecticut,Gravel,tons_within,21288.3283,thousand tons,2022
+Connecticut,Gravel,tons_out,8442.828828,thousand tons,2022
+Connecticut,Gravel,tons_in,17521.76062,thousand tons,2022
+Connecticut,Fuel oils,tons_within,15314.43316,thousand tons,2022
+Connecticut,Fuel oils,tons_out,5762.56181,thousand tons,2022
+Connecticut,Fuel oils,tons_in,3789.549044,thousand tons,2022
+Connecticut,Gasoline,tons_within,9439.048247,thousand tons,2022
+Connecticut,Gasoline,tons_out,4484.928593,thousand tons,2022
+Connecticut,Gasoline,tons_in,3251.878077,thousand tons,2022
+Connecticut,Coal-n.e.c.,tons_within,9075.630588,thousand tons,2022
+Connecticut,Coal-n.e.c.,tons_out,2587.487666,thousand tons,2022
+Connecticut,Coal-n.e.c.,tons_in,2778.580724,thousand tons,2022
+Connecticut,Nonmetal min. prods.,tons_within,7542.835758,thousand tons,2022
+Connecticut,Nonmetal min. prods.,tons_out,1880.076918,thousand tons,2022
+Connecticut,Nonmetal min. prods.,tons_in,2742.375589,thousand tons,2022
+Connecticut,Waste/scrap,tons_within,4768.808695,thousand tons,2022
+Connecticut,Waste/scrap,tons_out,1869.929873,thousand tons,2022
+Connecticut,Waste/scrap,tons_in,2115.126894,thousand tons,2022
+Connecticut,Natural sands,tons_within,3814.537123,thousand tons,2022
+Connecticut,Natural sands,tons_out,1487.143202,thousand tons,2022
+Connecticut,Natural sands,tons_in,1109.497353,thousand tons,2022
+Connecticut,Other foodstuffs,tons_within,2646.603812,thousand tons,2022
+Connecticut,Other foodstuffs,tons_out,1395.33048,thousand tons,2022
+Connecticut,Other foodstuffs,tons_in,1086.06342,thousand tons,2022
+Connecticut,Mixed freight,tons_within,1317.486,thousand tons,2022
+Connecticut,Mixed freight,tons_out,1303.257116,thousand tons,2022
+Connecticut,Mixed freight,tons_in,1061.23691,thousand tons,2022
+Connecticut,Base metals,tons_within,1146.644925,thousand tons,2022
+Connecticut,Base metals,tons_out,1285.763181,thousand tons,2022
+Connecticut,Base metals,tons_in,1036.333815,thousand tons,2022
+Delaware,Other ag prods.,tons_within,5099.986677,thousand tons,2022
+Delaware,Other ag prods.,tons_out,2730.49413,thousand tons,2022
+Delaware,Other ag prods.,tons_in,3218.488468,thousand tons,2022
+Delaware,Crude petroleum,tons_within,3891.547544,thousand tons,2022
+Delaware,Crude petroleum,tons_out,2442.021233,thousand tons,2022
+Delaware,Crude petroleum,tons_in,2468.029445,thousand tons,2022
+Delaware,Coal-n.e.c.,tons_within,2661.04638,thousand tons,2022
+Delaware,Coal-n.e.c.,tons_out,2242.3571,thousand tons,2022
+Delaware,Coal-n.e.c.,tons_in,2352.455662,thousand tons,2022
+Delaware,Gasoline,tons_within,2431.666196,thousand tons,2022
+Delaware,Gasoline,tons_out,1873.435998,thousand tons,2022
+Delaware,Gasoline,tons_in,2202.547308,thousand tons,2022
+Delaware,Gravel,tons_within,2009.108543,thousand tons,2022
+Delaware,Gravel,tons_out,1633.013354,thousand tons,2022
+Delaware,Gravel,tons_in,1376.056145,thousand tons,2022
+Delaware,Nonmetal min. prods.,tons_within,1607.79775,thousand tons,2022
+Delaware,Nonmetal min. prods.,tons_out,1368.273765,thousand tons,2022
+Delaware,Nonmetal min. prods.,tons_in,1123.624835,thousand tons,2022
+Delaware,Natural sands,tons_within,1478.810777,thousand tons,2022
+Delaware,Natural sands,tons_out,1130.257854,thousand tons,2022
+Delaware,Natural sands,tons_in,1052.216334,thousand tons,2022
+Delaware,Fuel oils,tons_within,1395.373232,thousand tons,2022
+Delaware,Fuel oils,tons_out,912.935118,thousand tons,2022
+Delaware,Fuel oils,tons_in,971.178518,thousand tons,2022
+Delaware,Animal feed,tons_within,1308.279714,thousand tons,2022
+Delaware,Animal feed,tons_out,874.001686,thousand tons,2022
+Delaware,Animal feed,tons_in,925.077518,thousand tons,2022
+Delaware,Waste/scrap,tons_within,1228.972424,thousand tons,2022
+Delaware,Waste/scrap,tons_out,866.654837,thousand tons,2022
+Delaware,Waste/scrap,tons_in,702.685033,thousand tons,2022
+Florida,Gravel,tons_within,118506.935,thousand tons,2022
+Florida,Gravel,tons_out,7046.805429,thousand tons,2022
+Florida,Gravel,tons_in,35343.08577,thousand tons,2022
+Florida,Nonmetal min. prods.,tons_within,81872.24369,thousand tons,2022
+Florida,Nonmetal min. prods.,tons_out,6594.498815,thousand tons,2022
+Florida,Nonmetal min. prods.,tons_in,13457.10364,thousand tons,2022
+Florida,Natural sands,tons_within,65385.04809,thousand tons,2022
+Florida,Natural sands,tons_out,4347.062009,thousand tons,2022
+Florida,Natural sands,tons_in,9629.012162,thousand tons,2022
+Florida,Coal-n.e.c.,tons_within,40395.71764,thousand tons,2022
+Florida,Coal-n.e.c.,tons_out,4188.310433,thousand tons,2022
+Florida,Coal-n.e.c.,tons_in,7950.032692,thousand tons,2022
+Florida,Gasoline,tons_within,39765.11339,thousand tons,2022
+Florida,Gasoline,tons_out,3873.888767,thousand tons,2022
+Florida,Gasoline,tons_in,7894.500419,thousand tons,2022
+Florida,Waste/scrap,tons_within,37581.33275,thousand tons,2022
+Florida,Waste/scrap,tons_out,3435.08201,thousand tons,2022
+Florida,Waste/scrap,tons_in,7357.651298,thousand tons,2022
+Florida,Other ag prods.,tons_within,34759.9308,thousand tons,2022
+Florida,Other ag prods.,tons_out,3159.591331,thousand tons,2022
+Florida,Other ag prods.,tons_in,6326.598907,thousand tons,2022
+Florida,Other foodstuffs,tons_within,25834.34148,thousand tons,2022
+Florida,Other foodstuffs,tons_out,3127.826321,thousand tons,2022
+Florida,Other foodstuffs,tons_in,5808.63409,thousand tons,2022
+Florida,Mixed freight,tons_within,22092.42168,thousand tons,2022
+Florida,Mixed freight,tons_out,3125.001889,thousand tons,2022
+Florida,Mixed freight,tons_in,5766.899181,thousand tons,2022
+Florida,Fertilizers,tons_within,21909.60811,thousand tons,2022
+Florida,Fertilizers,tons_out,2970.338117,thousand tons,2022
+Florida,Fertilizers,tons_in,5707.860649,thousand tons,2022
+Georgia,Logs,tons_within,41056.25768,thousand tons,2022
+Georgia,Logs,tons_out,18673.47392,thousand tons,2022
+Georgia,Logs,tons_in,34635.12605,thousand tons,2022
+Georgia,Gravel,tons_within,30827.86776,thousand tons,2022
+Georgia,Gravel,tons_out,8839.77407,thousand tons,2022
+Georgia,Gravel,tons_in,12759.17675,thousand tons,2022
+Georgia,Nonmetal min. prods.,tons_within,29464.58923,thousand tons,2022
+Georgia,Nonmetal min. prods.,tons_out,7981.612506,thousand tons,2022
+Georgia,Nonmetal min. prods.,tons_in,12336.45266,thousand tons,2022
+Georgia,Coal-n.e.c.,tons_within,28422.13075,thousand tons,2022
+Georgia,Coal-n.e.c.,tons_out,7337.57751,thousand tons,2022
+Georgia,Coal-n.e.c.,tons_in,10146.45427,thousand tons,2022
+Georgia,Gasoline,tons_within,23086.46641,thousand tons,2022
+Georgia,Gasoline,tons_out,6978.960968,thousand tons,2022
+Georgia,Gasoline,tons_in,7770.853465,thousand tons,2022
+Georgia,Waste/scrap,tons_within,20172.55932,thousand tons,2022
+Georgia,Waste/scrap,tons_out,6962.356878,thousand tons,2022
+Georgia,Waste/scrap,tons_in,7370.644884,thousand tons,2022
+Georgia,Wood prods.,tons_within,14436.97003,thousand tons,2022
+Georgia,Wood prods.,tons_out,6642.981069,thousand tons,2022
+Georgia,Wood prods.,tons_in,6872.221185,thousand tons,2022
+Georgia,Other foodstuffs,tons_within,11521.63602,thousand tons,2022
+Georgia,Other foodstuffs,tons_out,5900.251669,thousand tons,2022
+Georgia,Other foodstuffs,tons_in,6831.903268,thousand tons,2022
+Georgia,Natural sands,tons_within,11213.0926,thousand tons,2022
+Georgia,Natural sands,tons_out,5470.949649,thousand tons,2022
+Georgia,Natural sands,tons_in,6377.623499,thousand tons,2022
+Georgia,Other ag prods.,tons_within,10530.47086,thousand tons,2022
+Georgia,Other ag prods.,tons_out,5366.525749,thousand tons,2022
+Georgia,Other ag prods.,tons_in,6226.55102,thousand tons,2022
+Hawaii,Gasoline,tons_within,15215.01764,thousand tons,2022
+Hawaii,Gasoline,tons_out,1103.731123,thousand tons,2022
+Hawaii,Gasoline,tons_in,635.206151,thousand tons,2022
+Hawaii,Nonmetal min. prods.,tons_within,5339.003928,thousand tons,2022
+Hawaii,Nonmetal min. prods.,tons_out,535.073163,thousand tons,2022
+Hawaii,Nonmetal min. prods.,tons_in,547.489376,thousand tons,2022
+Hawaii,Waste/scrap,tons_within,4005.852593,thousand tons,2022
+Hawaii,Waste/scrap,tons_out,350.212726,thousand tons,2022
+Hawaii,Waste/scrap,tons_in,332.374613,thousand tons,2022
+Hawaii,Crude petroleum,tons_within,3471.098315,thousand tons,2022
+Hawaii,Crude petroleum,tons_out,98.727182,thousand tons,2022
+Hawaii,Crude petroleum,tons_in,259.26134,thousand tons,2022
+Hawaii,Gravel,tons_within,3319.616938,thousand tons,2022
+Hawaii,Gravel,tons_out,43.274281,thousand tons,2022
+Hawaii,Gravel,tons_in,184.298572,thousand tons,2022
+Hawaii,Fuel oils,tons_within,3039.81856,thousand tons,2022
+Hawaii,Fuel oils,tons_out,36.004376,thousand tons,2022
+Hawaii,Fuel oils,tons_in,149.892564,thousand tons,2022
+Hawaii,Other foodstuffs,tons_within,1052.473883,thousand tons,2022
+Hawaii,Other foodstuffs,tons_out,26.095321,thousand tons,2022
+Hawaii,Other foodstuffs,tons_in,141.773964,thousand tons,2022
+Hawaii,Other ag prods.,tons_within,887.22787,thousand tons,2022
+Hawaii,Other ag prods.,tons_out,19.94527,thousand tons,2022
+Hawaii,Other ag prods.,tons_in,134.135468,thousand tons,2022
+Hawaii,Nonmetallic minerals,tons_within,815.396228,thousand tons,2022
+Hawaii,Nonmetallic minerals,tons_out,19.623579,thousand tons,2022
+Hawaii,Nonmetallic minerals,tons_in,97.78485,thousand tons,2022
+Hawaii,Natural sands,tons_within,769.169112,thousand tons,2022
+Hawaii,Natural sands,tons_out,17.082737,thousand tons,2022
+Hawaii,Natural sands,tons_in,91.610565,thousand tons,2022
+Idaho,Coal-n.e.c.,tons_within,24293.63247,thousand tons,2022
+Idaho,Coal-n.e.c.,tons_out,30939.80864,thousand tons,2022
+Idaho,Coal-n.e.c.,tons_in,2949.388101,thousand tons,2022
+Idaho,Other ag prods.,tons_within,13128.325,thousand tons,2022
+Idaho,Other ag prods.,tons_out,6624.382158,thousand tons,2022
+Idaho,Other ag prods.,tons_in,2894.978058,thousand tons,2022
+Idaho,Cereal grains,tons_within,9818.508466,thousand tons,2022
+Idaho,Cereal grains,tons_out,4830.378305,thousand tons,2022
+Idaho,Cereal grains,tons_in,2584.167146,thousand tons,2022
+Idaho,Other foodstuffs,tons_within,9195.618534,thousand tons,2022
+Idaho,Other foodstuffs,tons_out,4762.715077,thousand tons,2022
+Idaho,Other foodstuffs,tons_in,2382.901041,thousand tons,2022
+Idaho,Logs,tons_within,8263.067222,thousand tons,2022
+Idaho,Logs,tons_out,4720.486317,thousand tons,2022
+Idaho,Logs,tons_in,1975.44349,thousand tons,2022
+Idaho,Nonmetallic minerals,tons_within,7887.874738,thousand tons,2022
+Idaho,Nonmetallic minerals,tons_out,1905.61376,thousand tons,2022
+Idaho,Nonmetallic minerals,tons_in,1910.644536,thousand tons,2022
+Idaho,Gravel,tons_within,7409.54547,thousand tons,2022
+Idaho,Gravel,tons_out,1904.044568,thousand tons,2022
+Idaho,Gravel,tons_in,1682.34313,thousand tons,2022
+Idaho,Animal feed,tons_within,6271.52156,thousand tons,2022
+Idaho,Animal feed,tons_out,1231.14151,thousand tons,2022
+Idaho,Animal feed,tons_in,949.555834,thousand tons,2022
+Idaho,Nonmetal min. prods.,tons_within,3316.982586,thousand tons,2022
+Idaho,Nonmetal min. prods.,tons_out,741.186518,thousand tons,2022
+Idaho,Nonmetal min. prods.,tons_in,919.405162,thousand tons,2022
+Idaho,Fertilizers,tons_within,3086.184603,thousand tons,2022
+Idaho,Fertilizers,tons_out,651.682974,thousand tons,2022
+Idaho,Fertilizers,tons_in,731.247876,thousand tons,2022
+Illinois,Cereal grains,tons_within,103815.0309,thousand tons,2022
+Illinois,Cereal grains,tons_out,56695.47802,thousand tons,2022
+Illinois,Cereal grains,tons_in,70010.32495,thousand tons,2022
+Illinois,Gasoline,tons_within,63414.97508,thousand tons,2022
+Illinois,Gasoline,tons_out,39276.62997,thousand tons,2022
+Illinois,Gasoline,tons_in,66344.59582,thousand tons,2022
+Illinois,Gravel,tons_within,47612.73374,thousand tons,2022
+Illinois,Gravel,tons_out,28848.63563,thousand tons,2022
+Illinois,Gravel,tons_in,19532.49323,thousand tons,2022
+Illinois,Coal-n.e.c.,tons_within,43480.73629,thousand tons,2022
+Illinois,Coal-n.e.c.,tons_out,26155.82739,thousand tons,2022
+Illinois,Coal-n.e.c.,tons_in,17132.49817,thousand tons,2022
+Illinois,Fuel oils,tons_within,41973.86945,thousand tons,2022
+Illinois,Fuel oils,tons_out,20466.1732,thousand tons,2022
+Illinois,Fuel oils,tons_in,16591.01299,thousand tons,2022
+Illinois,Nonmetal min. prods.,tons_within,38510.5966,thousand tons,2022
+Illinois,Nonmetal min. prods.,tons_out,19658.51876,thousand tons,2022
+Illinois,Nonmetal min. prods.,tons_in,15912.05346,thousand tons,2022
+Illinois,Other ag prods.,tons_within,34455.05551,thousand tons,2022
+Illinois,Other ag prods.,tons_out,17579.23829,thousand tons,2022
+Illinois,Other ag prods.,tons_in,12210.40176,thousand tons,2022
+Illinois,Animal feed,tons_within,18381.25148,thousand tons,2022
+Illinois,Animal feed,tons_out,15607.43557,thousand tons,2022
+Illinois,Animal feed,tons_in,10606.84323,thousand tons,2022
+Illinois,Waste/scrap,tons_within,15528.24223,thousand tons,2022
+Illinois,Waste/scrap,tons_out,15254.71702,thousand tons,2022
+Illinois,Waste/scrap,tons_in,10262.57575,thousand tons,2022
+Illinois,Other foodstuffs,tons_within,14337.77355,thousand tons,2022
+Illinois,Other foodstuffs,tons_out,13795.54087,thousand tons,2022
+Illinois,Other foodstuffs,tons_in,10201.14373,thousand tons,2022
+Indiana,Gravel,tons_within,68294.55718,thousand tons,2022
+Indiana,Gravel,tons_out,51201.20712,thousand tons,2022
+Indiana,Gravel,tons_in,68084.59796,thousand tons,2022
+Indiana,Cereal grains,tons_within,34758.65365,thousand tons,2022
+Indiana,Cereal grains,tons_out,28916.82987,thousand tons,2022
+Indiana,Cereal grains,tons_in,32807.28021,thousand tons,2022
+Indiana,Coal-n.e.c.,tons_within,25703.609,thousand tons,2022
+Indiana,Coal-n.e.c.,tons_out,21090.92696,thousand tons,2022
+Indiana,Coal-n.e.c.,tons_in,19335.64272,thousand tons,2022
+Indiana,Waste/scrap,tons_within,18081.83527,thousand tons,2022
+Indiana,Waste/scrap,tons_out,17177.2634,thousand tons,2022
+Indiana,Waste/scrap,tons_in,17649.78699,thousand tons,2022
+Indiana,Coal,tons_within,16964.62901,thousand tons,2022
+Indiana,Coal,tons_out,12940.96122,thousand tons,2022
+Indiana,Coal,tons_in,16621.49434,thousand tons,2022
+Indiana,Nonmetal min. prods.,tons_within,16406.43999,thousand tons,2022
+Indiana,Nonmetal min. prods.,tons_out,12699.49022,thousand tons,2022
+Indiana,Nonmetal min. prods.,tons_in,15421.69832,thousand tons,2022
+Indiana,Base metals,tons_within,15240.25491,thousand tons,2022
+Indiana,Base metals,tons_out,12321.56731,thousand tons,2022
+Indiana,Base metals,tons_in,12034.83487,thousand tons,2022
+Indiana,Gasoline,tons_within,14856.47496,thousand tons,2022
+Indiana,Gasoline,tons_out,10823.56048,thousand tons,2022
+Indiana,Gasoline,tons_in,10738.02264,thousand tons,2022
+Indiana,Other ag prods.,tons_within,14741.82834,thousand tons,2022
+Indiana,Other ag prods.,tons_out,10295.36315,thousand tons,2022
+Indiana,Other ag prods.,tons_in,7939.222184,thousand tons,2022
+Indiana,Motorized vehicles,tons_within,10736.10993,thousand tons,2022
+Indiana,Motorized vehicles,tons_out,8553.840797,thousand tons,2022
+Indiana,Motorized vehicles,tons_in,7630.77217,thousand tons,2022
+Iowa,Cereal grains,tons_within,122660.5697,thousand tons,2022
+Iowa,Cereal grains,tons_out,42141.02487,thousand tons,2022
+Iowa,Cereal grains,tons_in,56592.38628,thousand tons,2022
+Iowa,Gravel,tons_within,51057.21912,thousand tons,2022
+Iowa,Gravel,tons_out,25298.08129,thousand tons,2022
+Iowa,Gravel,tons_in,10267.2792,thousand tons,2022
+Iowa,Animal feed,tons_within,37279.18209,thousand tons,2022
+Iowa,Animal feed,tons_out,22618.66459,thousand tons,2022
+Iowa,Animal feed,tons_in,8072.712714,thousand tons,2022
+Iowa,Other ag prods.,tons_within,21387.36882,thousand tons,2022
+Iowa,Other ag prods.,tons_out,18558.85976,thousand tons,2022
+Iowa,Other ag prods.,tons_in,6309.481897,thousand tons,2022
+Iowa,Nonmetal min. prods.,tons_within,14305.70344,thousand tons,2022
+Iowa,Nonmetal min. prods.,tons_out,12658.63009,thousand tons,2022
+Iowa,Nonmetal min. prods.,tons_in,5562.396595,thousand tons,2022
+Iowa,Coal-n.e.c.,tons_within,12355.48206,thousand tons,2022
+Iowa,Coal-n.e.c.,tons_out,11807.35135,thousand tons,2022
+Iowa,Coal-n.e.c.,tons_in,4519.110615,thousand tons,2022
+Iowa,Fertilizers,tons_within,11277.21025,thousand tons,2022
+Iowa,Fertilizers,tons_out,8204.676012,thousand tons,2022
+Iowa,Fertilizers,tons_in,4121.233993,thousand tons,2022
+Iowa,Other foodstuffs,tons_within,10338.31281,thousand tons,2022
+Iowa,Other foodstuffs,tons_out,4668.489355,thousand tons,2022
+Iowa,Other foodstuffs,tons_in,4069.910309,thousand tons,2022
+Iowa,Live animals/fish,tons_within,9376.7822,thousand tons,2022
+Iowa,Live animals/fish,tons_out,4363.368648,thousand tons,2022
+Iowa,Live animals/fish,tons_in,4043.326688,thousand tons,2022
+Iowa,Waste/scrap,tons_within,4327.167938,thousand tons,2022
+Iowa,Waste/scrap,tons_out,4025.543659,thousand tons,2022
+Iowa,Waste/scrap,tons_in,3826.32078,thousand tons,2022
+Kansas,Cereal grains,tons_within,71923.56886,thousand tons,2022
+Kansas,Cereal grains,tons_out,47164.54642,thousand tons,2022
+Kansas,Cereal grains,tons_in,42277.23529,thousand tons,2022
+Kansas,Gravel,tons_within,25340.85066,thousand tons,2022
+Kansas,Gravel,tons_out,22607.39261,thousand tons,2022
+Kansas,Gravel,tons_in,17815.87903,thousand tons,2022
+Kansas,Fuel oils,tons_within,20270.53286,thousand tons,2022
+Kansas,Fuel oils,tons_out,6912.427191,thousand tons,2022
+Kansas,Fuel oils,tons_in,6758.86681,thousand tons,2022
+Kansas,Gasoline,tons_within,18997.35521,thousand tons,2022
+Kansas,Gasoline,tons_out,4621.883826,thousand tons,2022
+Kansas,Gasoline,tons_in,4230.302808,thousand tons,2022
+Kansas,Nonmetal min. prods.,tons_within,16918.38383,thousand tons,2022
+Kansas,Nonmetal min. prods.,tons_out,3930.335757,thousand tons,2022
+Kansas,Nonmetal min. prods.,tons_in,3968.663089,thousand tons,2022
+Kansas,Coal-n.e.c.,tons_within,14075.07418,thousand tons,2022
+Kansas,Coal-n.e.c.,tons_out,3762.147221,thousand tons,2022
+Kansas,Coal-n.e.c.,tons_in,3578.492477,thousand tons,2022
+Kansas,Other ag prods.,tons_within,12318.49538,thousand tons,2022
+Kansas,Other ag prods.,tons_out,3307.746496,thousand tons,2022
+Kansas,Other ag prods.,tons_in,3286.033316,thousand tons,2022
+Kansas,Natural sands,tons_within,8753.607404,thousand tons,2022
+Kansas,Natural sands,tons_out,3147.517373,thousand tons,2022
+Kansas,Natural sands,tons_in,2697.831736,thousand tons,2022
+Kansas,Fertilizers,tons_within,6626.454764,thousand tons,2022
+Kansas,Fertilizers,tons_out,2910.169948,thousand tons,2022
+Kansas,Fertilizers,tons_in,2660.43225,thousand tons,2022
+Kansas,Animal feed,tons_within,6308.476378,thousand tons,2022
+Kansas,Animal feed,tons_out,2659.305596,thousand tons,2022
+Kansas,Animal feed,tons_in,2560.332397,thousand tons,2022
+Kentucky,Gravel,tons_within,37412.88794,thousand tons,2022
+Kentucky,Gravel,tons_out,44843.54809,thousand tons,2022
+Kentucky,Gravel,tons_in,47241.20687,thousand tons,2022
+Kentucky,Gasoline,tons_within,13141.82684,thousand tons,2022
+Kentucky,Gasoline,tons_out,24624.17474,thousand tons,2022
+Kentucky,Gasoline,tons_in,20047.53981,thousand tons,2022
+Kentucky,Coal,tons_within,11262.78801,thousand tons,2022
+Kentucky,Coal,tons_out,10651.49624,thousand tons,2022
+Kentucky,Coal,tons_in,9403.123042,thousand tons,2022
+Kentucky,Coal-n.e.c.,tons_within,8979.692391,thousand tons,2022
+Kentucky,Coal-n.e.c.,tons_out,6821.702241,thousand tons,2022
+Kentucky,Coal-n.e.c.,tons_in,8050.161692,thousand tons,2022
+Kentucky,Cereal grains,tons_within,8803.903998,thousand tons,2022
+Kentucky,Cereal grains,tons_out,6814.304965,thousand tons,2022
+Kentucky,Cereal grains,tons_in,6462.130879,thousand tons,2022
+Kentucky,Waste/scrap,tons_within,8444.605739,thousand tons,2022
+Kentucky,Waste/scrap,tons_out,4673.825847,thousand tons,2022
+Kentucky,Waste/scrap,tons_in,5870.784186,thousand tons,2022
+Kentucky,Motorized vehicles,tons_within,7883.055489,thousand tons,2022
+Kentucky,Motorized vehicles,tons_out,4029.310155,thousand tons,2022
+Kentucky,Motorized vehicles,tons_in,4861.205271,thousand tons,2022
+Kentucky,Fuel oils,tons_within,7653.49232,thousand tons,2022
+Kentucky,Fuel oils,tons_out,3924.804346,thousand tons,2022
+Kentucky,Fuel oils,tons_in,4598.945164,thousand tons,2022
+Kentucky,Nonmetal min. prods.,tons_within,6867.758375,thousand tons,2022
+Kentucky,Nonmetal min. prods.,tons_out,3682.319532,thousand tons,2022
+Kentucky,Nonmetal min. prods.,tons_in,4236.92496,thousand tons,2022
+Kentucky,Logs,tons_within,6476.218337,thousand tons,2022
+Kentucky,Logs,tons_out,3289.150356,thousand tons,2022
+Kentucky,Logs,tons_in,4069.592989,thousand tons,2022
+Louisiana,Fuel oils,tons_within,101307.2902,thousand tons,2022
+Louisiana,Fuel oils,tons_out,104463.8098,thousand tons,2022
+Louisiana,Fuel oils,tons_in,131537.4969,thousand tons,2022
+Louisiana,Coal-n.e.c.,tons_within,76105.32298,thousand tons,2022
+Louisiana,Coal-n.e.c.,tons_out,42150.17161,thousand tons,2022
+Louisiana,Coal-n.e.c.,tons_in,79570.21909,thousand tons,2022
+Louisiana,Gasoline,tons_within,69485.50389,thousand tons,2022
+Louisiana,Gasoline,tons_out,40633.711,thousand tons,2022
+Louisiana,Gasoline,tons_in,44829.04402,thousand tons,2022
+Louisiana,Crude petroleum,tons_within,61589.07007,thousand tons,2022
+Louisiana,Crude petroleum,tons_out,36940.72766,thousand tons,2022
+Louisiana,Crude petroleum,tons_in,37560.11428,thousand tons,2022
+Louisiana,Other ag prods.,tons_within,46065.55953,thousand tons,2022
+Louisiana,Other ag prods.,tons_out,17445.3238,thousand tons,2022
+Louisiana,Other ag prods.,tons_in,18650.41874,thousand tons,2022
+Louisiana,Basic chemicals,tons_within,35635.53651,thousand tons,2022
+Louisiana,Basic chemicals,tons_out,10367.16395,thousand tons,2022
+Louisiana,Basic chemicals,tons_in,11652.04157,thousand tons,2022
+Louisiana,Cereal grains,tons_within,26520.14532,thousand tons,2022
+Louisiana,Cereal grains,tons_out,8533.145983,thousand tons,2022
+Louisiana,Cereal grains,tons_in,10131.49121,thousand tons,2022
+Louisiana,Gravel,tons_within,24982.7332,thousand tons,2022
+Louisiana,Gravel,tons_out,7708.61816,thousand tons,2022
+Louisiana,Gravel,tons_in,7214.522907,thousand tons,2022
+Louisiana,Nonmetal min. prods.,tons_within,23577.87231,thousand tons,2022
+Louisiana,Nonmetal min. prods.,tons_out,7372.718267,thousand tons,2022
+Louisiana,Nonmetal min. prods.,tons_in,6013.690896,thousand tons,2022
+Louisiana,Logs,tons_within,22192.63627,thousand tons,2022
+Louisiana,Logs,tons_out,6572.060147,thousand tons,2022
+Louisiana,Logs,tons_in,5578.280742,thousand tons,2022
+Maine,Logs,tons_within,16958.14396,thousand tons,2022
+Maine,Logs,tons_out,6929.422139,thousand tons,2022
+Maine,Logs,tons_in,3798.006112,thousand tons,2022
+Maine,Fuel oils,tons_within,4667.61397,thousand tons,2022
+Maine,Fuel oils,tons_out,2847.808532,thousand tons,2022
+Maine,Fuel oils,tons_in,1068.954109,thousand tons,2022
+Maine,Gravel,tons_within,4287.147778,thousand tons,2022
+Maine,Gravel,tons_out,2613.594961,thousand tons,2022
+Maine,Gravel,tons_in,1008.797546,thousand tons,2022
+Maine,Gasoline,tons_within,4186.665711,thousand tons,2022
+Maine,Gasoline,tons_out,1977.574132,thousand tons,2022
+Maine,Gasoline,tons_in,891.929774,thousand tons,2022
+Maine,Nonmetal min. prods.,tons_within,4105.198775,thousand tons,2022
+Maine,Nonmetal min. prods.,tons_out,1710.067363,thousand tons,2022
+Maine,Nonmetal min. prods.,tons_in,700.80897,thousand tons,2022
+Maine,Coal-n.e.c.,tons_within,3915.372212,thousand tons,2022
+Maine,Coal-n.e.c.,tons_out,1571.463729,thousand tons,2022
+Maine,Coal-n.e.c.,tons_in,564.317251,thousand tons,2022
+Maine,Wood prods.,tons_within,2355.605479,thousand tons,2022
+Maine,Wood prods.,tons_out,1507.121616,thousand tons,2022
+Maine,Wood prods.,tons_in,520.438555,thousand tons,2022
+Maine,Basic chemicals,tons_within,2058.937416,thousand tons,2022
+Maine,Basic chemicals,tons_out,1035.676909,thousand tons,2022
+Maine,Basic chemicals,tons_in,420.334136,thousand tons,2022
+Maine,Waste/scrap,tons_within,1999.826278,thousand tons,2022
+Maine,Waste/scrap,tons_out,503.925823,thousand tons,2022
+Maine,Waste/scrap,tons_in,405.718,thousand tons,2022
+Maine,Other foodstuffs,tons_within,1652.653854,thousand tons,2022
+Maine,Other foodstuffs,tons_out,489.940228,thousand tons,2022
+Maine,Other foodstuffs,tons_in,391.181685,thousand tons,2022
+Maryland,Gravel,tons_within,35082.83981,thousand tons,2022
+Maryland,Gravel,tons_out,13516.82252,thousand tons,2022
+Maryland,Gravel,tons_in,17275.19369,thousand tons,2022
+Maryland,Nonmetal min. prods.,tons_within,15814.49467,thousand tons,2022
+Maryland,Nonmetal min. prods.,tons_out,6918.780714,thousand tons,2022
+Maryland,Nonmetal min. prods.,tons_in,13844.61136,thousand tons,2022
+Maryland,Coal-n.e.c.,tons_within,9741.852394,thousand tons,2022
+Maryland,Coal-n.e.c.,tons_out,6693.728733,thousand tons,2022
+Maryland,Coal-n.e.c.,tons_in,4213.087462,thousand tons,2022
+Maryland,Waste/scrap,tons_within,9107.262496,thousand tons,2022
+Maryland,Waste/scrap,tons_out,5865.13737,thousand tons,2022
+Maryland,Waste/scrap,tons_in,4189.718622,thousand tons,2022
+Maryland,Gasoline,tons_within,7557.290254,thousand tons,2022
+Maryland,Gasoline,tons_out,5509.481494,thousand tons,2022
+Maryland,Gasoline,tons_in,4180.21232,thousand tons,2022
+Maryland,Natural sands,tons_within,7328.318674,thousand tons,2022
+Maryland,Natural sands,tons_out,2854.237842,thousand tons,2022
+Maryland,Natural sands,tons_in,4162.436251,thousand tons,2022
+Maryland,Other foodstuffs,tons_within,5228.738636,thousand tons,2022
+Maryland,Other foodstuffs,tons_out,2852.597114,thousand tons,2022
+Maryland,Other foodstuffs,tons_in,3988.656032,thousand tons,2022
+Maryland,Mixed freight,tons_within,4291.893734,thousand tons,2022
+Maryland,Mixed freight,tons_out,2434.37747,thousand tons,2022
+Maryland,Mixed freight,tons_in,3718.547909,thousand tons,2022
+Maryland,Wood prods.,tons_within,3537.941126,thousand tons,2022
+Maryland,Wood prods.,tons_out,2046.907173,thousand tons,2022
+Maryland,Wood prods.,tons_in,2597.77995,thousand tons,2022
+Maryland,Other ag prods.,tons_within,3363.052286,thousand tons,2022
+Maryland,Other ag prods.,tons_out,1994.177138,thousand tons,2022
+Maryland,Other ag prods.,tons_in,2456.360798,thousand tons,2022
+Massachusetts,Gravel,tons_within,26158.98754,thousand tons,2022
+Massachusetts,Gravel,tons_out,17034.77498,thousand tons,2022
+Massachusetts,Gravel,tons_in,13356.47329,thousand tons,2022
+Massachusetts,Coal-n.e.c.,tons_within,24196.67431,thousand tons,2022
+Massachusetts,Coal-n.e.c.,tons_out,8028.707293,thousand tons,2022
+Massachusetts,Coal-n.e.c.,tons_in,5901.598683,thousand tons,2022
+Massachusetts,Gasoline,tons_within,15613.04104,thousand tons,2022
+Massachusetts,Gasoline,tons_out,5252.097856,thousand tons,2022
+Massachusetts,Gasoline,tons_in,4809.092881,thousand tons,2022
+Massachusetts,Nonmetal min. prods.,tons_within,15557.74148,thousand tons,2022
+Massachusetts,Nonmetal min. prods.,tons_out,4683.285433,thousand tons,2022
+Massachusetts,Nonmetal min. prods.,tons_in,4374.836134,thousand tons,2022
+Massachusetts,Fuel oils,tons_within,10982.54607,thousand tons,2022
+Massachusetts,Fuel oils,tons_out,3534.932169,thousand tons,2022
+Massachusetts,Fuel oils,tons_in,2862.294473,thousand tons,2022
+Massachusetts,Waste/scrap,tons_within,8078.129058,thousand tons,2022
+Massachusetts,Waste/scrap,tons_out,2425.65947,thousand tons,2022
+Massachusetts,Waste/scrap,tons_in,2739.83122,thousand tons,2022
+Massachusetts,Natural sands,tons_within,4707.888247,thousand tons,2022
+Massachusetts,Natural sands,tons_out,1696.81823,thousand tons,2022
+Massachusetts,Natural sands,tons_in,2714.459921,thousand tons,2022
+Massachusetts,Mixed freight,tons_within,4359.136774,thousand tons,2022
+Massachusetts,Mixed freight,tons_out,1590.31807,thousand tons,2022
+Massachusetts,Mixed freight,tons_in,2440.381263,thousand tons,2022
+Massachusetts,Other foodstuffs,tons_within,3559.014956,thousand tons,2022
+Massachusetts,Other foodstuffs,tons_out,1458.513516,thousand tons,2022
+Massachusetts,Other foodstuffs,tons_in,2007.162228,thousand tons,2022
+Massachusetts,Wood prods.,tons_within,2110.40458,thousand tons,2022
+Massachusetts,Wood prods.,tons_out,1308.597966,thousand tons,2022
+Massachusetts,Wood prods.,tons_in,2006.747202,thousand tons,2022
+Michigan,Gravel,tons_within,73752.44185,thousand tons,2022
+Michigan,Gravel,tons_out,17043.38901,thousand tons,2022
+Michigan,Gravel,tons_in,55845.0975,thousand tons,2022
+Michigan,Natural sands,tons_within,50406.50376,thousand tons,2022
+Michigan,Natural sands,tons_out,16147.40747,thousand tons,2022
+Michigan,Natural sands,tons_in,41463.34927,thousand tons,2022
+Michigan,Gasoline,tons_within,28540.04537,thousand tons,2022
+Michigan,Gasoline,tons_out,14131.52627,thousand tons,2022
+Michigan,Gasoline,tons_in,14697.80418,thousand tons,2022
+Michigan,Nonmetal min. prods.,tons_within,26726.20204,thousand tons,2022
+Michigan,Nonmetal min. prods.,tons_out,11597.10506,thousand tons,2022
+Michigan,Nonmetal min. prods.,tons_in,14504.35016,thousand tons,2022
+Michigan,Coal-n.e.c.,tons_within,25550.2859,thousand tons,2022
+Michigan,Coal-n.e.c.,tons_out,8866.830497,thousand tons,2022
+Michigan,Coal-n.e.c.,tons_in,10466.91361,thousand tons,2022
+Michigan,Waste/scrap,tons_within,18986.42436,thousand tons,2022
+Michigan,Waste/scrap,tons_out,8783.688561,thousand tons,2022
+Michigan,Waste/scrap,tons_in,10115.45816,thousand tons,2022
+Michigan,Metallic ores,tons_within,18194.46951,thousand tons,2022
+Michigan,Metallic ores,tons_out,8619.610439,thousand tons,2022
+Michigan,Metallic ores,tons_in,9905.528306,thousand tons,2022
+Michigan,Motorized vehicles,tons_within,16983.75732,thousand tons,2022
+Michigan,Motorized vehicles,tons_out,8043.293492,thousand tons,2022
+Michigan,Motorized vehicles,tons_in,8078.982766,thousand tons,2022
+Michigan,Logs,tons_within,16768.16099,thousand tons,2022
+Michigan,Logs,tons_out,7580.777917,thousand tons,2022
+Michigan,Logs,tons_in,6396.77362,thousand tons,2022
+Michigan,Other ag prods.,tons_within,12574.62419,thousand tons,2022
+Michigan,Other ag prods.,tons_out,7400.860803,thousand tons,2022
+Michigan,Other ag prods.,tons_in,6323.390704,thousand tons,2022
+Minnesota,Cereal grains,tons_within,76102.96987,thousand tons,2022
+Minnesota,Cereal grains,tons_out,48008.33763,thousand tons,2022
+Minnesota,Cereal grains,tons_in,51099.84602,thousand tons,2022
+Minnesota,Gravel,tons_within,52147.4046,thousand tons,2022
+Minnesota,Gravel,tons_out,28963.99281,thousand tons,2022
+Minnesota,Gravel,tons_in,33540.24436,thousand tons,2022
+Minnesota,Other ag prods.,tons_within,36189.7257,thousand tons,2022
+Minnesota,Other ag prods.,tons_out,24870.9084,thousand tons,2022
+Minnesota,Other ag prods.,tons_in,17383.99604,thousand tons,2022
+Minnesota,Coal-n.e.c.,tons_within,33389.95076,thousand tons,2022
+Minnesota,Coal-n.e.c.,tons_out,10021.78639,thousand tons,2022
+Minnesota,Coal-n.e.c.,tons_in,15223.72218,thousand tons,2022
+Minnesota,Nonmetal min. prods.,tons_within,21353.64485,thousand tons,2022
+Minnesota,Nonmetal min. prods.,tons_out,9447.512895,thousand tons,2022
+Minnesota,Nonmetal min. prods.,tons_in,8983.396959,thousand tons,2022
+Minnesota,Gasoline,tons_within,20691.38159,thousand tons,2022
+Minnesota,Gasoline,tons_out,7581.955546,thousand tons,2022
+Minnesota,Gasoline,tons_in,7974.511504,thousand tons,2022
+Minnesota,Animal feed,tons_within,13963.7908,thousand tons,2022
+Minnesota,Animal feed,tons_out,7130.491987,thousand tons,2022
+Minnesota,Animal feed,tons_in,7203.757093,thousand tons,2022
+Minnesota,Metallic ores,tons_within,12136.29228,thousand tons,2022
+Minnesota,Metallic ores,tons_out,6920.495314,thousand tons,2022
+Minnesota,Metallic ores,tons_in,5466.985146,thousand tons,2022
+Minnesota,Nonmetallic minerals,tons_within,11940.92346,thousand tons,2022
+Minnesota,Nonmetallic minerals,tons_out,6496.683829,thousand tons,2022
+Minnesota,Nonmetallic minerals,tons_in,4833.972255,thousand tons,2022
+Minnesota,Other foodstuffs,tons_within,11675.41182,thousand tons,2022
+Minnesota,Other foodstuffs,tons_out,6252.797866,thousand tons,2022
+Minnesota,Other foodstuffs,tons_in,4448.419932,thousand tons,2022
+Mississippi,Logs,tons_within,27268.58602,thousand tons,2022
+Mississippi,Logs,tons_out,108020.2849,thousand tons,2022
+Mississippi,Logs,tons_in,114484.6658,thousand tons,2022
+Mississippi,Coal-n.e.c.,tons_within,25416.59689,thousand tons,2022
+Mississippi,Coal-n.e.c.,tons_out,7388.937093,thousand tons,2022
+Mississippi,Coal-n.e.c.,tons_in,8957.43597,thousand tons,2022
+Mississippi,Gasoline,tons_within,6101.045345,thousand tons,2022
+Mississippi,Gasoline,tons_out,6032.638078,thousand tons,2022
+Mississippi,Gasoline,tons_in,7000.097356,thousand tons,2022
+Mississippi,Nonmetal min. prods.,tons_within,5993.157532,thousand tons,2022
+Mississippi,Nonmetal min. prods.,tons_out,5353.200699,thousand tons,2022
+Mississippi,Nonmetal min. prods.,tons_in,6905.888694,thousand tons,2022
+Mississippi,Fuel oils,tons_within,5901.070425,thousand tons,2022
+Mississippi,Fuel oils,tons_out,5260.315644,thousand tons,2022
+Mississippi,Fuel oils,tons_in,6077.030213,thousand tons,2022
+Mississippi,Gravel,tons_within,5673.067502,thousand tons,2022
+Mississippi,Gravel,tons_out,4256.849142,thousand tons,2022
+Mississippi,Gravel,tons_in,5835.639776,thousand tons,2022
+Mississippi,Other ag prods.,tons_within,4634.349925,thousand tons,2022
+Mississippi,Other ag prods.,tons_out,2930.33984,thousand tons,2022
+Mississippi,Other ag prods.,tons_in,5762.736013,thousand tons,2022
+Mississippi,Animal feed,tons_within,4576.874252,thousand tons,2022
+Mississippi,Animal feed,tons_out,2909.735855,thousand tons,2022
+Mississippi,Animal feed,tons_in,3505.685048,thousand tons,2022
+Mississippi,Wood prods.,tons_within,4526.629924,thousand tons,2022
+Mississippi,Wood prods.,tons_out,2282.985197,thousand tons,2022
+Mississippi,Wood prods.,tons_in,3491.071763,thousand tons,2022
+Mississippi,Waste/scrap,tons_within,3543.339251,thousand tons,2022
+Mississippi,Waste/scrap,tons_out,2280.205902,thousand tons,2022
+Mississippi,Waste/scrap,tons_in,2813.587039,thousand tons,2022
+Missouri,Gravel,tons_within,51081.94733,thousand tons,2022
+Missouri,Gravel,tons_out,21598.25456,thousand tons,2022
+Missouri,Gravel,tons_in,38049.34706,thousand tons,2022
+Missouri,Cereal grains,tons_within,25846.58034,thousand tons,2022
+Missouri,Cereal grains,tons_out,13905.84008,thousand tons,2022
+Missouri,Cereal grains,tons_in,18869.88751,thousand tons,2022
+Missouri,Nonmetal min. prods.,tons_within,20310.02123,thousand tons,2022
+Missouri,Nonmetal min. prods.,tons_out,10161.55034,thousand tons,2022
+Missouri,Nonmetal min. prods.,tons_in,8212.805935,thousand tons,2022
+Missouri,Natural sands,tons_within,14774.0442,thousand tons,2022
+Missouri,Natural sands,tons_out,9814.82988,thousand tons,2022
+Missouri,Natural sands,tons_in,6048.362488,thousand tons,2022
+Missouri,Other ag prods.,tons_within,10154.18071,thousand tons,2022
+Missouri,Other ag prods.,tons_out,7432.794915,thousand tons,2022
+Missouri,Other ag prods.,tons_in,4925.976589,thousand tons,2022
+Missouri,Coal-n.e.c.,tons_within,10056.26272,thousand tons,2022
+Missouri,Coal-n.e.c.,tons_out,6003.72503,thousand tons,2022
+Missouri,Coal-n.e.c.,tons_in,4825.768504,thousand tons,2022
+Missouri,Animal feed,tons_within,8069.568818,thousand tons,2022
+Missouri,Animal feed,tons_out,5938.219953,thousand tons,2022
+Missouri,Animal feed,tons_in,4786.594499,thousand tons,2022
+Missouri,Logs,tons_within,7979.474235,thousand tons,2022
+Missouri,Logs,tons_out,5187.799554,thousand tons,2022
+Missouri,Logs,tons_in,4658.667893,thousand tons,2022
+Missouri,Mixed freight,tons_within,6854.468596,thousand tons,2022
+Missouri,Mixed freight,tons_out,4188.121301,thousand tons,2022
+Missouri,Mixed freight,tons_in,4503.220973,thousand tons,2022
+Missouri,Fuel oils,tons_within,6513.616025,thousand tons,2022
+Missouri,Fuel oils,tons_out,4169.415332,thousand tons,2022
+Missouri,Fuel oils,tons_in,4376.447204,thousand tons,2022
+Montana,Coal-n.e.c.,tons_within,20266.7989,thousand tons,2022
+Montana,Coal-n.e.c.,tons_out,22062.50371,thousand tons,2022
+Montana,Coal-n.e.c.,tons_in,6474.87818,thousand tons,2022
+Montana,Crude petroleum,tons_within,10315.76906,thousand tons,2022
+Montana,Crude petroleum,tons_out,16240.52189,thousand tons,2022
+Montana,Crude petroleum,tons_in,1971.626839,thousand tons,2022
+Montana,Gravel,tons_within,7707.638796,thousand tons,2022
+Montana,Gravel,tons_out,11949.3358,thousand tons,2022
+Montana,Gravel,tons_in,1650.604313,thousand tons,2022
+Montana,Gasoline,tons_within,7499.196321,thousand tons,2022
+Montana,Gasoline,tons_out,7572.974273,thousand tons,2022
+Montana,Gasoline,tons_in,1634.432562,thousand tons,2022
+Montana,Coal,tons_within,5923.065866,thousand tons,2022
+Montana,Coal,tons_out,2724.310567,thousand tons,2022
+Montana,Coal,tons_in,1453.696149,thousand tons,2022
+Montana,Cereal grains,tons_within,4124.871943,thousand tons,2022
+Montana,Cereal grains,tons_out,2524.375603,thousand tons,2022
+Montana,Cereal grains,tons_in,1192.631569,thousand tons,2022
+Montana,Logs,tons_within,3983.091949,thousand tons,2022
+Montana,Logs,tons_out,2433.846555,thousand tons,2022
+Montana,Logs,tons_in,1011.208899,thousand tons,2022
+Montana,Nonmetal min. prods.,tons_within,3463.946824,thousand tons,2022
+Montana,Nonmetal min. prods.,tons_out,1996.229728,thousand tons,2022
+Montana,Nonmetal min. prods.,tons_in,838.331156,thousand tons,2022
+Montana,Fuel oils,tons_within,3302.54263,thousand tons,2022
+Montana,Fuel oils,tons_out,1114.332197,thousand tons,2022
+Montana,Fuel oils,tons_in,733.783171,thousand tons,2022
+Montana,Waste/scrap,tons_within,2161.331254,thousand tons,2022
+Montana,Waste/scrap,tons_out,604.284618,thousand tons,2022
+Montana,Waste/scrap,tons_in,698.442605,thousand tons,2022
+Nebraska,Cereal grains,tons_within,89947.5478,thousand tons,2022
+Nebraska,Cereal grains,tons_out,55600.98157,thousand tons,2022
+Nebraska,Cereal grains,tons_in,54411.685,thousand tons,2022
+Nebraska,Animal feed,tons_within,27649.68142,thousand tons,2022
+Nebraska,Animal feed,tons_out,17721.14803,thousand tons,2022
+Nebraska,Animal feed,tons_in,12253.25749,thousand tons,2022
+Nebraska,Other ag prods.,tons_within,15506.22426,thousand tons,2022
+Nebraska,Other ag prods.,tons_out,9079.932776,thousand tons,2022
+Nebraska,Other ag prods.,tons_in,4472.410989,thousand tons,2022
+Nebraska,Natural sands,tons_within,13308.54936,thousand tons,2022
+Nebraska,Natural sands,tons_out,6815.587428,thousand tons,2022
+Nebraska,Natural sands,tons_in,4432.686479,thousand tons,2022
+Nebraska,Gravel,tons_within,12973.76015,thousand tons,2022
+Nebraska,Gravel,tons_out,4911.261186,thousand tons,2022
+Nebraska,Gravel,tons_in,3813.073967,thousand tons,2022
+Nebraska,Nonmetal min. prods.,tons_within,12609.52795,thousand tons,2022
+Nebraska,Nonmetal min. prods.,tons_out,4310.782137,thousand tons,2022
+Nebraska,Nonmetal min. prods.,tons_in,3018.397477,thousand tons,2022
+Nebraska,Other foodstuffs,tons_within,8861.496464,thousand tons,2022
+Nebraska,Other foodstuffs,tons_out,3083.844747,thousand tons,2022
+Nebraska,Other foodstuffs,tons_in,2974.847619,thousand tons,2022
+Nebraska,Fertilizers,tons_within,7495.701237,thousand tons,2022
+Nebraska,Fertilizers,tons_out,2996.070011,thousand tons,2022
+Nebraska,Fertilizers,tons_in,2793.17558,thousand tons,2022
+Nebraska,Live animals/fish,tons_within,3979.51383,thousand tons,2022
+Nebraska,Live animals/fish,tons_out,2000.853267,thousand tons,2022
+Nebraska,Live animals/fish,tons_in,2098.926658,thousand tons,2022
+Nebraska,Coal-n.e.c.,tons_within,3908.413712,thousand tons,2022
+Nebraska,Coal-n.e.c.,tons_out,1891.897198,thousand tons,2022
+Nebraska,Coal-n.e.c.,tons_in,2088.891133,thousand tons,2022
+Nevada,Gravel,tons_within,18580.66318,thousand tons,2022
+Nevada,Gravel,tons_out,14647.3064,thousand tons,2022
+Nevada,Gravel,tons_in,27332.03197,thousand tons,2022
+Nevada,Nonmetal min. prods.,tons_within,12520.98737,thousand tons,2022
+Nevada,Nonmetal min. prods.,tons_out,3974.539057,thousand tons,2022
+Nevada,Nonmetal min. prods.,tons_in,3084.738343,thousand tons,2022
+Nevada,Coal-n.e.c.,tons_within,7249.945646,thousand tons,2022
+Nevada,Coal-n.e.c.,tons_out,3415.71925,thousand tons,2022
+Nevada,Coal-n.e.c.,tons_in,2812.142085,thousand tons,2022
+Nevada,Natural sands,tons_within,6153.81897,thousand tons,2022
+Nevada,Natural sands,tons_out,3321.585416,thousand tons,2022
+Nevada,Natural sands,tons_in,2574.056351,thousand tons,2022
+Nevada,Waste/scrap,tons_within,6105.478514,thousand tons,2022
+Nevada,Waste/scrap,tons_out,942.208528,thousand tons,2022
+Nevada,Waste/scrap,tons_in,1306.009342,thousand tons,2022
+Nevada,Fuel oils,tons_within,2066.863491,thousand tons,2022
+Nevada,Fuel oils,tons_out,527.738363,thousand tons,2022
+Nevada,Fuel oils,tons_in,1245.61481,thousand tons,2022
+Nevada,Nonmetallic minerals,tons_within,1634.033648,thousand tons,2022
+Nevada,Nonmetallic minerals,tons_out,493.560855,thousand tons,2022
+Nevada,Nonmetallic minerals,tons_in,1137.608283,thousand tons,2022
+Nevada,Other foodstuffs,tons_within,1352.522403,thousand tons,2022
+Nevada,Other foodstuffs,tons_out,491.386728,thousand tons,2022
+Nevada,Other foodstuffs,tons_in,1090.658064,thousand tons,2022
+Nevada,Wood prods.,tons_within,864.519305,thousand tons,2022
+Nevada,Wood prods.,tons_out,405.210041,thousand tons,2022
+Nevada,Wood prods.,tons_in,1067.068628,thousand tons,2022
+Nevada,Alcoholic beverages,tons_within,851.632302,thousand tons,2022
+Nevada,Alcoholic beverages,tons_out,372.515485,thousand tons,2022
+Nevada,Alcoholic beverages,tons_in,1020.971133,thousand tons,2022
+New Hampshire,Fuel oils,tons_within,6734.746984,thousand tons,2022
+New Hampshire,Fuel oils,tons_out,3004.551901,thousand tons,2022
+New Hampshire,Fuel oils,tons_in,15415.0699,thousand tons,2022
+New Hampshire,Gravel,tons_within,6537.408875,thousand tons,2022
+New Hampshire,Gravel,tons_out,2337.67391,thousand tons,2022
+New Hampshire,Gravel,tons_in,4343.99626,thousand tons,2022
+New Hampshire,Natural sands,tons_within,6510.33561,thousand tons,2022
+New Hampshire,Natural sands,tons_out,1314.671623,thousand tons,2022
+New Hampshire,Natural sands,tons_in,2958.208435,thousand tons,2022
+New Hampshire,Coal-n.e.c.,tons_within,6114.155066,thousand tons,2022
+New Hampshire,Coal-n.e.c.,tons_out,1119.277182,thousand tons,2022
+New Hampshire,Coal-n.e.c.,tons_in,2348.88931,thousand tons,2022
+New Hampshire,Nonmetal min. prods.,tons_within,3589.950885,thousand tons,2022
+New Hampshire,Nonmetal min. prods.,tons_out,970.159041,thousand tons,2022
+New Hampshire,Nonmetal min. prods.,tons_in,1247.62056,thousand tons,2022
+New Hampshire,Logs,tons_within,3238.804184,thousand tons,2022
+New Hampshire,Logs,tons_out,872.065892,thousand tons,2022
+New Hampshire,Logs,tons_in,1111.318113,thousand tons,2022
+New Hampshire,Nonmetallic minerals,tons_within,1707.733045,thousand tons,2022
+New Hampshire,Nonmetallic minerals,tons_out,654.270641,thousand tons,2022
+New Hampshire,Nonmetallic minerals,tons_in,1069.611629,thousand tons,2022
+New Hampshire,Waste/scrap,tons_within,1608.778852,thousand tons,2022
+New Hampshire,Waste/scrap,tons_out,630.923723,thousand tons,2022
+New Hampshire,Waste/scrap,tons_in,997.740001,thousand tons,2022
+New Hampshire,Other foodstuffs,tons_within,944.353696,thousand tons,2022
+New Hampshire,Other foodstuffs,tons_out,602.02419,thousand tons,2022
+New Hampshire,Other foodstuffs,tons_in,754.505555,thousand tons,2022
+New Hampshire,Wood prods.,tons_within,857.833057,thousand tons,2022
+New Hampshire,Wood prods.,tons_out,486.646176,thousand tons,2022
+New Hampshire,Wood prods.,tons_in,586.848452,thousand tons,2022
+New Jersey,Coal-n.e.c.,tons_within,37498.24502,thousand tons,2022
+New Jersey,Coal-n.e.c.,tons_out,30953.49219,thousand tons,2022
+New Jersey,Coal-n.e.c.,tons_in,39757.54058,thousand tons,2022
+New Jersey,Gravel,tons_within,32922.9438,thousand tons,2022
+New Jersey,Gravel,tons_out,11420.86325,thousand tons,2022
+New Jersey,Gravel,tons_in,11377.82789,thousand tons,2022
+New Jersey,Gasoline,tons_within,31094.20611,thousand tons,2022
+New Jersey,Gasoline,tons_out,9512.951886,thousand tons,2022
+New Jersey,Gasoline,tons_in,10201.43782,thousand tons,2022
+New Jersey,Waste/scrap,tons_within,19059.3062,thousand tons,2022
+New Jersey,Waste/scrap,tons_out,9083.53039,thousand tons,2022
+New Jersey,Waste/scrap,tons_in,9184.95248,thousand tons,2022
+New Jersey,Nonmetal min. prods.,tons_within,17340.28714,thousand tons,2022
+New Jersey,Nonmetal min. prods.,tons_out,7744.666655,thousand tons,2022
+New Jersey,Nonmetal min. prods.,tons_in,7885.282747,thousand tons,2022
+New Jersey,Fuel oils,tons_within,16136.13809,thousand tons,2022
+New Jersey,Fuel oils,tons_out,7456.609528,thousand tons,2022
+New Jersey,Fuel oils,tons_in,7429.205714,thousand tons,2022
+New Jersey,Other foodstuffs,tons_within,13157.56124,thousand tons,2022
+New Jersey,Other foodstuffs,tons_out,6025.914849,thousand tons,2022
+New Jersey,Other foodstuffs,tons_in,7330.600193,thousand tons,2022
+New Jersey,Natural sands,tons_within,12921.18218,thousand tons,2022
+New Jersey,Natural sands,tons_out,4652.524029,thousand tons,2022
+New Jersey,Natural sands,tons_in,5669.201059,thousand tons,2022
+New Jersey,Crude petroleum,tons_within,8772.615102,thousand tons,2022
+New Jersey,Crude petroleum,tons_out,4250.72496,thousand tons,2022
+New Jersey,Crude petroleum,tons_in,5637.483711,thousand tons,2022
+New Jersey,Wood prods.,tons_within,4724.956397,thousand tons,2022
+New Jersey,Wood prods.,tons_out,3951.679948,thousand tons,2022
+New Jersey,Wood prods.,tons_in,5105.475374,thousand tons,2022
+New Mexico,Coal-n.e.c.,tons_within,9936.518761,thousand tons,2022
+New Mexico,Coal-n.e.c.,tons_out,38705.76457,thousand tons,2022
+New Mexico,Coal-n.e.c.,tons_in,12981.06004,thousand tons,2022
+New Mexico,Gravel,tons_within,9629.1084,thousand tons,2022
+New Mexico,Gravel,tons_out,26814.24163,thousand tons,2022
+New Mexico,Gravel,tons_in,7309.238859,thousand tons,2022
+New Mexico,Coal,tons_within,9309.439079,thousand tons,2022
+New Mexico,Coal,tons_out,5406.664012,thousand tons,2022
+New Mexico,Coal,tons_in,2385.392168,thousand tons,2022
+New Mexico,Nonmetal min. prods.,tons_within,4536.204083,thousand tons,2022
+New Mexico,Nonmetal min. prods.,tons_out,2398.043482,thousand tons,2022
+New Mexico,Nonmetal min. prods.,tons_in,2255.045316,thousand tons,2022
+New Mexico,Fuel oils,tons_within,4060.42137,thousand tons,2022
+New Mexico,Fuel oils,tons_out,1728.170312,thousand tons,2022
+New Mexico,Fuel oils,tons_in,1989.397266,thousand tons,2022
+New Mexico,Other foodstuffs,tons_within,3768.972894,thousand tons,2022
+New Mexico,Other foodstuffs,tons_out,1180.016756,thousand tons,2022
+New Mexico,Other foodstuffs,tons_in,1573.323536,thousand tons,2022
+New Mexico,Waste/scrap,tons_within,2547.429771,thousand tons,2022
+New Mexico,Waste/scrap,tons_out,1105.691239,thousand tons,2022
+New Mexico,Waste/scrap,tons_in,1496.477901,thousand tons,2022
+New Mexico,Mixed freight,tons_within,1969.812466,thousand tons,2022
+New Mexico,Mixed freight,tons_out,1105.586497,thousand tons,2022
+New Mexico,Mixed freight,tons_in,1467.907011,thousand tons,2022
+New Mexico,Gasoline,tons_within,1638.693,thousand tons,2022
+New Mexico,Gasoline,tons_out,658.629689,thousand tons,2022
+New Mexico,Gasoline,tons_in,1126.508083,thousand tons,2022
+New Mexico,Animal feed,tons_within,1165.313707,thousand tons,2022
+New Mexico,Animal feed,tons_out,563.099227,thousand tons,2022
+New Mexico,Animal feed,tons_in,1075.650215,thousand tons,2022
+New York,Gravel,tons_within,68340.81063,thousand tons,2022
+New York,Gravel,tons_out,31665.88433,thousand tons,2022
+New York,Gravel,tons_in,73629.4936,thousand tons,2022
+New York,Coal-n.e.c.,tons_within,55884.89839,thousand tons,2022
+New York,Coal-n.e.c.,tons_out,16928.01683,thousand tons,2022
+New York,Coal-n.e.c.,tons_in,16659.46957,thousand tons,2022
+New York,Nonmetal min. prods.,tons_within,49264.6532,thousand tons,2022
+New York,Nonmetal min. prods.,tons_out,7427.77698,thousand tons,2022
+New York,Nonmetal min. prods.,tons_in,13406.59792,thousand tons,2022
+New York,Waste/scrap,tons_within,26757.65865,thousand tons,2022
+New York,Waste/scrap,tons_out,6254.638705,thousand tons,2022
+New York,Waste/scrap,tons_in,8288.056725,thousand tons,2022
+New York,Nonmetallic minerals,tons_within,25184.29282,thousand tons,2022
+New York,Nonmetallic minerals,tons_out,6097.495658,thousand tons,2022
+New York,Nonmetallic minerals,tons_in,7339.426582,thousand tons,2022
+New York,Other foodstuffs,tons_within,21318.85483,thousand tons,2022
+New York,Other foodstuffs,tons_out,5970.009556,thousand tons,2022
+New York,Other foodstuffs,tons_in,7003.212756,thousand tons,2022
+New York,Fuel oils,tons_within,20912.65787,thousand tons,2022
+New York,Fuel oils,tons_out,5850.135516,thousand tons,2022
+New York,Fuel oils,tons_in,6868.483506,thousand tons,2022
+New York,Gasoline,tons_within,19372.57102,thousand tons,2022
+New York,Gasoline,tons_out,5699.308474,thousand tons,2022
+New York,Gasoline,tons_in,4886.477551,thousand tons,2022
+New York,Natural sands,tons_within,17049.60547,thousand tons,2022
+New York,Natural sands,tons_out,5504.214445,thousand tons,2022
+New York,Natural sands,tons_in,4817.155737,thousand tons,2022
+New York,Mixed freight,tons_within,13416.95229,thousand tons,2022
+New York,Mixed freight,tons_out,5006.585566,thousand tons,2022
+New York,Mixed freight,tons_in,4539.833986,thousand tons,2022
+North Carolina,Gravel,tons_within,51635.85608,thousand tons,2022
+North Carolina,Gravel,tons_out,10051.15967,thousand tons,2022
+North Carolina,Gravel,tons_in,15147.38835,thousand tons,2022
+North Carolina,Nonmetal min. prods.,tons_within,23206.71081,thousand tons,2022
+North Carolina,Nonmetal min. prods.,tons_out,6367.25306,thousand tons,2022
+North Carolina,Nonmetal min. prods.,tons_in,11806.56513,thousand tons,2022
+North Carolina,Logs,tons_within,22416.41295,thousand tons,2022
+North Carolina,Logs,tons_out,5738.062261,thousand tons,2022
+North Carolina,Logs,tons_in,8477.07234,thousand tons,2022
+North Carolina,Wood prods.,tons_within,19602.55907,thousand tons,2022
+North Carolina,Wood prods.,tons_out,4654.074045,thousand tons,2022
+North Carolina,Wood prods.,tons_in,7487.538498,thousand tons,2022
+North Carolina,Coal-n.e.c.,tons_within,18934.01996,thousand tons,2022
+North Carolina,Coal-n.e.c.,tons_out,4566.078438,thousand tons,2022
+North Carolina,Coal-n.e.c.,tons_in,7104.228061,thousand tons,2022
+North Carolina,Gasoline,tons_within,14859.97626,thousand tons,2022
+North Carolina,Gasoline,tons_out,4307.509965,thousand tons,2022
+North Carolina,Gasoline,tons_in,6597.373025,thousand tons,2022
+North Carolina,Waste/scrap,tons_within,14158.57637,thousand tons,2022
+North Carolina,Waste/scrap,tons_out,4068.342632,thousand tons,2022
+North Carolina,Waste/scrap,tons_in,6306.861249,thousand tons,2022
+North Carolina,Natural sands,tons_within,11014.07948,thousand tons,2022
+North Carolina,Natural sands,tons_out,4002.670131,thousand tons,2022
+North Carolina,Natural sands,tons_in,6057.231096,thousand tons,2022
+North Carolina,Animal feed,tons_within,10871.99487,thousand tons,2022
+North Carolina,Animal feed,tons_out,3980.307427,thousand tons,2022
+North Carolina,Animal feed,tons_in,5559.438018,thousand tons,2022
+North Carolina,Other ag prods.,tons_within,10271.42572,thousand tons,2022
+North Carolina,Other ag prods.,tons_out,3494.435854,thousand tons,2022
+North Carolina,Other ag prods.,tons_in,4883.881914,thousand tons,2022
+North Dakota,Coal,tons_within,37155.05114,thousand tons,2022
+North Dakota,Coal,tons_out,220469.6817,thousand tons,2022
+North Dakota,Coal,tons_in,14478.25483,thousand tons,2022
+North Dakota,Cereal grains,tons_within,31610.43744,thousand tons,2022
+North Dakota,Cereal grains,tons_out,48616.94519,thousand tons,2022
+North Dakota,Cereal grains,tons_in,10243.41362,thousand tons,2022
+North Dakota,Coal-n.e.c.,tons_within,20255.90995,thousand tons,2022
+North Dakota,Coal-n.e.c.,tons_out,14876.1161,thousand tons,2022
+North Dakota,Coal-n.e.c.,tons_in,8811.601538,thousand tons,2022
+North Dakota,Other ag prods.,tons_within,19641.05008,thousand tons,2022
+North Dakota,Other ag prods.,tons_out,10816.56405,thousand tons,2022
+North Dakota,Other ag prods.,tons_in,8009.072677,thousand tons,2022
+North Dakota,Gravel,tons_within,6035.916888,thousand tons,2022
+North Dakota,Gravel,tons_out,10474.92414,thousand tons,2022
+North Dakota,Gravel,tons_in,3232.482685,thousand tons,2022
+North Dakota,Nonmetal min. prods.,tons_within,5718.320414,thousand tons,2022
+North Dakota,Nonmetal min. prods.,tons_out,6771.931451,thousand tons,2022
+North Dakota,Nonmetal min. prods.,tons_in,2077.811204,thousand tons,2022
+North Dakota,Gasoline,tons_within,5231.085483,thousand tons,2022
+North Dakota,Gasoline,tons_out,5255.522901,thousand tons,2022
+North Dakota,Gasoline,tons_in,1901.801235,thousand tons,2022
+North Dakota,Crude petroleum,tons_within,5187.409527,thousand tons,2022
+North Dakota,Crude petroleum,tons_out,4639.935651,thousand tons,2022
+North Dakota,Crude petroleum,tons_in,1787.702383,thousand tons,2022
+North Dakota,Fuel oils,tons_within,3942.084481,thousand tons,2022
+North Dakota,Fuel oils,tons_out,2425.824633,thousand tons,2022
+North Dakota,Fuel oils,tons_in,1697.236856,thousand tons,2022
+North Dakota,Basic chemicals,tons_within,2226.26262,thousand tons,2022
+North Dakota,Basic chemicals,tons_out,2312.646326,thousand tons,2022
+North Dakota,Basic chemicals,tons_in,1437.068425,thousand tons,2022
+Ohio,Gravel,tons_within,77939.60017,thousand tons,2022
+Ohio,Gravel,tons_out,76134.68104,thousand tons,2022
+Ohio,Gravel,tons_in,55098.80797,thousand tons,2022
+Ohio,Gasoline,tons_within,43548.67009,thousand tons,2022
+Ohio,Gasoline,tons_out,20830.70547,thousand tons,2022
+Ohio,Gasoline,tons_in,22748.77468,thousand tons,2022
+Ohio,Nonmetallic minerals,tons_within,32345.84939,thousand tons,2022
+Ohio,Nonmetallic minerals,tons_out,13267.45679,thousand tons,2022
+Ohio,Nonmetallic minerals,tons_in,22582.07894,thousand tons,2022
+Ohio,Coal-n.e.c.,tons_within,31485.96571,thousand tons,2022
+Ohio,Coal-n.e.c.,tons_out,12362.49638,thousand tons,2022
+Ohio,Coal-n.e.c.,tons_in,22518.89326,thousand tons,2022
+Ohio,Nonmetal min. prods.,tons_within,29011.65577,thousand tons,2022
+Ohio,Nonmetal min. prods.,tons_out,10966.65291,thousand tons,2022
+Ohio,Nonmetal min. prods.,tons_in,12788.35453,thousand tons,2022
+Ohio,Cereal grains,tons_within,28361.21341,thousand tons,2022
+Ohio,Cereal grains,tons_out,10850.02513,thousand tons,2022
+Ohio,Cereal grains,tons_in,11630.63335,thousand tons,2022
+Ohio,Waste/scrap,tons_within,21093.97602,thousand tons,2022
+Ohio,Waste/scrap,tons_out,9546.224662,thousand tons,2022
+Ohio,Waste/scrap,tons_in,10852.07011,thousand tons,2022
+Ohio,Other ag prods.,tons_within,16998.02028,thousand tons,2022
+Ohio,Other ag prods.,tons_out,8382.126398,thousand tons,2022
+Ohio,Other ag prods.,tons_in,10245.05547,thousand tons,2022
+Ohio,Fuel oils,tons_within,14830.43526,thousand tons,2022
+Ohio,Fuel oils,tons_out,8215.856279,thousand tons,2022
+Ohio,Fuel oils,tons_in,9316.418146,thousand tons,2022
+Ohio,Other foodstuffs,tons_within,14747.88297,thousand tons,2022
+Ohio,Other foodstuffs,tons_out,7595.175779,thousand tons,2022
+Ohio,Other foodstuffs,tons_in,9301.081622,thousand tons,2022
+Oklahoma,Coal-n.e.c.,tons_within,33073.5365,thousand tons,2022
+Oklahoma,Coal-n.e.c.,tons_out,56764.57402,thousand tons,2022
+Oklahoma,Coal-n.e.c.,tons_in,29625.5926,thousand tons,2022
+Oklahoma,Gravel,tons_within,29350.60111,thousand tons,2022
+Oklahoma,Gravel,tons_out,20813.01251,thousand tons,2022
+Oklahoma,Gravel,tons_in,23197.85603,thousand tons,2022
+Oklahoma,Nonmetal min. prods.,tons_within,13083.50911,thousand tons,2022
+Oklahoma,Nonmetal min. prods.,tons_out,8160.209734,thousand tons,2022
+Oklahoma,Nonmetal min. prods.,tons_in,11812.95392,thousand tons,2022
+Oklahoma,Fuel oils,tons_within,11997.16853,thousand tons,2022
+Oklahoma,Fuel oils,tons_out,5022.055599,thousand tons,2022
+Oklahoma,Fuel oils,tons_in,9078.079921,thousand tons,2022
+Oklahoma,Gasoline,tons_within,11345.1871,thousand tons,2022
+Oklahoma,Gasoline,tons_out,5018.378877,thousand tons,2022
+Oklahoma,Gasoline,tons_in,6018.057729,thousand tons,2022
+Oklahoma,Natural sands,tons_within,9100.882248,thousand tons,2022
+Oklahoma,Natural sands,tons_out,5004.124883,thousand tons,2022
+Oklahoma,Natural sands,tons_in,4820.912923,thousand tons,2022
+Oklahoma,Waste/scrap,tons_within,7069.172504,thousand tons,2022
+Oklahoma,Waste/scrap,tons_out,4214.663684,thousand tons,2022
+Oklahoma,Waste/scrap,tons_in,4572.178139,thousand tons,2022
+Oklahoma,Cereal grains,tons_within,4413.879722,thousand tons,2022
+Oklahoma,Cereal grains,tons_out,2867.176225,thousand tons,2022
+Oklahoma,Cereal grains,tons_in,3446.690526,thousand tons,2022
+Oklahoma,Mixed freight,tons_within,4130.654636,thousand tons,2022
+Oklahoma,Mixed freight,tons_out,2506.483623,thousand tons,2022
+Oklahoma,Mixed freight,tons_in,3109.621821,thousand tons,2022
+Oklahoma,Nonmetallic minerals,tons_within,2939.700117,thousand tons,2022
+Oklahoma,Nonmetallic minerals,tons_out,2410.312183,thousand tons,2022
+Oklahoma,Nonmetallic minerals,tons_in,2808.446232,thousand tons,2022
+Oregon,Logs,tons_within,38803.41036,thousand tons,2022
+Oregon,Logs,tons_out,18790.88127,thousand tons,2022
+Oregon,Logs,tons_in,25371.23709,thousand tons,2022
+Oregon,Gravel,tons_within,37850.7526,thousand tons,2022
+Oregon,Gravel,tons_out,13534.99742,thousand tons,2022
+Oregon,Gravel,tons_in,7802.950024,thousand tons,2022
+Oregon,Wood prods.,tons_within,12482.76491,thousand tons,2022
+Oregon,Wood prods.,tons_out,3907.050691,thousand tons,2022
+Oregon,Wood prods.,tons_in,5600.617698,thousand tons,2022
+Oregon,Nonmetal min. prods.,tons_within,11786.2988,thousand tons,2022
+Oregon,Nonmetal min. prods.,tons_out,3758.627613,thousand tons,2022
+Oregon,Nonmetal min. prods.,tons_in,4537.438734,thousand tons,2022
+Oregon,Coal-n.e.c.,tons_within,8423.730596,thousand tons,2022
+Oregon,Coal-n.e.c.,tons_out,3686.511845,thousand tons,2022
+Oregon,Coal-n.e.c.,tons_in,4421.339625,thousand tons,2022
+Oregon,Cereal grains,tons_within,7272.393309,thousand tons,2022
+Oregon,Cereal grains,tons_out,2858.62485,thousand tons,2022
+Oregon,Cereal grains,tons_in,3263.61405,thousand tons,2022
+Oregon,Fertilizers,tons_within,6096.384995,thousand tons,2022
+Oregon,Fertilizers,tons_out,2747.073593,thousand tons,2022
+Oregon,Fertilizers,tons_in,3068.599777,thousand tons,2022
+Oregon,Gasoline,tons_within,6074.030604,thousand tons,2022
+Oregon,Gasoline,tons_out,2124.794205,thousand tons,2022
+Oregon,Gasoline,tons_in,2443.711216,thousand tons,2022
+Oregon,Other ag prods.,tons_within,4833.560456,thousand tons,2022
+Oregon,Other ag prods.,tons_out,1910.022509,thousand tons,2022
+Oregon,Other ag prods.,tons_in,2352.138733,thousand tons,2022
+Oregon,Waste/scrap,tons_within,4757.252593,thousand tons,2022
+Oregon,Waste/scrap,tons_out,1424.433302,thousand tons,2022
+Oregon,Waste/scrap,tons_in,2276.053654,thousand tons,2022
+Pennsylvania,Gravel,tons_within,76322.31338,thousand tons,2022
+Pennsylvania,Gravel,tons_out,101762.1514,thousand tons,2022
+Pennsylvania,Gravel,tons_in,22489.91603,thousand tons,2022
+Pennsylvania,Coal-n.e.c.,tons_within,40728.68429,thousand tons,2022
+Pennsylvania,Coal-n.e.c.,tons_out,22621.27465,thousand tons,2022
+Pennsylvania,Coal-n.e.c.,tons_in,19633.94298,thousand tons,2022
+Pennsylvania,Nonmetal min. prods.,tons_within,27737.20521,thousand tons,2022
+Pennsylvania,Nonmetal min. prods.,tons_out,18442.43123,thousand tons,2022
+Pennsylvania,Nonmetal min. prods.,tons_in,13456.85518,thousand tons,2022
+Pennsylvania,Coal,tons_within,24759.51127,thousand tons,2022
+Pennsylvania,Coal,tons_out,15724.16161,thousand tons,2022
+Pennsylvania,Coal,tons_in,10424.98018,thousand tons,2022
+Pennsylvania,Waste/scrap,tons_within,23025.77371,thousand tons,2022
+Pennsylvania,Waste/scrap,tons_out,14427.11154,thousand tons,2022
+Pennsylvania,Waste/scrap,tons_in,10411.2135,thousand tons,2022
+Pennsylvania,Crude petroleum,tons_within,19709.52303,thousand tons,2022
+Pennsylvania,Crude petroleum,tons_out,12107.69104,thousand tons,2022
+Pennsylvania,Crude petroleum,tons_in,9898.234267,thousand tons,2022
+Pennsylvania,Other foodstuffs,tons_within,18901.67249,thousand tons,2022
+Pennsylvania,Other foodstuffs,tons_out,8631.332914,thousand tons,2022
+Pennsylvania,Other foodstuffs,tons_in,9518.119889,thousand tons,2022
+Pennsylvania,Fuel oils,tons_within,17999.79151,thousand tons,2022
+Pennsylvania,Fuel oils,tons_out,6716.738317,thousand tons,2022
+Pennsylvania,Fuel oils,tons_in,8539.594817,thousand tons,2022
+Pennsylvania,Gasoline,tons_within,17942.35285,thousand tons,2022
+Pennsylvania,Gasoline,tons_out,6616.054713,thousand tons,2022
+Pennsylvania,Gasoline,tons_in,8150.634426,thousand tons,2022
+Pennsylvania,Nonmetallic minerals,tons_within,14819.05916,thousand tons,2022
+Pennsylvania,Nonmetallic minerals,tons_out,6320.220581,thousand tons,2022
+Pennsylvania,Nonmetallic minerals,tons_in,7002.690591,thousand tons,2022
+Rhode Island,Gravel,tons_within,4704.7534,thousand tons,2022
+Rhode Island,Gravel,tons_out,4442.456843,thousand tons,2022
+Rhode Island,Gravel,tons_in,6395.397527,thousand tons,2022
+Rhode Island,Coal-n.e.c.,tons_within,3069.08186,thousand tons,2022
+Rhode Island,Coal-n.e.c.,tons_out,2892.960253,thousand tons,2022
+Rhode Island,Coal-n.e.c.,tons_in,1076.901549,thousand tons,2022
+Rhode Island,Gasoline,tons_within,3038.581449,thousand tons,2022
+Rhode Island,Gasoline,tons_out,1871.363281,thousand tons,2022
+Rhode Island,Gasoline,tons_in,786.894793,thousand tons,2022
+Rhode Island,Nonmetal min. prods.,tons_within,2405.072778,thousand tons,2022
+Rhode Island,Nonmetal min. prods.,tons_out,1025.84529,thousand tons,2022
+Rhode Island,Nonmetal min. prods.,tons_in,767.766577,thousand tons,2022
+Rhode Island,Waste/scrap,tons_within,2172.241125,thousand tons,2022
+Rhode Island,Waste/scrap,tons_out,948.933785,thousand tons,2022
+Rhode Island,Waste/scrap,tons_in,603.40185,thousand tons,2022
+Rhode Island,Fuel oils,tons_within,822.21368,thousand tons,2022
+Rhode Island,Fuel oils,tons_out,828.363266,thousand tons,2022
+Rhode Island,Fuel oils,tons_in,586.678417,thousand tons,2022
+Rhode Island,Natural sands,tons_within,702.02051,thousand tons,2022
+Rhode Island,Natural sands,tons_out,577.329956,thousand tons,2022
+Rhode Island,Natural sands,tons_in,562.24186,thousand tons,2022
+Rhode Island,Other foodstuffs,tons_within,660.370413,thousand tons,2022
+Rhode Island,Other foodstuffs,tons_out,511.643002,thousand tons,2022
+Rhode Island,Other foodstuffs,tons_in,348.620974,thousand tons,2022
+Rhode Island,Motorized vehicles,tons_within,575.24065,thousand tons,2022
+Rhode Island,Motorized vehicles,tons_out,510.779705,thousand tons,2022
+Rhode Island,Motorized vehicles,tons_in,290.580631,thousand tons,2022
+Rhode Island,Nonmetallic minerals,tons_within,373.713487,thousand tons,2022
+Rhode Island,Nonmetallic minerals,tons_out,422.49327,thousand tons,2022
+Rhode Island,Nonmetallic minerals,tons_in,273.513252,thousand tons,2022
+South Carolina,Gravel,tons_within,30562.23797,thousand tons,2022
+South Carolina,Gravel,tons_out,10090.59601,thousand tons,2022
+South Carolina,Gravel,tons_in,16219.66148,thousand tons,2022
+South Carolina,Logs,tons_within,22380.89938,thousand tons,2022
+South Carolina,Logs,tons_out,8615.786559,thousand tons,2022
+South Carolina,Logs,tons_in,7441.1614,thousand tons,2022
+South Carolina,Nonmetal min. prods.,tons_within,15143.37694,thousand tons,2022
+South Carolina,Nonmetal min. prods.,tons_out,7071.230928,thousand tons,2022
+South Carolina,Nonmetal min. prods.,tons_in,5648.081063,thousand tons,2022
+South Carolina,Waste/scrap,tons_within,12517.30257,thousand tons,2022
+South Carolina,Waste/scrap,tons_out,7025.315109,thousand tons,2022
+South Carolina,Waste/scrap,tons_in,4191.614924,thousand tons,2022
+South Carolina,Natural sands,tons_within,11166.79802,thousand tons,2022
+South Carolina,Natural sands,tons_out,7008.650174,thousand tons,2022
+South Carolina,Natural sands,tons_in,4133.693565,thousand tons,2022
+South Carolina,Coal-n.e.c.,tons_within,9336.577359,thousand tons,2022
+South Carolina,Coal-n.e.c.,tons_out,3964.366615,thousand tons,2022
+South Carolina,Coal-n.e.c.,tons_in,3894.236459,thousand tons,2022
+South Carolina,Mixed freight,tons_within,6718.076061,thousand tons,2022
+South Carolina,Mixed freight,tons_out,3591.869236,thousand tons,2022
+South Carolina,Mixed freight,tons_in,3561.403737,thousand tons,2022
+South Carolina,Wood prods.,tons_within,5609.985666,thousand tons,2022
+South Carolina,Wood prods.,tons_out,2646.945032,thousand tons,2022
+South Carolina,Wood prods.,tons_in,3505.372915,thousand tons,2022
+South Carolina,Plastics/rubber,tons_within,4007.230569,thousand tons,2022
+South Carolina,Plastics/rubber,tons_out,2494.932062,thousand tons,2022
+South Carolina,Plastics/rubber,tons_in,3224.845464,thousand tons,2022
+South Carolina,Gasoline,tons_within,3707.363132,thousand tons,2022
+South Carolina,Gasoline,tons_out,2432.791546,thousand tons,2022
+South Carolina,Gasoline,tons_in,3193.878691,thousand tons,2022
+South Dakota,Cereal grains,tons_within,32811.3123,thousand tons,2022
+South Dakota,Cereal grains,tons_out,20802.11204,thousand tons,2022
+South Dakota,Cereal grains,tons_in,21782.84818,thousand tons,2022
+South Dakota,Other ag prods.,tons_within,10775.15458,thousand tons,2022
+South Dakota,Other ag prods.,tons_out,17592.84838,thousand tons,2022
+South Dakota,Other ag prods.,tons_in,2970.372466,thousand tons,2022
+South Dakota,Animal feed,tons_within,10512.8445,thousand tons,2022
+South Dakota,Animal feed,tons_out,7140.943389,thousand tons,2022
+South Dakota,Animal feed,tons_in,1960.666806,thousand tons,2022
+South Dakota,Nonmetal min. prods.,tons_within,7910.94539,thousand tons,2022
+South Dakota,Nonmetal min. prods.,tons_out,4128.59535,thousand tons,2022
+South Dakota,Nonmetal min. prods.,tons_in,1577.639101,thousand tons,2022
+South Dakota,Gravel,tons_within,5667.526109,thousand tons,2022
+South Dakota,Gravel,tons_out,3341.281065,thousand tons,2022
+South Dakota,Gravel,tons_in,1510.889421,thousand tons,2022
+South Dakota,Coal-n.e.c.,tons_within,2223.778802,thousand tons,2022
+South Dakota,Coal-n.e.c.,tons_out,1560.131469,thousand tons,2022
+South Dakota,Coal-n.e.c.,tons_in,1303.093982,thousand tons,2022
+South Dakota,Other foodstuffs,tons_within,2212.784122,thousand tons,2022
+South Dakota,Other foodstuffs,tons_out,1473.939135,thousand tons,2022
+South Dakota,Other foodstuffs,tons_in,1211.3583,thousand tons,2022
+South Dakota,Fuel oils,tons_within,2099.4451,thousand tons,2022
+South Dakota,Fuel oils,tons_out,1128.37352,thousand tons,2022
+South Dakota,Fuel oils,tons_in,1196.410973,thousand tons,2022
+South Dakota,Natural sands,tons_within,1558.7068,thousand tons,2022
+South Dakota,Natural sands,tons_out,508.737535,thousand tons,2022
+South Dakota,Natural sands,tons_in,1027.604483,thousand tons,2022
+South Dakota,Nonmetallic minerals,tons_within,1515.0361,thousand tons,2022
+South Dakota,Nonmetallic minerals,tons_out,463.722139,thousand tons,2022
+South Dakota,Nonmetallic minerals,tons_in,1023.093606,thousand tons,2022
+Tennessee,Gravel,tons_within,67167.70479,thousand tons,2022
+Tennessee,Gravel,tons_out,45079.16505,thousand tons,2022
+Tennessee,Gravel,tons_in,47211.4378,thousand tons,2022
+Tennessee,Gasoline,tons_within,21171.46716,thousand tons,2022
+Tennessee,Gasoline,tons_out,7756.573947,thousand tons,2022
+Tennessee,Gasoline,tons_in,8567.803196,thousand tons,2022
+Tennessee,Nonmetal min. prods.,tons_within,17975.61672,thousand tons,2022
+Tennessee,Nonmetal min. prods.,tons_out,7420.048198,thousand tons,2022
+Tennessee,Nonmetal min. prods.,tons_in,8002.917587,thousand tons,2022
+Tennessee,Coal-n.e.c.,tons_within,14536.00517,thousand tons,2022
+Tennessee,Coal-n.e.c.,tons_out,7396.977045,thousand tons,2022
+Tennessee,Coal-n.e.c.,tons_in,7771.723721,thousand tons,2022
+Tennessee,Waste/scrap,tons_within,9258.886606,thousand tons,2022
+Tennessee,Waste/scrap,tons_out,7025.68819,thousand tons,2022
+Tennessee,Waste/scrap,tons_in,6811.848405,thousand tons,2022
+Tennessee,Natural sands,tons_within,9025.434209,thousand tons,2022
+Tennessee,Natural sands,tons_out,6915.452588,thousand tons,2022
+Tennessee,Natural sands,tons_in,6289.736307,thousand tons,2022
+Tennessee,Fuel oils,tons_within,8570.618701,thousand tons,2022
+Tennessee,Fuel oils,tons_out,5546.586412,thousand tons,2022
+Tennessee,Fuel oils,tons_in,6043.573763,thousand tons,2022
+Tennessee,Logs,tons_within,8215.735855,thousand tons,2022
+Tennessee,Logs,tons_out,5275.124087,thousand tons,2022
+Tennessee,Logs,tons_in,6001.669076,thousand tons,2022
+Tennessee,Basic chemicals,tons_within,5543.90206,thousand tons,2022
+Tennessee,Basic chemicals,tons_out,5238.881085,thousand tons,2022
+Tennessee,Basic chemicals,tons_in,5688.484904,thousand tons,2022
+Tennessee,Wood prods.,tons_within,5538.207372,thousand tons,2022
+Tennessee,Wood prods.,tons_out,4916.055729,thousand tons,2022
+Tennessee,Wood prods.,tons_in,4215.50298,thousand tons,2022
+Texas,Gasoline,tons_within,402037.4005,thousand tons,2022
+Texas,Gasoline,tons_out,144830.0389,thousand tons,2022
+Texas,Gasoline,tons_in,96962.59436,thousand tons,2022
+Texas,Fuel oils,tons_within,351835.4951,thousand tons,2022
+Texas,Fuel oils,tons_out,83142.31629,thousand tons,2022
+Texas,Fuel oils,tons_in,69353.98324,thousand tons,2022
+Texas,Coal-n.e.c.,tons_within,324435.1733,thousand tons,2022
+Texas,Coal-n.e.c.,tons_out,35834.65973,thousand tons,2022
+Texas,Coal-n.e.c.,tons_in,39602.61319,thousand tons,2022
+Texas,Crude petroleum,tons_within,266785.5116,thousand tons,2022
+Texas,Crude petroleum,tons_out,35264.3972,thousand tons,2022
+Texas,Crude petroleum,tons_in,36666.72171,thousand tons,2022
+Texas,Gravel,tons_within,156611.9632,thousand tons,2022
+Texas,Gravel,tons_out,30594.37674,thousand tons,2022
+Texas,Gravel,tons_in,31170.78601,thousand tons,2022
+Texas,Nonmetal min. prods.,tons_within,154892.7177,thousand tons,2022
+Texas,Nonmetal min. prods.,tons_out,29990.24167,thousand tons,2022
+Texas,Nonmetal min. prods.,tons_in,28899.40458,thousand tons,2022
+Texas,Basic chemicals,tons_within,133049.1336,thousand tons,2022
+Texas,Basic chemicals,tons_out,13497.58184,thousand tons,2022
+Texas,Basic chemicals,tons_in,20943.55632,thousand tons,2022
+Texas,Natural sands,tons_within,72969.58571,thousand tons,2022
+Texas,Natural sands,tons_out,10934.54366,thousand tons,2022
+Texas,Natural sands,tons_in,19736.53426,thousand tons,2022
+Texas,Plastics/rubber,tons_within,53587.61631,thousand tons,2022
+Texas,Plastics/rubber,tons_out,9895.461272,thousand tons,2022
+Texas,Plastics/rubber,tons_in,18967.44842,thousand tons,2022
+Texas,Waste/scrap,tons_within,50819.10405,thousand tons,2022
+Texas,Waste/scrap,tons_out,8797.543299,thousand tons,2022
+Texas,Waste/scrap,tons_in,17830.48037,thousand tons,2022
+Utah,Nonmetal min. prods.,tons_within,17366.39312,thousand tons,2022
+Utah,Nonmetal min. prods.,tons_out,31622.27018,thousand tons,2022
+Utah,Nonmetal min. prods.,tons_in,26474.32155,thousand tons,2022
+Utah,Gravel,tons_within,14262.87522,thousand tons,2022
+Utah,Gravel,tons_out,6761.121699,thousand tons,2022
+Utah,Gravel,tons_in,6699.31464,thousand tons,2022
+Utah,Coal-n.e.c.,tons_within,13828.64141,thousand tons,2022
+Utah,Coal-n.e.c.,tons_out,6194.730837,thousand tons,2022
+Utah,Coal-n.e.c.,tons_in,4642.266554,thousand tons,2022
+Utah,Gasoline,tons_within,10179.2509,thousand tons,2022
+Utah,Gasoline,tons_out,5544.05557,thousand tons,2022
+Utah,Gasoline,tons_in,3305.923975,thousand tons,2022
+Utah,Coal,tons_within,10169.39969,thousand tons,2022
+Utah,Coal,tons_out,4726.663042,thousand tons,2022
+Utah,Coal,tons_in,2518.365336,thousand tons,2022
+Utah,Fuel oils,tons_within,6840.00812,thousand tons,2022
+Utah,Fuel oils,tons_out,2112.747459,thousand tons,2022
+Utah,Fuel oils,tons_in,1845.656573,thousand tons,2022
+Utah,Waste/scrap,tons_within,4729.629869,thousand tons,2022
+Utah,Waste/scrap,tons_out,2005.0382,thousand tons,2022
+Utah,Waste/scrap,tons_in,1705.950232,thousand tons,2022
+Utah,Mixed freight,tons_within,4263.606546,thousand tons,2022
+Utah,Mixed freight,tons_out,1520.03325,thousand tons,2022
+Utah,Mixed freight,tons_in,1631.169551,thousand tons,2022
+Utah,Natural sands,tons_within,2966.403232,thousand tons,2022
+Utah,Natural sands,tons_out,1489.573199,thousand tons,2022
+Utah,Natural sands,tons_in,1454.033033,thousand tons,2022
+Utah,Wood prods.,tons_within,2627.281638,thousand tons,2022
+Utah,Wood prods.,tons_out,1482.95889,thousand tons,2022
+Utah,Wood prods.,tons_in,1443.166695,thousand tons,2022
+Vermont,Logs,tons_within,3136.214674,thousand tons,2022
+Vermont,Logs,tons_out,4151.907656,thousand tons,2022
+Vermont,Logs,tons_in,873.588652,thousand tons,2022
+Vermont,Gravel,tons_within,1984.460859,thousand tons,2022
+Vermont,Gravel,tons_out,3182.761452,thousand tons,2022
+Vermont,Gravel,tons_in,836.726907,thousand tons,2022
+Vermont,Coal-n.e.c.,tons_within,1851.939338,thousand tons,2022
+Vermont,Coal-n.e.c.,tons_out,1490.839627,thousand tons,2022
+Vermont,Coal-n.e.c.,tons_in,705.315683,thousand tons,2022
+Vermont,Nonmetallic minerals,tons_within,1363.697841,thousand tons,2022
+Vermont,Nonmetallic minerals,tons_out,1126.439472,thousand tons,2022
+Vermont,Nonmetallic minerals,tons_in,695.984282,thousand tons,2022
+Vermont,Other foodstuffs,tons_within,910.777241,thousand tons,2022
+Vermont,Other foodstuffs,tons_out,1102.158354,thousand tons,2022
+Vermont,Other foodstuffs,tons_in,617.465137,thousand tons,2022
+Vermont,Fuel oils,tons_within,778.1429,thousand tons,2022
+Vermont,Fuel oils,tons_out,407.438185,thousand tons,2022
+Vermont,Fuel oils,tons_in,585.159985,thousand tons,2022
+Vermont,Animal feed,tons_within,714.494812,thousand tons,2022
+Vermont,Animal feed,tons_out,313.526894,thousand tons,2022
+Vermont,Animal feed,tons_in,542.743307,thousand tons,2022
+Vermont,Gasoline,tons_within,562.474573,thousand tons,2022
+Vermont,Gasoline,tons_out,286.688536,thousand tons,2022
+Vermont,Gasoline,tons_in,459.653467,thousand tons,2022
+Vermont,Waste/scrap,tons_within,537.064891,thousand tons,2022
+Vermont,Waste/scrap,tons_out,235.416127,thousand tons,2022
+Vermont,Waste/scrap,tons_in,324.518034,thousand tons,2022
+Vermont,Nonmetal min. prods.,tons_within,412.373328,thousand tons,2022
+Vermont,Nonmetal min. prods.,tons_out,231.353818,thousand tons,2022
+Vermont,Nonmetal min. prods.,tons_in,313.969802,thousand tons,2022
+Virginia,Gravel,tons_within,67692.46105,thousand tons,2022
+Virginia,Gravel,tons_out,10395.24274,thousand tons,2022
+Virginia,Gravel,tons_in,22557.06948,thousand tons,2022
+Virginia,Coal-n.e.c.,tons_within,28579.16534,thousand tons,2022
+Virginia,Coal-n.e.c.,tons_out,7136.000127,thousand tons,2022
+Virginia,Coal-n.e.c.,tons_in,18009.61635,thousand tons,2022
+Virginia,Nonmetal min. prods.,tons_within,28258.94959,thousand tons,2022
+Virginia,Nonmetal min. prods.,tons_out,5877.26177,thousand tons,2022
+Virginia,Nonmetal min. prods.,tons_in,7111.217348,thousand tons,2022
+Virginia,Coal,tons_within,22313.45727,thousand tons,2022
+Virginia,Coal,tons_out,5528.713854,thousand tons,2022
+Virginia,Coal,tons_in,6688.27833,thousand tons,2022
+Virginia,Logs,tons_within,14518.81781,thousand tons,2022
+Virginia,Logs,tons_out,5401.68128,thousand tons,2022
+Virginia,Logs,tons_in,6196.235913,thousand tons,2022
+Virginia,Waste/scrap,tons_within,14013.16159,thousand tons,2022
+Virginia,Waste/scrap,tons_out,4181.431704,thousand tons,2022
+Virginia,Waste/scrap,tons_in,5964.3519,thousand tons,2022
+Virginia,Wood prods.,tons_within,11009.36335,thousand tons,2022
+Virginia,Wood prods.,tons_out,3600.445795,thousand tons,2022
+Virginia,Wood prods.,tons_in,5571.945496,thousand tons,2022
+Virginia,Natural sands,tons_within,7348.999722,thousand tons,2022
+Virginia,Natural sands,tons_out,3440.285236,thousand tons,2022
+Virginia,Natural sands,tons_in,4969.38164,thousand tons,2022
+Virginia,Other ag prods.,tons_within,5965.198144,thousand tons,2022
+Virginia,Other ag prods.,tons_out,2954.347738,thousand tons,2022
+Virginia,Other ag prods.,tons_in,4590.939917,thousand tons,2022
+Virginia,Animal feed,tons_within,5937.927404,thousand tons,2022
+Virginia,Animal feed,tons_out,2939.938821,thousand tons,2022
+Virginia,Animal feed,tons_in,3816.721159,thousand tons,2022
+Washington,Gravel,tons_within,51354.49119,thousand tons,2022
+Washington,Gravel,tons_out,21355.37736,thousand tons,2022
+Washington,Gravel,tons_in,30128.58141,thousand tons,2022
+Washington,Logs,tons_within,45748.75262,thousand tons,2022
+Washington,Logs,tons_out,8683.058196,thousand tons,2022
+Washington,Logs,tons_in,22549.51245,thousand tons,2022
+Washington,Cereal grains,tons_within,35421.84877,thousand tons,2022
+Washington,Cereal grains,tons_out,4932.872419,thousand tons,2022
+Washington,Cereal grains,tons_in,15741.66433,thousand tons,2022
+Washington,Coal-n.e.c.,tons_within,35275.37215,thousand tons,2022
+Washington,Coal-n.e.c.,tons_out,3713.690217,thousand tons,2022
+Washington,Coal-n.e.c.,tons_in,12696.73367,thousand tons,2022
+Washington,Gasoline,tons_within,32067.95462,thousand tons,2022
+Washington,Gasoline,tons_out,3157.740299,thousand tons,2022
+Washington,Gasoline,tons_in,11504.17949,thousand tons,2022
+Washington,Other ag prods.,tons_within,22473.63229,thousand tons,2022
+Washington,Other ag prods.,tons_out,3157.381747,thousand tons,2022
+Washington,Other ag prods.,tons_in,7581.38886,thousand tons,2022
+Washington,Fuel oils,tons_within,21930.31306,thousand tons,2022
+Washington,Fuel oils,tons_out,2439.404275,thousand tons,2022
+Washington,Fuel oils,tons_in,4730.63886,thousand tons,2022
+Washington,Nonmetal min. prods.,tons_within,20311.37232,thousand tons,2022
+Washington,Nonmetal min. prods.,tons_out,2322.00318,thousand tons,2022
+Washington,Nonmetal min. prods.,tons_in,3917.239337,thousand tons,2022
+Washington,Wood prods.,tons_within,14079.86758,thousand tons,2022
+Washington,Wood prods.,tons_out,2101.207959,thousand tons,2022
+Washington,Wood prods.,tons_in,3800.47889,thousand tons,2022
+Washington,Natural sands,tons_within,12524.81918,thousand tons,2022
+Washington,Natural sands,tons_out,1988.329761,thousand tons,2022
+Washington,Natural sands,tons_in,3446.200296,thousand tons,2022
+Washington DC,Nonmetal min. prods.,tons_within,2831.454207,thousand tons,2022
+Washington DC,Nonmetal min. prods.,tons_out,492.72206,thousand tons,2022
+Washington DC,Nonmetal min. prods.,tons_in,1193.27637,thousand tons,2022
+Washington DC,Gravel,tons_within,591.37769,thousand tons,2022
+Washington DC,Gravel,tons_out,220.834271,thousand tons,2022
+Washington DC,Gravel,tons_in,813.351666,thousand tons,2022
+Washington DC,Electronics,tons_within,216.73844,thousand tons,2022
+Washington DC,Electronics,tons_out,153.151972,thousand tons,2022
+Washington DC,Electronics,tons_in,722.577651,thousand tons,2022
+Washington DC,Natural sands,tons_within,204.47049,thousand tons,2022
+Washington DC,Natural sands,tons_out,131.544379,thousand tons,2022
+Washington DC,Natural sands,tons_in,491.544373,thousand tons,2022
+Washington DC,Alcoholic beverages,tons_within,129.320966,thousand tons,2022
+Washington DC,Alcoholic beverages,tons_out,122.95714,thousand tons,2022
+Washington DC,Alcoholic beverages,tons_in,154.605336,thousand tons,2022
+Washington DC,Animal feed,tons_within,107.047306,thousand tons,2022
+Washington DC,Animal feed,tons_out,38.602793,thousand tons,2022
+Washington DC,Animal feed,tons_in,128.041331,thousand tons,2022
+Washington DC,Mixed freight,tons_within,68.419401,thousand tons,2022
+Washington DC,Mixed freight,tons_out,32.298812,thousand tons,2022
+Washington DC,Mixed freight,tons_in,118.572452,thousand tons,2022
+Washington DC,Nonmetallic minerals,tons_within,63.009838,thousand tons,2022
+Washington DC,Nonmetallic minerals,tons_out,30.140319,thousand tons,2022
+Washington DC,Nonmetallic minerals,tons_in,98.950329,thousand tons,2022
+Washington DC,Wood prods.,tons_within,45.157417,thousand tons,2022
+Washington DC,Wood prods.,tons_out,16.452738,thousand tons,2022
+Washington DC,Wood prods.,tons_in,95.874199,thousand tons,2022
+Washington DC,Articles-base metal,tons_within,32.296525,thousand tons,2022
+Washington DC,Articles-base metal,tons_out,15.766034,thousand tons,2022
+Washington DC,Articles-base metal,tons_in,91.786103,thousand tons,2022
+West Virginia,Coal,tons_within,29490.43822,thousand tons,2022
+West Virginia,Coal,tons_out,64680.20285,thousand tons,2022
+West Virginia,Coal,tons_in,10356.53868,thousand tons,2022
+West Virginia,Gravel,tons_within,11561.98273,thousand tons,2022
+West Virginia,Gravel,tons_out,45727.77618,thousand tons,2022
+West Virginia,Gravel,tons_in,9201.338313,thousand tons,2022
+West Virginia,Gasoline,tons_within,8524.457,thousand tons,2022
+West Virginia,Gasoline,tons_out,4150.641548,thousand tons,2022
+West Virginia,Gasoline,tons_in,8392.713705,thousand tons,2022
+West Virginia,Logs,tons_within,8199.5518,thousand tons,2022
+West Virginia,Logs,tons_out,3875.581678,thousand tons,2022
+West Virginia,Logs,tons_in,3959.435525,thousand tons,2022
+West Virginia,Fuel oils,tons_within,7003.570348,thousand tons,2022
+West Virginia,Fuel oils,tons_out,2746.449795,thousand tons,2022
+West Virginia,Fuel oils,tons_in,2398.560191,thousand tons,2022
+West Virginia,Nonmetal min. prods.,tons_within,3834.986684,thousand tons,2022
+West Virginia,Nonmetal min. prods.,tons_out,2373.700058,thousand tons,2022
+West Virginia,Nonmetal min. prods.,tons_in,2310.299903,thousand tons,2022
+West Virginia,Coal-n.e.c.,tons_within,3450.232141,thousand tons,2022
+West Virginia,Coal-n.e.c.,tons_out,1889.440703,thousand tons,2022
+West Virginia,Coal-n.e.c.,tons_in,2288.25108,thousand tons,2022
+West Virginia,Wood prods.,tons_within,1998.835457,thousand tons,2022
+West Virginia,Wood prods.,tons_out,1612.670797,thousand tons,2022
+West Virginia,Wood prods.,tons_in,1990.363341,thousand tons,2022
+West Virginia,Waste/scrap,tons_within,1427.76,thousand tons,2022
+West Virginia,Waste/scrap,tons_out,1228.618887,thousand tons,2022
+West Virginia,Waste/scrap,tons_in,1970.902831,thousand tons,2022
+West Virginia,Base metals,tons_within,669.086905,thousand tons,2022
+West Virginia,Base metals,tons_out,1213.115798,thousand tons,2022
+West Virginia,Base metals,tons_in,1357.216913,thousand tons,2022
+Wisconsin,Gravel,tons_within,106396.1765,thousand tons,2022
+Wisconsin,Gravel,tons_out,31281.70813,thousand tons,2022
+Wisconsin,Gravel,tons_in,24563.77622,thousand tons,2022
+Wisconsin,Natural sands,tons_within,29631.18227,thousand tons,2022
+Wisconsin,Natural sands,tons_out,10993.63028,thousand tons,2022
+Wisconsin,Natural sands,tons_in,17647.91283,thousand tons,2022
+Wisconsin,Nonmetal min. prods.,tons_within,23342.13964,thousand tons,2022
+Wisconsin,Nonmetal min. prods.,tons_out,10734.43089,thousand tons,2022
+Wisconsin,Nonmetal min. prods.,tons_in,10159.57663,thousand tons,2022
+Wisconsin,Other foodstuffs,tons_within,22130.9561,thousand tons,2022
+Wisconsin,Other foodstuffs,tons_out,8858.106626,thousand tons,2022
+Wisconsin,Other foodstuffs,tons_in,5999.159905,thousand tons,2022
+Wisconsin,Cereal grains,tons_within,19801.95326,thousand tons,2022
+Wisconsin,Cereal grains,tons_out,8081.175663,thousand tons,2022
+Wisconsin,Cereal grains,tons_in,5564.001606,thousand tons,2022
+Wisconsin,Animal feed,tons_within,15034.45293,thousand tons,2022
+Wisconsin,Animal feed,tons_out,7464.688176,thousand tons,2022
+Wisconsin,Animal feed,tons_in,4979.365709,thousand tons,2022
+Wisconsin,Coal-n.e.c.,tons_within,14605.04049,thousand tons,2022
+Wisconsin,Coal-n.e.c.,tons_out,7232.506259,thousand tons,2022
+Wisconsin,Coal-n.e.c.,tons_in,4769.64383,thousand tons,2022
+Wisconsin,Gasoline,tons_within,13038.31623,thousand tons,2022
+Wisconsin,Gasoline,tons_out,6299.460404,thousand tons,2022
+Wisconsin,Gasoline,tons_in,4769.59905,thousand tons,2022
+Wisconsin,Logs,tons_within,12789.30845,thousand tons,2022
+Wisconsin,Logs,tons_out,5093.923868,thousand tons,2022
+Wisconsin,Logs,tons_in,4110.48666,thousand tons,2022
+Wisconsin,Fuel oils,tons_within,11366.82967,thousand tons,2022
+Wisconsin,Fuel oils,tons_out,3530.498259,thousand tons,2022
+Wisconsin,Fuel oils,tons_in,4059.081934,thousand tons,2022
+Wyoming,Coal,tons_within,23400.41745,thousand tons,2022
+Wyoming,Coal,tons_out,148764.7141,thousand tons,2022
+Wyoming,Coal,tons_in,31625.72622,thousand tons,2022
+Wyoming,Coal-n.e.c.,tons_within,8715.427902,thousand tons,2022
+Wyoming,Coal-n.e.c.,tons_out,56986.62703,thousand tons,2022
+Wyoming,Coal-n.e.c.,tons_in,9665.198882,thousand tons,2022
+Wyoming,Gasoline,tons_within,3005.399307,thousand tons,2022
+Wyoming,Gasoline,tons_out,20482.94334,thousand tons,2022
+Wyoming,Gasoline,tons_in,5058.235804,thousand tons,2022
+Wyoming,Fuel oils,tons_within,2607.71634,thousand tons,2022
+Wyoming,Fuel oils,tons_out,11751.43964,thousand tons,2022
+Wyoming,Fuel oils,tons_in,1426.603958,thousand tons,2022
+Wyoming,Nonmetal min. prods.,tons_within,2270.918749,thousand tons,2022
+Wyoming,Nonmetal min. prods.,tons_out,1934.814321,thousand tons,2022
+Wyoming,Nonmetal min. prods.,tons_in,1403.2592,thousand tons,2022
+Wyoming,Gravel,tons_within,1834.93133,thousand tons,2022
+Wyoming,Gravel,tons_out,1799.339137,thousand tons,2022
+Wyoming,Gravel,tons_in,1015.099313,thousand tons,2022
+Wyoming,Basic chemicals,tons_within,1419.110908,thousand tons,2022
+Wyoming,Basic chemicals,tons_out,1447.647479,thousand tons,2022
+Wyoming,Basic chemicals,tons_in,956.751405,thousand tons,2022
+Wyoming,Logs,tons_within,1067.1406,thousand tons,2022
+Wyoming,Logs,tons_out,1366.026315,thousand tons,2022
+Wyoming,Logs,tons_in,941.951384,thousand tons,2022
+Wyoming,Waste/scrap,tons_within,884.32599,thousand tons,2022
+Wyoming,Waste/scrap,tons_out,375.002319,thousand tons,2022
+Wyoming,Waste/scrap,tons_in,550.559499,thousand tons,2022
+Wyoming,Animal feed,tons_within,847.89258,thousand tons,2022
+Wyoming,Animal feed,tons_out,298.762027,thousand tons,2022
+Wyoming,Animal feed,tons_in,444.523344,thousand tons,2022
