@@ -1,0 +1,103 @@
+Region,State,Num_of_Stations,Road_Type,Units,Date_1,Date_1_Milage,Date_2,Date_2_Milage,Date_3,Date_3_Milage,Date_4,Date_4_Milage
+Northeast,Connecticut,2,rural,vehicle-miles (millions),8/1/2022,177,8/1/2021,178,7/1/2022,176,7/1/2021,177
+Northeast,Maine,68,rural,vehicle-miles (millions),8/1/2022,621,8/1/2021,622,7/1/2022,593,7/1/2021,596
+Northeast,Massachusetts,15,rural,vehicle-miles (millions),8/1/2022,175,8/1/2021,175,7/1/2022,172,7/1/2021,171
+Northeast,New Hampshire,75,rural,vehicle-miles (millions),8/1/2022,358,8/1/2021,359,7/1/2022,360,7/1/2021,356
+Northeast,New Jersey,4,rural,vehicle-miles (millions),8/1/2022,286,8/1/2021,281,7/1/2022,277,7/1/2021,284
+Northeast,New York,44,rural,vehicle-miles (millions),8/1/2022,1381,8/1/2021,1388,7/1/2022,1389,7/1/2021,1400
+Northeast,Pennsylvania,44,rural,vehicle-miles (millions),8/1/2022,2218,8/1/2021,2264,7/1/2022,2204,7/1/2021,2305
+Northeast,Rhode Island,5,rural,vehicle-miles (millions),8/1/2022,74,8/1/2021,78,7/1/2022,69,7/1/2021,70
+Northeast,Vermont,19,rural,vehicle-miles (millions),8/1/2022,281,8/1/2021,269,7/1/2022,274,7/1/2021,271
+South Atlantic,Delaware,4,rural,vehicle-miles (millions),8/1/2022,108,8/1/2021,108,7/1/2022,91,7/1/2021,96
+South Atlantic,District of Columbia,0,rural,vehicle-miles (millions),8/1/2022,0,8/1/2021,0,7/1/2022,0,7/1/2021,0
+South Atlantic,Florida,93,rural,vehicle-miles (millions),8/1/2022,2338,8/1/2021,2265,7/1/2022,2541,7/1/2021,2555
+South Atlantic,Georgia,62,rural,vehicle-miles (millions),8/1/2022,1797,8/1/2021,1775,7/1/2022,1846,7/1/2021,1919
+South Atlantic,Maryland,7,rural,vehicle-miles (millions),8/1/2022,601,8/1/2021,600,7/1/2022,603,7/1/2021,621
+South Atlantic,North Carolina,44,rural,vehicle-miles (millions),8/1/2022,1976,8/1/2021,1988,7/1/2022,1994,7/1/2021,2066
+South Atlantic,South Carolina,56,rural,vehicle-miles (millions),8/1/2022,1626,8/1/2021,1596,7/1/2022,1660,7/1/2021,1714
+South Atlantic,Virginia,325,rural,vehicle-miles (millions),8/1/2022,1985,8/1/2021,2017,7/1/2022,1978,7/1/2021,2084
+South Atlantic,West Virginia,15,rural,vehicle-miles (millions),8/1/2022,489,8/1/2021,511,7/1/2022,492,7/1/2021,544
+North Central,Illinois,35,rural,vehicle-miles (millions),8/1/2022,1497,8/1/2021,1503,7/1/2022,1590,7/1/2021,1642
+North Central,Indiana,22,rural,vehicle-miles (millions),8/1/2022,1603,8/1/2021,1642,7/1/2022,1555,7/1/2021,1664
+North Central,Iowa,79,rural,vehicle-miles (millions),8/1/2022,1290,8/1/2021,1311,7/1/2022,1273,7/1/2021,1330
+North Central,Kansas,64,rural,vehicle-miles (millions),8/1/2022,967,8/1/2021,953,7/1/2022,1014,7/1/2021,1039
+North Central,Michigan,58,rural,vehicle-miles (millions),8/1/2022,1836,8/1/2021,1898,7/1/2022,1876,7/1/2021,1964
+North Central,Minnesota,27,rural,vehicle-miles (millions),8/1/2022,1612,8/1/2021,1580,7/1/2022,1605,7/1/2021,1591
+North Central,Missouri,84,rural,vehicle-miles (millions),8/1/2022,1770,8/1/2021,1775,7/1/2022,1797,7/1/2021,1875
+North Central,Nebraska,8,rural,vehicle-miles (millions),8/1/2022,810,8/1/2021,855,7/1/2022,816,7/1/2021,884
+North Central,North Dakota,48,rural,vehicle-miles (millions),8/1/2022,407,8/1/2021,403,7/1/2022,405,7/1/2021,415
+North Central,Ohio,53,rural,vehicle-miles (millions),8/1/2022,1784,8/1/2021,1791,7/1/2022,1767,7/1/2021,1824
+North Central,South Dakota,32,rural,vehicle-miles (millions),8/1/2022,566,8/1/2021,595,7/1/2022,555,7/1/2021,615
+North Central,Wisconsin,107,rural,vehicle-miles (millions),8/1/2022,1773,8/1/2021,1782,7/1/2022,1869,7/1/2021,1923
+South Gulf,Alabama,71,rural,vehicle-miles (millions),8/1/2022,1491,8/1/2021,1473,7/1/2022,1600,7/1/2021,1662
+South Gulf,Arkansas,10,rural,vehicle-miles (millions),8/1/2022,906,8/1/2021,926,7/1/2022,988,7/1/2021,1035
+South Gulf,Kentucky,28,rural,vehicle-miles (millions),8/1/2022,1602,8/1/2021,1595,7/1/2022,1640,7/1/2021,1747
+South Gulf,Louisiana,15,rural,vehicle-miles (millions),8/1/2022,1053,8/1/2021,1077,7/1/2022,1171,7/1/2021,1221
+South Gulf,Mississippi,51,rural,vehicle-miles (millions),8/1/2022,1231,8/1/2021,1256,7/1/2022,1302,7/1/2021,1388
+South Gulf,Oklahoma,38,rural,vehicle-miles (millions),8/1/2022,1221,8/1/2021,1236,7/1/2022,1220,7/1/2021,1303
+South Gulf,Tennessee,38,rural,vehicle-miles (millions),8/1/2022,1694,8/1/2021,1646,7/1/2022,1760,7/1/2021,1837
+South Gulf,Texas,145,rural,vehicle-miles (millions),8/1/2022,5186,8/1/2021,5192,7/1/2022,5281,7/1/2021,5427
+West,Alaska,37,rural,vehicle-miles (millions),8/1/2022,133,8/1/2021,139,7/1/2022,139,7/1/2021,145
+West,Arizona,66,rural,vehicle-miles (millions),8/1/2022,1216,8/1/2021,1195,7/1/2022,1328,7/1/2021,1295
+West,California,27,rural,vehicle-miles (millions),8/1/2022,4078,8/1/2021,4139,7/1/2022,4158,7/1/2021,4379
+West,Colorado,70,rural,vehicle-miles (millions),8/1/2022,1178,8/1/2021,1183,7/1/2022,1229,7/1/2021,1278
+West,Hawaii,13,rural,vehicle-miles (millions),8/1/2022,73,8/1/2021,71,7/1/2022,72,7/1/2021,73
+West,Idaho,110,rural,vehicle-miles (millions),8/1/2022,682,8/1/2021,691,7/1/2022,695,7/1/2021,734
+West,Montana,62,rural,vehicle-miles (millions),8/1/2022,747,8/1/2021,757,7/1/2022,781,7/1/2021,829
+West,Nevada,38,rural,vehicle-miles (millions),8/1/2022,427,8/1/2021,418,7/1/2022,433,7/1/2021,454
+West,New Mexico,8,rural,vehicle-miles (millions),8/1/2022,824,8/1/2021,911,7/1/2022,935,7/1/2021,1003
+West,Oregon,92,rural,vehicle-miles (millions),8/1/2022,999,8/1/2021,1007,7/1/2022,1005,7/1/2021,1059
+West,Utah,34,rural,vehicle-miles (millions),8/1/2022,666,8/1/2021,670,7/1/2022,708,7/1/2021,739
+West,Washington,74,rural,vehicle-miles (millions),8/1/2022,1157,8/1/2021,1133,7/1/2022,1132,7/1/2021,1164
+West,Wyoming,91,rural,vehicle-miles (millions),8/1/2022,535,8/1/2021,579,7/1/2022,563,7/1/2021,619
+Northeast,Connecticut,18,urban,vehicle-miles (millions),8/1/2022,2284,8/1/2021,2252,7/1/2022,2255,7/1/2021,2249
+Northeast,Maine,22,urban,vehicle-miles (millions),8/1/2022,290,8/1/2021,289,7/1/2022,285,7/1/2021,287
+Northeast,Massachusetts,204,urban,vehicle-miles (millions),8/1/2022,4130,8/1/2021,4075,7/1/2022,3957,7/1/2021,3977
+Northeast,New Hampshire,68,urban,vehicle-miles (millions),8/1/2022,612,8/1/2021,609,7/1/2022,609,7/1/2021,605
+Northeast,New Jersey,63,urban,vehicle-miles (millions),8/1/2022,5137,8/1/2021,5043,7/1/2022,5107,7/1/2021,5105
+Northeast,New York,59,urban,vehicle-miles (millions),8/1/2022,6118,8/1/2021,6080,7/1/2022,6034,7/1/2021,6165
+Northeast,Pennsylvania,35,urban,vehicle-miles (millions),8/1/2022,4310,8/1/2021,4348,7/1/2022,4183,7/1/2021,4355
+Northeast,Rhode Island,26,urban,vehicle-miles (millions),8/1/2022,563,8/1/2021,517,7/1/2022,507,7/1/2021,493
+Northeast,Vermont,18,urban,vehicle-miles (millions),8/1/2022,126,8/1/2021,128,7/1/2022,123,7/1/2021,126
+South Atlantic,Delaware,12,urban,vehicle-miles (millions),8/1/2022,433,8/1/2021,431,7/1/2022,390,7/1/2021,413
+South Atlantic,District of Columbia,2,urban,vehicle-miles (millions),8/1/2022,191,8/1/2021,201,7/1/2022,189,7/1/2021,207
+South Atlantic,Florida,138,urban,vehicle-miles (millions),8/1/2022,11163,8/1/2021,10678,7/1/2022,10979,7/1/2021,11033
+South Atlantic,Georgia,118,urban,vehicle-miles (millions),8/1/2022,5912,8/1/2021,5748,7/1/2022,5641,7/1/2021,5793
+South Atlantic,Maryland,36,urban,vehicle-miles (millions),8/1/2022,3322,8/1/2021,3310,7/1/2022,3243,7/1/2021,3337
+South Atlantic,North Carolina,42,urban,vehicle-miles (millions),8/1/2022,4824,8/1/2021,4828,7/1/2022,4655,7/1/2021,4830
+South Atlantic,South Carolina,47,urban,vehicle-miles (millions),8/1/2022,2276,8/1/2021,2224,7/1/2022,2226,7/1/2021,2288
+South Atlantic,Virginia,360,urban,vehicle-miles (millions),8/1/2022,4020,8/1/2021,3969,7/1/2022,3885,7/1/2021,4044
+South Atlantic,West Virginia,9,urban,vehicle-miles (millions),8/1/2022,598,8/1/2021,612,7/1/2022,587,7/1/2021,639
+North Central,Illinois,53,urban,vehicle-miles (millions),8/1/2022,5120,8/1/2021,5089,7/1/2022,4950,7/1/2021,5084
+North Central,Indiana,36,urban,vehicle-miles (millions),8/1/2022,2775,8/1/2021,2789,7/1/2022,2712,7/1/2021,2813
+North Central,Iowa,32,urban,vehicle-miles (millions),8/1/2022,952,8/1/2021,956,7/1/2022,924,7/1/2021,945
+North Central,Kansas,16,urban,vehicle-miles (millions),8/1/2022,952,8/1/2021,955,7/1/2022,910,7/1/2021,952
+North Central,Michigan,44,urban,vehicle-miles (millions),8/1/2022,5015,8/1/2021,4989,7/1/2022,4905,7/1/2021,4974
+North Central,Minnesota,9,urban,vehicle-miles (millions),8/1/2022,2179,8/1/2021,2249,7/1/2022,2207,7/1/2021,2328
+North Central,Missouri,63,urban,vehicle-miles (millions),8/1/2022,2869,8/1/2021,2830,7/1/2022,2793,7/1/2021,2890
+North Central,Nebraska,12,urban,vehicle-miles (millions),8/1/2022,648,8/1/2021,655,7/1/2022,607,7/1/2021,648
+North Central,North Dakota,10,urban,vehicle-miles (millions),8/1/2022,182,8/1/2021,187,7/1/2022,177,7/1/2021,187
+North Central,Ohio,92,urban,vehicle-miles (millions),8/1/2022,5133,8/1/2021,5065,7/1/2022,4932,7/1/2021,5076
+North Central,South Dakota,4,urban,vehicle-miles (millions),8/1/2022,234,8/1/2021,248,7/1/2022,226,7/1/2021,250
+North Central,Wisconsin,125,urban,vehicle-miles (millions),8/1/2022,2440,8/1/2021,2410,7/1/2022,2377,7/1/2021,2435
+South Gulf,Alabama,115,urban,vehicle-miles (millions),8/1/2022,2342,8/1/2021,2340,7/1/2022,2335,7/1/2021,2443
+South Gulf,Arkansas,3,urban,vehicle-miles (millions),8/1/2022,1237,8/1/2021,1271,7/1/2022,1247,7/1/2021,1287
+South Gulf,Kentucky,23,urban,vehicle-miles (millions),8/1/2022,1642,8/1/2021,1613,7/1/2022,1563,7/1/2021,1660
+South Gulf,Louisiana,14,urban,vehicle-miles (millions),8/1/2022,2096,8/1/2021,2040,7/1/2022,2002,7/1/2021,2102
+South Gulf,Mississippi,28,urban,vehicle-miles (millions),8/1/2022,1120,8/1/2021,1129,7/1/2022,1109,7/1/2021,1180
+South Gulf,Oklahoma,34,urban,vehicle-miles (millions),8/1/2022,1625,8/1/2021,1630,7/1/2022,1591,7/1/2021,1690
+South Gulf,Tennessee,29,urban,vehicle-miles (millions),8/1/2022,3649,8/1/2021,3528,7/1/2022,3383,7/1/2021,3436
+South Gulf,Texas,84,urban,vehicle-miles (millions),8/1/2022,14477,8/1/2021,14184,7/1/2022,14231,7/1/2021,14413
+West,Alaska,50,urban,vehicle-miles (millions),8/1/2022,207,8/1/2021,211,7/1/2022,201,7/1/2021,212
+West,Arizona,85,urban,vehicle-miles (millions),8/1/2022,3562,8/1/2021,3453,7/1/2022,3495,7/1/2021,3367
+West,California,56,urban,vehicle-miles (millions),8/1/2022,20513,8/1/2021,20431,7/1/2022,20874,7/1/2021,21913
+West,Colorado,40,urban,vehicle-miles (millions),8/1/2022,2878,8/1/2021,2871,7/1/2022,2738,7/1/2021,2870
+West,Hawaii,54,urban,vehicle-miles (millions),8/1/2022,481,8/1/2021,461,7/1/2022,471,7/1/2021,477
+West,Idaho,78,urban,vehicle-miles (millions),8/1/2022,569,8/1/2021,550,7/1/2022,555,7/1/2021,570
+West,Montana,14,urban,vehicle-miles (millions),8/1/2022,237,8/1/2021,230,7/1/2022,233,7/1/2021,242
+West,Nevada,38,urban,vehicle-miles (millions),8/1/2022,1360,8/1/2021,1328,7/1/2022,1301,7/1/2021,1343
+West,New Mexico,6,urban,vehicle-miles (millions),8/1/2022,747,8/1/2021,770,7/1/2022,789,7/1/2021,792
+West,Oregon,40,urban,vehicle-miles (millions),8/1/2022,1568,8/1/2021,1564,7/1/2022,1543,7/1/2021,1608
+West,Utah,77,urban,vehicle-miles (millions),8/1/2022,1607,8/1/2021,1566,7/1/2022,1517,7/1/2021,1570
+West,Washington,86,urban,vehicle-miles (millions),8/1/2022,3421,8/1/2021,3354,7/1/2022,3378,7/1/2021,3464
+West,Wyoming,25,urban,vehicle-miles (millions),8/1/2022,177,8/1/2021,180,7/1/2022,173,7/1/2021,181
